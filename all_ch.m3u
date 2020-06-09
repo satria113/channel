@@ -66,7 +66,7 @@ https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
 #EXTINF:-1, group-title="KR",K Plus
 http://210.210.155.35/session/e3afc732-c3a1-11e8-bfe5-8e058f0468b5/uq2663/h/h08/02.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-language="English" tvg-logo="https://i.ibb.co/Y84VwVC/hbo.png" group-title="MOVIES",  HBO Asia
+#EXTINF:-0 tvg-logo="https://i.ibb.co/Y84VwVC/hbo.png" group-title="MOVIES",  HBO Asia
 http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="MOVIES",  HBO FAMILY
 http://203.153.218.28:9981/stream/channelid/1316004766?ticket=8603609D96360D7B639AB97584FF09E1086B3284&profile=pass
@@ -95,11 +95,9 @@ http://45.126.83.51/uq2663/h/h04/index2.m3u8
 #EXTINF:-1 tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/11/CMW-gold-logo-for-website-loading.png" group-title="MOVIES",  CINEMA WORD HD
 http://210.210.155.35/uq2663/h/h04/index2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1c/Sony_One.png/200px-Sony_One.png" group-title="MOVIES",  SONY ONE ID
-http://210.210.155.35/session/c30d8c14-f1bc-11e8-89c0-aa35b2893d02/uq2663/h/h143/01.m3u
+http://210.210.155.35/session/c30d8c14-f1bc-11e8-89c0-aa35b2893d02/uq2663/h/h143/01.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png" group-title="MOVIES",BLUE ANT EXTREME
 http://45.126.83.51/dr9445/h/h15/01.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Rai_Movie_-_Logo_2017.svg/240px-Rai_Movie_-_Logo_2017.svg.png" group-title="MOVIES",Ray Movie
-http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 
 #EXTINF:-1 tvg-id="Channel 5" tvg-name="Channel 5" tvg-language="English" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/64/20171222_084212.jpg" group-title="SG",Channel 5
 https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master.m3u8
