@@ -49,67 +49,6 @@ http://210.210.155.35/session/e3afc732-c3a1-11e8-bfe5-8e058f0468b5/uq2663/h/h08/
 http://210.210.155.35/session/31580704-c313-11e8-86db-c81f66f89318/qwr9ew/s/s33/01.m3u8
 #EXTINF:-1, group-title="MOVIE",THRILL
 http://210.210.155.35/session/5fa607b4-c313-11e8-ac17-b82a72d63267/qwr9ew/s/s34/01.m3u8
-
-#EXTINF:-1 tvg-id="Channel 5" tvg-name="Channel 5" tvg-language="English" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/64/20171222_084212.jpg" group-title="SG",Channel 5
-https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master.m3u8
-#EXTINF:-1 tvg-id="Channel 8" tvg-name="Channel 8" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://images.mypadtv.com/hd8.jpg" group-title="SG",Channel 8
-https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master.m3u8
-#EXTINF:-1 tvg-id="Channel U" tvg-name="Channel U" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/ff/CH_U_2015.png" group-title="SG",Channel U
-https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://tv.toggle.sg/blob/11491578/7f4aa2f2af43777e0880c10acdbbb836/header3-data.jpg" group-title="SG",OKTO on 5
-https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master.m3u8
-
-#EXTINF:-1,HBO [1080] (e)
-http://tv.latintvweb.com:25461/GVN5T8z5Lz/dg1T4HwLO4/116065
-#EXTINF:-1,HBO [720] (e)
-http://tv.latintvweb.com:25461/GVN5T8z5Lz/dg1T4HwLO4/116066
-#EXTINF:-1,HBO [SD] (e)
-http://tv.latintvweb.com:25461/GVN5T8z5Lz/dg1T4HwLO4/116067
-#EXTINF:-1,HBO [1080] (e) 1
-http://tv.latintvweb.com:25461/GVN5T8z5Lz/dg1T4HwLO4/131856
-#EXTINF:-1,HBO [720] (e) 1
-http://tv.latintvweb.com:25461/GVN5T8z5Lz/dg1T4HwLO4/131857
-#EXTINF:-1,HBO [SD] (e) 1
-http://tv.latintvweb.com:25461/GVN5T8z5Lz/dg1T4HwLO4/131858
-#EXTINF:-1,HBO [1080] [Dual Audio]
-http://tv.latintvweb.com:25461/GVN5T8z5Lz/dg1T4HwLO4/75940
-#EXTINF:-1,HBO HD [Dual Audio]
-http://tv.latintvweb.com:25461/GVN5T8z5Lz/dg1T4HwLO4/75900
-#EXTINF:-1,HBO 2 [1080] (e)
-http://tv.latintvweb.com:25461/GVN5T8z5Lz/dg1T4HwLO4/88045
-#EXTINF:-1,HBO 2 [720] (e)
-http://tv.latintvweb.com:25461/GVN5T8z5Lz/dg1T4HwLO4/88046
-#EXTINF:-1,HBO 2 [SD] (e)
-http://tv.latintvweb.com:25461/GVN5T8z5Lz/dg1T4HwLO4/88047
-#EXTINF:-1,HBO 2 [1080] [Dual Audio]
-http://tv.latintvweb.com:25461/GVN5T8z5Lz/dg1T4HwLO4/75938
-#EXTINF:-1,HBO 2 HD [Dual Audio]
-http://tv.latintvweb.com:25461/GVN5T8z5Lz/dg1T4HwLO4/75898
-#EXTINF:-1,HBO FAMILY [1080] (e)
-http://tv.latintvweb.com:25461/GVN5T8z5Lz/dg1T4HwLO4/88048
-#EXTINF:-1,HBO FAMILY [720] (e)
-http://tv.latintvweb.com:25461/GVN5T8z5Lz/dg1T4HwLO4/88049
-#EXTINF:-1,HBO FAMILY [SD] (e)
-http://tv.latintvweb.com:25461/GVN5T8z5Lz/dg1T4HwLO4/88050
-#EXTINF:-1,HBO Family [1080] [Dual Audio]
-http://tv.latintvweb.com:25461/GVN5T8z5Lz/dg1T4HwLO4/75939
-#EXTINF:-1,HBO Family HD [Dual Audio]
-http://tv.latintvweb.com:25461/GVN5T8z5Lz/dg1T4HwLO4/75899
-#EXTINF:-1,HBO SIGNATURE [1080] (e)
-http://tv.latintvweb.com:25461/GVN5T8z5Lz/dg1T4HwLO4/96379
-#EXTINF:-1,HBO SIGNATURE [720] (e)
-http://tv.latintvweb.com:25461/GVN5T8z5Lz/dg1T4HwLO4/96380
-#EXTINF:-1,HBO SIGNATURE [SD] (e)
-http://tv.latintvweb.com:25461/GVN5T8z5Lz/dg1T4HwLO4/96381
-#EXTINF:-1,HBO Signature [1080] [Dual Audio]
-http://tv.latintvweb.com:25461/GVN5T8z5Lz/dg1T4HwLO4/75942
-#EXTINF:-1,HBO Signature [720] [Dual Audio]
-http://tv.latintvweb.com:25461/GVN5T8z5Lz/dg1T4HwLO4/75902
-#EXTINF:-1,HBO Plus [1080] [Dual Audio]
-http://tv.latintvweb.com:25461/GVN5T8z5Lz/dg1T4HwLO4/75941
-#EXTINF:-1,HBO Plus HD [Dual Audio]
-http://tv.latintvweb.com:25461/GVN5T8z5Lz/dg1T4HwLO4/75901
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/320px-HBO_logo.svg.png" group-title="Movie", HBO ID
 http://203.153.218.28:9981/stream/channelid/1299824667?ticket=EDA811CE90A26AD414D02B63E0A9171A68A9454C&profile=pass
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="Movie",HBO FAMILY
@@ -136,10 +75,18 @@ http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/af/CMC_English_full_color_black_text_2.jpg" group-title="Movie",CELESTIAL MOVIE ID HD
 http://210.210.155.35/session/31580704-c313-11e8-86db-c81f66f89318/qwr9ew/s/s33/01.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/9b/CCM_Celestial_Classic_Movies.jpg/revision/latest?cb=20120620033034" group-title="Movie",Celestial Clasic Movie MY
-http://iliketot.dyndns.tv/1c2276a2f1884b269ce281c3334e8f85.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni82LzIwMTggMjo1Nzo0OCBBTSZoYXNoX3ZhbHVlPVAwSk5CRlBPTGwvRXJDRFMrTFZBS0E9PSZ2YWxpZG1pbnV0ZXM9MSZpZD1zazJrNGJwfDkxMnx1cGxheXwxNTI4MjUzODY4fDIwMi4yOC40MS4xNDQ=
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png" group-title="MOVIE",BLUE ANT EXTREME
 http://45.126.83.51/dr9445/h/h15/01.m3u8
+
+#EXTINF:-1 tvg-id="Channel 5" tvg-name="Channel 5" tvg-language="English" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/64/20171222_084212.jpg" group-title="SG",Channel 5
+https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master.m3u8
+#EXTINF:-1 tvg-id="Channel 8" tvg-name="Channel 8" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://images.mypadtv.com/hd8.jpg" group-title="SG",Channel 8
+https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master.m3u8
+#EXTINF:-1 tvg-id="Channel U" tvg-name="Channel U" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/ff/CH_U_2015.png" group-title="SG",Channel U
+https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://tv.toggle.sg/blob/11491578/7f4aa2f2af43777e0880c10acdbbb836/header3-data.jpg" group-title="SG",OKTO on 5
+https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://devanyahya.web.id/rctilogo.png" group-title="LOKAL",  RCTI
 http://livetvhooq.akamaized.net/d182c52b34984076be9817e526e2bb5e/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1536005902~exp=9007200790746893~acl=/d182c52b34984076be9817e526e2bb5e/*/profile_0/chunklist.m3u8*~hmac=d3f38106d3b48f97b8cd3ff97e7e6d25a3f843a0875815c231a14b29bdd3ef34
