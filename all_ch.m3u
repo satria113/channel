@@ -1,11 +1,41 @@
 #EXTM3U
 
-#EXTINF:-1, group-title="NEWS",METROTV HD
+#EXTINF:-1, group-title="LOKAL",METROTV HD
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
-#EXTINF:-1, group-title="NEWS",CNN ID
+#EXTINF:-1, group-title="LOKAL",CNN ID
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
-#EXTINF:-1, group-title="NEWS",BERITA SATU
+#EXTINF:-1, group-title="LOKAL",BERITA SATU
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_cnnindonesia_big1.png?v=1.0.0.0" group-title="LOKAL",  CNN ID
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_cnnindonesia_big1.png?v=1.0.0.0" group-title="LOKAL",  CNN ID HD
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1705215623_b384000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="LOKAL", CNBC INDONESIA HD
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_transtv_big1.png?v=1.0.0.0" group-title="LOKAL",  TRANS TV
+http://video.detik.com/transtv/smil:transtv.smil/chunklist_w1742067075_b384000_sleng.m3u8?regieaerlays
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_trans7_big1.png?v=1.0.0.0" group-title="LOKAL",  TRANS7
+http://video.detik.com/trans7/smil:trans7.smil/chunklist_w798109995_b384000_sleng.m3u8?regieaerlays
+#EXTINF:-1,tvg-logo="http://images2.useetv.com/logo_tvone_big1.png?v=1.0.0.0" group-title="LOKAL", TVRI Sports
+http://210.210.155.35/session/69e800f6-97c0-11e9-888f-b82a72d63267/qwr9ew/s/s107/index.m3u8
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_rtv_big1.png?v=1.0.0.0" group-title="LOKAL",  RAJAWALI TV HD
+http://210.210.155.35/session/08fb7806-059c-11e9-9d77-c81f66f89318/qwr9ew/s/s12/01.m3u8
+#EXTINF:-1  tvg-logo="http://wallperio.com/data/out/263/naruto-wallpaper-hd_610191579.jpg" group-title="LOKAL", NET TV SD
+http://210.210.155.35/qwr9ew/s/s08/01.m3u8
+#EXTINF:-1  tvg-logo="http://wallperio.com/data/out/263/naruto-wallpaper-hd_610191579.jpg" group-title="LOKAL", NET TV HD
+http://210.210.155.35/qwr9ew/s/s08/02.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.beritasatu.tv/wp-content/themes/beritasatu/images/beritasatu-news-ch.png" group-title="LOKAL",  BERITA SATU
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.beritasatu.tv/wp-content/themes/beritasatu/images/beritasatu-news-ch.png" group-title="LOKAL",  BERITA SATU HD
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-yV30JH3e3MM/W492MLDRaxI/AAAAAAAABpI/cvQJkQXp_Qwzz86PJ7bjNwpX2081QZdAACLcBGAs/h120/metrotv.png" group-title="LOKAL",Metro TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2076301259_b1492000_sleng.m3u8
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_metrotv_big1.png?v=1.0.0.0" group-title="LOKAL",  METRO TV HD
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/master.m3u8
+
+
 #EXTINF:-1 tvg-id="Channel NewsAsia" tvg-name="Channel NewsAsia" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" group-title="NEWS",CNA HD
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-id="BBC World News UK" tvg-name="BBC World News UK" tvg-language="English" tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="NEWS",BBC World News
@@ -78,93 +108,6 @@ https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master.m3u8
 https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://devanyahya.web.id/rctilogo.png" group-title="LOKAL",  RCTI
-http://livetvhooq.akamaized.net/d182c52b34984076be9817e526e2bb5e/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1536005902~exp=9007200790746893~acl=/d182c52b34984076be9817e526e2bb5e/*/profile_0/chunklist.m3u8*~hmac=d3f38106d3b48f97b8cd3ff97e7e6d25a3f843a0875815c231a14b29bdd3ef34
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="LOKAL",RCTI HD
-https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
-
-#EXTINF:-1 tvg-logo="https://devanyahya.web.id/mnclogo.png" group-title="LOKAL",  MNC
-http://livetvhooq.akamaized.net/3127bcd58c9149b298b664b1ec828285/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1536005897~exp=9007200790746888~acl=/3127bcd58c9149b298b664b1ec828285/*/profile_0/chunklist.m3u8*~hmac=99928fa4d986fe186b165d47ed653d126327c06e772b228dbf2b4387beda9502
-
-#EXTINF:-1 tvg-logo="https://devanyahya.web.id/logo_globaltv_big1.png" group-title="LOKAL",  GTV
-http://livetvhooq.akamaized.net/23cf552372cb459795ca683f9cc306d8/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1536005897~exp=9007200790746888~acl=/23cf552372cb459795ca683f9cc306d8/*/profile_1/chunklist.m3u8*~hmac=41e55cd90f1806ca59b56a1c266cc150ab4d70047b87019fc7db29c07c678d42
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="LOKAL",GLOBALTV HD
-https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
-
-#EXTINF:0 tvg-logo="https://www.tvikim.my/images/logo-header.png" group-title="LOKAL",Indosiar
-http://203.153.218.28:9981/stream/channelid/261435212?ticket=B10B2C8D7C5EF65FE04AEAF62383D6B3647ED987&profile=pass
-
-#EXTINF:-1 tvg-ID="" tvg-name="SCTV" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/TCSGjxG6PuIyYzQE2LNFqTgEcng=/172x96/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-150be8.jpg" group-title="LOKAL",SCTV
-http://id1.indostreamingtv.com:80/live/sctv/index.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="LOKAL",SCTV
-http://210.210.155.35/qwr9ew/s/s103/01.m3u8
-
-#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_antv_big1.png?v=1.0.0.0" group-title="LOKAL",  ANTV
-http://202.80.222.170/000001/2/ch14061215034900095272/index.m3u8?
-
-
-#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_transtv_big1.png?v=1.0.0.0" group-title="LOKAL",  TRANS TV
-http://video.detik.com/transtv/smil:transtv.smil/chunklist_w1742067075_b384000_sleng.m3u8?regieaerlays
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-yHJm3fA43eY/W492HxU-otI/AAAAAAAABpA/9Y3uXWB5EKUCJaRrPXiDJodaK-uwQ2g7wCLcBGAs/h120/transtv.png" group-title="LOKAL",TRANS TV
-http://id2.indostreamingtv.com/live/tv33/index.m3u
-
-#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_trans7_big1.png?v=1.0.0.0" group-title="LOKAL",  TRANS7
-http://video.detik.com/trans7/smil:trans7.smil/chunklist_w798109995_b384000_sleng.m3u8?regieaerlays
-
-#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_tvone_big1.png?v=1.0.0.0" group-title="LOKAL",  TV ONE
-http://id1.indostreamingtv.com/live/tv444/index.m3u8?regieaerlays
-
-#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_tvone_big1.png?v=1.0.0.0" group-title="LOKAL",  TV ONE backup
-http://id1.indostreamingtv.com/live/tv444/index.m3u8
-
-#EXTINF:-1,tvg-logo="http://images2.useetv.com/logo_tvone_big1.png?v=1.0.0.0" group-title="LOKAL", TVRI Sports
-http://210.210.155.35/session/69e800f6-97c0-11e9-888f-b82a72d63267/qwr9ew/s/s107/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_rtv_big1.png?v=1.0.0.0" group-title="LOKAL",  RAJAWALI TV HD
-http://210.210.155.35/session/08fb7806-059c-11e9-9d77-c81f66f89318/qwr9ew/s/s12/01.m3u8
-
-#EXTINF:-1  tvg-logo="http://wallperio.com/data/out/263/naruto-wallpaper-hd_610191579.jpg" group-title="LOKAL", NET TV SD
-http://210.210.155.35/qwr9ew/s/s08/01.m3u8
-
-#EXTINF:-1  tvg-logo="http://wallperio.com/data/out/263/naruto-wallpaper-hd_610191579.jpg" group-title="LOKAL", NET TV HD
-http://210.210.155.35/qwr9ew/s/s08/02.m3u8
-
-#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_cnnindonesia_big1.png?v=1.0.0.0" group-title="LOKAL",  CNN INDONESIA
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_cnnindonesia_big1.png?v=1.0.0.0" group-title="LOKAL",  CNN INDONESIA HD
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1705215623_b384000_sleng.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="LOKAL",INEWS HD
-https://live.rctiplus.id/rctiplus/inews_720p.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="LOKAL", CNBC INDONESIA HD
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.beritasatu.tv/wp-content/themes/beritasatu/images/beritasatu-news-ch.png" group-title="LOKAL",  BERITA SATU
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-yV30JH3e3MM/W492MLDRaxI/AAAAAAAABpI/cvQJkQXp_Qwzz86PJ7bjNwpX2081QZdAACLcBGAs/h120/metrotv.png" group-title="LOKAL",Metro TV
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2076301259_b1492000_sleng.m3u8
-
-#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_metrotv_big1.png?v=1.0.0.0" group-title="LOKAL",  METRO TV
-http://livetvhooq.akamaized.net/d7236670539144e0a5df0b8fa7a0c5c1/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1570264475~exp=9007200825005466~acl=/d7236670539144e0a5df0b8fa7a0c5c1/*/profile_0/chunklist.m3u8*~hmac=113d2c8fce5c53bb675720b941b70c7a1bee5a01529d4041868efa3372a0c045
-
-#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_metrotv_big1.png?v=1.0.0.0" group-title="LOKAL",  METRO TV HD
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/master.m3u8
-
-#EXTINF:-1 group-title="LOKAL", BERITA SATU WORLD
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.beritasatu.tv/wp-content/themes/beritasatu/images/beritasatu-news-ch.png" group-title="LOKAL",  BERITA SATU HD
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_intv_big1.png?v=1.0.0.0" group-title="LOKAL",  IN TV
-https://edge.nim.mivo.tv/intv6vkhr543hkwt/intv_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/79/37/9e/79379ebe8f8398aeb819899a1468ae81.png" group-title="KIDS",  DISNEY JUNIOR
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
