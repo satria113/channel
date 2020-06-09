@@ -2,30 +2,45 @@
 
 #EXTINF:-1, group-title="NEWS",METROTV HD
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
-#EXTINF:-1, group-title="NEWS",CNN
+#EXTINF:-1, group-title="NEWS",CNN ID
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
 #EXTINF:-1, group-title="NEWS",BERITA SATU
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b846000.m3u8
-#EXTINF:-1, group-title="NEWS",BERITA SATU WORLD
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
 #EXTINF:-1 tvg-id="Channel NewsAsia" tvg-name="Channel NewsAsia" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" group-title="NEWS",CNA HD
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-id="BBC World News UK" tvg-name="BBC World News UK" tvg-language="English" tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="NEWS",BBC World News
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/YDsgbyisWWU/maxresdefault.jpg" group-title="NEWS",BBC World News
+http://203.153.218.28:9981/stream/channelid/861591723?ticket=F0599E847F90B5FE81ADFE5AD5296885A461DA19&profile=pass
+#EXTINF:-1  tvg-logo="https://en.wikipedia.org/wiki/Sky_News#/media/File:Sky-news-logo.png" group-title="NEWS", SKY NEWS
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+#EXTINF:0 tvg-logo="https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif" group-title="NEWS",CNBC International
+http://203.153.218.28:9981/stream/channelid/1744735983?ticket=07E4904EDFA549D56E57107CB6140923FE593775&profile=pass
+#EXTINF:0 tvg-logo="https://cdn.cnn.com/cnn/.e1mo/img/4.0/logos/CNN_logo_400x400.png" group-title="NEWS",CNN International
+http://203.153.218.28:9981/stream/channelid/1328589592?ticket=3F51EE4F59F75B214C132FBC6D457D6E252DB447&profile=pass
+#EXTINF:0 tvg-logo="https://www.trailappliances.com/media/wysiwyg/brands/blomberg/Blomberg-logo-colour_500.png" group-title="NEWS",Bloomberg International
+http://203.153.218.28:9981/stream/channelid/78064174?ticket=4490D953FCAC1483DE94BE2C4D1F241E5319BCD8&profile=pass
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="NEWS",BLOOMBERG ASIA
+http://45.126.83.51/uq2663/h/h03/index2.m3u8
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/876772485215141889/k58i8c8N_400x400.jpg" group-title="NEWS",Channel News Asia
+http://rr.dens.tv/h/h29/index2.m3u8
+#EXTINF:0 tvg-logo="http://images2.useetv.com/logo_aljazeera_big1.png" group-title="NEWS",Al Jazeera
+http://rr2.dens.tv/s/s17/index2.m3u8
+#EXTINF:0 tvg-logo="http://images2.useetv.com/logo_euronews_big1.png" group-title="NEWS",EURONEWS
+http://rr2.dens.tv/s/s15/index2.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="NEWS",EURONEWS TV
+http://45.126.83.51/qwr9ew/s/s15/index2.m3u8
+#EXTINF:0 tvg-logo="http://main.mzmediahost.com/wp-content/uploads/2015/10/Logos_FRANCE24_RVB_2013.svg_.png" group-title="NEWS",France24
+http://rr2.dens.tv/s/s22/index2.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="NEWS", FRANCE24
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/wB9CkPG.jpg" group-title="SPORT",Fight Sports
 http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://pbs.twimg.com/media/DfLqnf4VMAA0m27.png" group-title="SPORT",Bek Sports East
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/876772485215141889/k58i8c8N_400x400.jpg" group-title="NEWS",Channel News Asia
-http://rr.dens.tv/h/h29/index2.m3u8
-#EXTINF:0 tvg-logo="http://images2.useetv.com/logo_euronews_big1.png" group-title="NEWS",EURONEWS
-http://rr2.dens.tv/s/s15/index2.m3u8
-#EXTINF:0 tvg-logo="http://main.mzmediahost.com/wp-content/uploads/2015/10/Logos_FRANCE24_RVB_2013.svg_.png" group-title="NEWS",France24
-http://rr2.dens.tv/s/s22/index2.m3u8
-#EXTINF:0 tvg-logo="http://images2.useetv.com/logo_aljazeera_big1.png" group-title="NEWS",Al Jazeera
-http://rr2.dens.tv/s/s17/index2.m3u8
 
 #EXTINF:-1, group-title="KR",K Plus
 http://210.210.155.35/session/e3afc732-c3a1-11e8-bfe5-8e058f0468b5/uq2663/h/h08/02.m3u8
@@ -43,90 +58,6 @@ https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master.m3u8
 https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://tv.toggle.sg/blob/11491578/7f4aa2f2af43777e0880c10acdbbb836/header3-data.jpg" group-title="SG",OKTO on 5
 https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES",HBO
-http://161.0.157.38/PLTV/88888888/224/3221226127/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES",HBO 2
-http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
-
-#EXTINF:-1,HBO HD [Dual audio]
-http://iptv.wtf:8080/yablmqtt/p55nx9fFX7/11494
-
-#EXTINF:-1,HBO 2 HD [Dual audio]
-http://iptv.wtf:8080/yablmqtt/p55nx9fFX7/11493
-
-#EXTINF:-1,HBO Plus HD [Dual audio]
-http://iptv.wtf:8080/yablmqtt/p55nx9fFX7/11492
-
-#EXTINF:-1,HBO Family HD [Dual audio]
-http://iptv.wtf:8080/yablmqtt/p55nx9fFX7/11486
-
-#EXTINF:-1,HBO Signature HD [Dual audio]
-http://iptv.wtf:8080/yablmqtt/p55nx9fFX7/11491
-
-#EXTINF:-1,HBO Full HD
-http://iptv.wtf:8080/yablmqtt/p55nx9fFX7/16202
-
-#EXTINF:-1,HBO Full HD *
-http://iptv.wtf:8080/yablmqtt/p55nx9fFX7/17115
-
-#EXTINF:-1,HBO Full HD (Subtítulos)
-http://iptv.wtf:8080/yablmqtt/p55nx9fFX7/18004
-
-#EXTINF:-1,HBO 2 Full HD
-http://iptv.wtf:8080/yablmqtt/p55nx9fFX7/16203
-
-#EXTINF:-1,HBO 2 Full HD *
-http://iptv.wtf:8080/yablmqtt/p55nx9fFX7/17117
-
-#EXTINF:-1,HBO Plus Full HD
-http://iptv.wtf:8080/yablmqtt/p55nx9fFX7/16206
-
-#EXTINF:-1,HBO Plus Full HD *
-http://iptv.wtf:8080/yablmqtt/p55nx9fFX7/17114
-
-#EXTINF:-1,HBO Family Full HD
-http://iptv.wtf:8080/yablmqtt/p55nx9fFX7/16204
-
-#EXTINF:-1,HBO Family Full HD *
-http://iptv.wtf:8080/yablmqtt/p55nx9fFX7/17116
-
-#EXTINF:-1,HBO Signature Full HD
-http://iptv.wtf:8080/yablmqtt/p55nx9fFX7/16205
-
-#EXTINF:-1,HBO Signature Full HD *
-http://iptv.wtf:8080/yablmqtt/p55nx9fFX7/17113
-
-#EXTINF:-1,HBO HD (Subtítulos)
-http://iptv.wtf:8080/yablmqtt/p55nx9fFX7/18005
-
-#EXTINF:-1,HBO 2 HD
-http://iptv.wtf:8080/yablmqtt/p55nx9fFX7/4732
-
-#EXTINF:-1,HBO Family HD
-http://iptv.wtf:8080/yablmqtt/p55nx9fFX7/4731
-
-#EXTINF:-1,HBO Plus HD
-http://iptv.wtf:8080/yablmqtt/p55nx9fFX7/4729
-
-#EXTINF:-1,HBO Signature HD
-http://iptv.wtf:8080/yablmqtt/p55nx9fFX7/4728
-
-#EXTINF:-1,HBO
-http://iptv.wtf:8080/yablmqtt/p55nx9fFX7/17020
-
-#EXTINF:-1,HBO 2
-http://iptv.wtf:8080/yablmqtt/p55nx9fFX7/17019
-
-#EXTINF:-1,HBO Family
-http://iptv.wtf:8080/yablmqtt/p55nx9fFX7/17018
-
-#EXTINF:-1,HBO Plus
-http://iptv.wtf:8080/yablmqtt/p55nx9fFX7/17016
-
-#EXTINF:-1,HBO Signature
-http://iptv.wtf:8080/yablmqtt/p55nx9fFX7/14293
 
 #EXTINF:-1,HBO [1080] (e)
 http://tv.latintvweb.com:25461/GVN5T8z5Lz/dg1T4HwLO4/116065
@@ -466,29 +397,5 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
 
 #EXTINF:-1  tvg-logo="https://en.wikipedia.org/wiki/Bloomberg_Television#/media/File:Bloomberg_Television_2016.png" group-title="NEWS", BLOOMBERG
 https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
-
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="NEWS", FRANCE24
-http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
-
-#EXTINF:-1  tvg-logo="https://en.wikipedia.org/wiki/Sky_News#/media/File:Sky-news-logo.png" group-title="NEWS", SKY NEWS
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
-
-#EXTINF:0 tvg-logo="https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif" group-title="NEWS",CNBC International
-http://203.153.218.28:9981/stream/channelid/1744735983?ticket=07E4904EDFA549D56E57107CB6140923FE593775&profile=pass
-
-#EXTINF:0 tvg-logo="https://cdn.cnn.com/cnn/.e1mo/img/4.0/logos/CNN_logo_400x400.png" group-title="NEWS",CNN International
-http://203.153.218.28:9981/stream/channelid/1328589592?ticket=3F51EE4F59F75B214C132FBC6D457D6E252DB447&profile=pass
-
-#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/YDsgbyisWWU/maxresdefault.jpg" group-title="NEWS",BBC World News
-http://203.153.218.28:9981/stream/channelid/861591723?ticket=F0599E847F90B5FE81ADFE5AD5296885A461DA19&profile=pass
-
-#EXTINF:0 tvg-logo="https://www.trailappliances.com/media/wysiwyg/brands/blomberg/Blomberg-logo-colour_500.png" group-title="NEWS",Bloomberg International
-http://203.153.218.28:9981/stream/channelid/78064174?ticket=4490D953FCAC1483DE94BE2C4D1F241E5319BCD8&profile=pass
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="NEWS",BLOOMBERG ASIA
-http://45.126.83.51/uq2663/h/h03/index2.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="NEWS",EURONEWS TV
-http://45.126.83.51/qwr9ew/s/s15/index2.m3u8
 
 #EXTINF:0,[THE END]
