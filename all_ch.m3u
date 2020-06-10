@@ -84,13 +84,13 @@ http://203.153.218.28:9981/stream/channelid/1949182550?ticket=39C98E4111054C7CF2
 http://210.210.155.35/session/31580704-c313-11e8-86db-c81f66f89318/qwr9ew/s/s33/01.m3u8
 #EXTINF:-1 tvg-logo="http://singteltv.com.sg/_channels/pic_ch585.jpg" group-title="MOVIES",  CELESTIAL MOVIES
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
-#EXTINF:-1 tvg-logo="http://cdn2.tstatic.net/makassar/foto/bank/images/thrill1_20160505_105220.jpg" group-title="MOVIES",  Thrill HD
+#EXTINF:-1 tvg-logo="http://cdn2.tstatic.net/makassar/foto/bank/images/thrill1_20160505_105220.jpg" group-title="MOVIES",  thrill HD
 http://210.210.155.35/session/5fa607b4-c313-11e8-ac17-b82a72d63267/qwr9ew/s/s34/01.m3u8
 #EXTINF:-1 tvg-logo="http://cdn2.tstatic.net/makassar/foto/bank/images/thrill1_20160505_105220.jpg" group-title="MOVIES",  thrill HD
 http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8
 #EXTINF:-1 tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/11/CMW-gold-logo-for-website-loading.png" group-title="MOVIES",  CINEMA WORLD
 http://45.126.83.51/uq2663/h/h04/index2.m3u8
-#EXTINF:-1 tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/11/CMW-gold-logo-for-website-loading.png" group-title="MOVIES",  CINEMA WORD HD
+#EXTINF:-1 tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/11/CMW-gold-logo-for-website-loading.png" group-title="MOVIES",  CINEMA WORLD HD
 http://210.210.155.35/uq2663/h/h04/index2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1c/Sony_One.png/200px-Sony_One.png" group-title="MOVIES",  SONY ONE ID
 http://210.210.155.35/session/c30d8c14-f1bc-11e8-89c0-aa35b2893d02/uq2663/h/h143/01.m3u8
