@@ -29,6 +29,60 @@ http://210.210.155.35/qwr9ew/s/s08/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="http://www.daaitv.co.id/DAAI-WP/wp-content/uploads/2017/11/logo_no_text.gif" tvg-country="ID" tvg-url="" group-title="LOCAL",  Da Ai ID
 http://210.210.155.35/qwr9ew/s/s13/index.m3u8
 
+#EXTINF:-1 tvg-ID="" tvg-name="Local 2 - TRANS TV HD" tvg-logo="" group-title="Local 2",Local - TRANS TV HD
+http://stream-04.sg1.dailymotion.com/dm/3/x6p1gw7/live-2.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="Local 2 - RCTI" tvg-logo="" group-title="Local 2",Local - RCTI
+http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-ID="" tvg-name="Local 2 - SCTV" tvg-logo="" group-title="Local 2",Local - SCTV
+http://202.80.222.178/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-ID="" tvg-name="Local 2 - INDOSIAR" tvg-logo="" group-title="Local 2",Local - INDOSIAR
+http://202.80.222.179/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-ID="" tvg-name="Local 2 - ANTV" tvg-logo="" group-title="Local 2",Local - ANTV
+http://202.80.222.170/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-ID="" tvg-name="Local 2 - GLOBAL TV" tvg-logo="" group-title="Local 2",Local - GLOBAL TV
+http://202.80.222.175/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-ID="" tvg-name="Local 2 - NET TV HD" tvg-logo="" group-title="Local 2",Local - NET TV HD
+http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="Local 2 - MNC TV" tvg-logo="" group-title="Local 2",Local - MNC TV
+http://202.80.222.182/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-ID="" tvg-name="Local 2 - RAJAWALI TV" tvg-logo="" group-title="Local 2",Local - RAJAWALI TV
+http://202.80.222.170/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-ID="" tvg-name="Local 2 - KOMPAS TV" tvg-logo="" group-title="Local 2",Local - KOMPAS TV
+http://202.80.222.182/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-ID="" tvg-name="Local 2 - METRO TV" tvg-logo="" group-title="Local 2",Local - METRO TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="Local 2 - TV ONE" tvg-logo="" group-title="Local 2",Local - TV ONE
+http://202.80.222.182/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-ID="" tvg-name="Local 2 - BERITA SATU" tvg-logo="" group-title="Local 2",Local - BERITA SATU
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="Local 2 - CNN INDONESIA" tvg-logo="" group-title="Local 2",Local - CNN INDONESIA
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="Local 2 - INEWS" tvg-logo="" group-title="Local 2",Local - INEWS
+http://202.80.222.171:80/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-ID="" tvg-name="Local 2 - TVRI" tvg-logo="" group-title="Local 2",Local - TVRI
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="Local 2 - INTV" tvg-logo="" group-title="Local 2",Local - INTV
+http://edge.nim.mivo.tv/intv6vkhr543hkwt/intv_all/playlist.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="Local 2 - JAK TV" tvg-logo="" group-title="Local 2",Local - JAK TV
+http://202.80.222.169:80/000001/2/ch00000090990000001695/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
 #EXTINF:-1 tvg-id="Channel NewsAsia" tvg-name="Channel NewsAsia" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" group-title="NEWS",  CNA HD
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-id="BBC World News UK" tvg-name="BBC World News UK" tvg-language="English" tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="NEWS",  BBC World News
@@ -214,46 +268,6 @@ http://203.153.218.28:9981/stream/channelid/1943600623?ticket=694FA36A0D756D8572
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/250px-Afc_logo.svg.png" group-title="SCIENCE",  ASIAN FOOD NET
 http://203.153.218.28:9981/stream/channelid/1092664456?ticket=E20984982529618B739BCAB7412D568D65147A93&profile=pass
 
-
-#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png,a湖南衛視 HD
-http://ivi.bupt.edu.cn/hls/hunanhd.m3u8
-
-#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png,a東方衛視 HD
-http://ivi.bupt.edu.cn/hls/dfhd.m3u8
-
-#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png,a江蘇衛視 HD
-http://ivi.bupt.edu.cn/hls/jshd.m3u8
-
-#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/66/ZTV_logo.png",a浙江衛視HD1
-http://121.31.30.90:8085/ysten-business/live/hdzhejiangstv/yst.m3u8
-
-#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/66/ZTV_logo.png",a浙江衛視HD2
-http://121.31.30.90:8085/ysten-business/live/hdzhejiangstv/1.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="aMOVIES",中文Hollywood Movies 1
-http://dlhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="aMOVIES",中文Hollywood Movies 2
-http://ws4.streamhls.huya.com/huyalive/29106097-2689279104-11550365801496182784-2777026902-10057-A-0-1_1200/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="aMOVIES",中文Hollywood Movies 3
-http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="aMOVIES",中文Hollywood Movies 4
-http://ws4.streamhls.huya.com/huyalive/29106097-2689448236-11551092217904889856-2789274572-10057-A-0-1_1200/playlist.m3u8?thebestfreeenglishchannels.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="aMOVIES",中文Hollywood Movies 6
-http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="aMOVIES",中文Hollywood Movies 7
-http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="aMOVIES",中文Hollywood Movies 8
-http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="aMOVIES",中文Hollywood Movies 11
-http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES",HBO
 http://161.0.157.38/PLTV/88888888/224/3221226127/index.m3u8
 
@@ -269,17 +283,8 @@ http://80.80.160.168/live/7/live.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES",FOX MOVIES
 http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES",RAI MOVIE
-http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES",byuTV
-https://byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master_4064.m3u8
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES",FOX MOVIES COMEDY
 http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.starcat.co.jp/ch/wp-content/uploads/ch/57.jpg" group-title="JAPAN",日本Japanet Channel DX
-http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pbs.twimg.com/profile_images/474926025768312833/TUAQCppN.png" group-title="JAPAN",日本NTV News24
 http://www.news24.jp/livestream/index.m3u8
@@ -314,15 +319,6 @@ http://live.italkdd.com/cds160/hls/channel016/channel016_2000.m3u8
 #EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/Phoenix_Chinese.svg/180px-Phoenix_Chinese.svg.png",鳳凰美洲
 http://live.italkdd.com/cds160/hls/channel001/channel001_2000.m3u8
 
-#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",香港电影频道
-http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
-
-#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",台灣-中天新聞
-http://60.199.188.61/HLS/WG_ETTV-N/index.m3u8
-
-#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",台灣-壹新闻2
-http://ax.micaesoft.com/YMitv/YMITV_CN_eratv.m3u8
-
 #EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",澳亚卫视
 http://stream.mastvnet.com/MASTV/sd/live.m3u8
 
@@ -341,14 +337,8 @@ http://122.155.180.8:5021/live/457
 #EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png,Fashion TV HD
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 
-#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",MTV
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
-
 #EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png,CBS
 http://161.0.157.50/PLTV/88888888/224/3221227041/index.m3u8
-
-#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png,卡通MIAO MI
-https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES",CNN
 http://161.0.157.7/PLTV/88888888/224/3221226781/index.m3u8
@@ -356,23 +346,14 @@ http://161.0.157.7/PLTV/88888888/224/3221226781/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES",MTV
 http://161.0.157.5/PLTV/88888888/224/3221226825/index.m3u8
 
-#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",CBN
-http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
-
 #EXTINF:-1 tvg-id="CCTV-1" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-1/C1JSKDXTB.png",央視CCTV-1综合
 http://183.207.248.71:80/cntv/live1/CCTV-1/cctv-1
-
-#EXTINF:-1 tvg-id="CCTV-1" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-1/C1JSKDXTB.png",央視CCTV-1綜合HD
-http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
 
 #EXTINF:-1 tvg-id="CCTV-2" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-2/C2JSKDXTB.png",央視CCTV-2财经
 http://183.207.248.71:80/cntv/live1/CCTV-2/cctv-2
 
 #EXTINF:-1 tvg-id="CCTV-3" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-3/C3JSKDXTB.png",央視CCTV-3综艺
 http://183.207.248.71:80/cntv/live1/CCTV-3/cctv-3
-
-#EXTINF:-1 tvg-id="CCTV-3" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-3/C3JSKDXTB.png",央視CCTV-3文藝HD
-http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
 
 #EXTINF:-1 tvg-id="CCTV-4" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-4/CJSKDXTB.png",央視CCTV-4中文国际
 http://183.207.248.71:80/cntv/live1/CCTV-4/cctv-4
@@ -383,17 +364,8 @@ http://183.207.248.71:80/cntv/live1/CCTV-5/cctv-5
 #EXTINF:-1 tvg-id="CCTV5+" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/hdcctv05plus/C55JSKDXTB.png",央視CCTV-5+体育赛事
 http://183.207.248.71:80/cntv/live1/CCTV5+/hdcctv05plus
 
-#EXTINF:-1 tvg-id="CCTV5+" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/hdcctv05plus/C55JSKDXTB.png",央視CCTV-5+體育直播HD
-http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
-
 #EXTINF:-1 tvg-id="CCTV-6" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-6/C6JSKDXTB.png",央視CCTV-6电影
 http://183.207.248.71:80/cntv/live1/CCTV-6/cctv-6
-
-#EXTINF:-1 tvg-id="CCTV-6" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-6/C6JSKDXTB.png",央視CCTV-6電影HD
-http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
-
-#EXTINF:-1 tvg-id="cctv-8" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-8/C8JSKDXTB.png",央視CCTV-8電視劇HD
-http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
 
 #EXTINF:-1 tvg-id="cctv-7" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-7/C7JSKDXTB.png",央視CCTV-7军事 农业
 http://183.207.248.71:80/cntv/live1/CCTV-7/cctv-7
@@ -422,36 +394,6 @@ http://183.207.248.71:80/cntv/live1/CCTV-14/cctv-14
 #EXTINF:-1 tvg-id="cctv-15" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-15/C15JSKDXTB.png",央視CCTV-15音乐
 http://183.207.248.71:80/cntv/live1/CCTV-15/cctv-15
 
-#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",央視CHC高清电影HD
-http://ivi.bupt.edu.cn/hls/chchd.m3u8
-
-#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png,北京衛視 HD
-http://ivi.bupt.edu.cn/hls/btv1hd.m3u8
-
-#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png,北京文藝 HD
-http://ivi.bupt.edu.cn/hls/btv2hd.m3u8
-
-#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png,北京紀實 HD
-http://ivi.bupt.edu.cn/hls/btv11hd.m3u8
-
-#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png,安徽衛視 HD
-http://ivi.bupt.edu.cn/hls/ahhd.m3u8
-
-#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png,黑龍江衛視 HD
-http://ivi.bupt.edu.cn/hls/hljhd.m3u8
-
-#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png,深圳衛視 HD
-http://ivi.bupt.edu.cn/hls/szhd.m3u8
-
-#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png,廣東衛視 HD
-http://ivi.bupt.edu.cn/hls/gdhd.m3u8
-
-#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png,天津衛視 HD
-http://ivi.bupt.edu.cn/hls/tjhd.m3u8
-
-#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png,湖北衛視 HD
-http://ivi.bupt.edu.cn/hls/hbhd.m3u8
-
 #EXTINF:-1,Channel 8
 https://d34e90s3s13i7n.cloudfront.net/hls/ch8pcweb/04.m3u8
 
@@ -463,15 +405,6 @@ https://drsh196ivjwe8.cloudfront.net/hls/cnai/03.m3u8
 
 #EXTINF:-1,OKTO
 https://ddftztnzt6o79.cloudfront.net/hls/oktopcweb/prog_index.m3u8
-
-#EXTINF:-1,RTM1
-http://rtm-live.glueapi.io/smil:rtmch001.smil/chunklist_b1064000_sleng.m3u8
-
-#EXTINF:-1,RTM2
-http://rtm-live.glueapi.io/smil:rtmch002/chunklist_b1064000_sleng.m3u8
-
-#EXTINF:-1,ASTRO ARENA
-http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
 
 #EXTINF:-1,FOX MOVIE PREMIUM
 http://210.210.155.35/session/3e87cff6-7c80-11e8-9332-b82a72d63267/uq2663/h/h04/index1.m3u8
@@ -488,27 +421,95 @@ http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/
 #EXTINF:-1,KIX
 http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/index1.m3u8
 
+#EXTINF:-1,KIX
+http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8
+
 #EXTINF:-1,THRILL
 http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/02.m3u8
 
 #EXTINF:-1,FOXLife
 http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/01.m3u8
 
-#EXTINF:-1,KIX
-http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8
-
 #EXTINF:-1,电影台
 http://dlhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8
 
-#EXTINF:-1,CHC高清电影
-http://ivi.bupt.edu.cn/hls/chchd.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d7/Fox_Movies_Premium_logo.svg/939px-Fox_Movies_Premium_logo.svg.png" tvg-name="FOX MOVIESS PREMIUM"  group-title="MOVIES",FOX MOVIESS PREMIUM
+http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
 
-#EXTINF:-1,TV Okey
-http://rtm-live.glueapi.io/smil:rtmch003.smil/chunklist_b1064000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3b/Fox_%287%29.png/revision/latest?cb=20170228215758&path-prefix=es" tvg-name="FOX MOVIESS COMEDY"  group-title="MOVIES",FOX MOVIESS COMEDY
+http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
 
-#EXTINF:-1,ASTRO GO SHOP
-http://playback01.aotg-video.astro.com.my/AOTGHLS/master_AGSS_04.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/2000px-Fox_sports_3_logo.svg.png" tvg-name="FOX SPORT 3"  group-title="SPORT",FOX SPORT 3
+http://210.210.155.35/uq2663/h/h21/index1.m3u8
 
-#EXTINF:-1,SURIA
-https://d11h6a6nhl9kj9.cloudfront.net/hls/suriapcweb/prog_index.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0f/FSRacing.jpg/revision/latest?cb=20150907222429" tvg-name="FOX SPORT RACING"  group-title="SPORT",FOX SPORT RACING
+http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
+
+#EXTINF:-1,FOX
+http://161.0.157.5/PLTV/88888888/224/3221226321/index.m3u8
+
+#EXTINF:-1,FOX SPORT
+http://161.0.157.5/PLTV/88888888/224/3221226181/index.m3u8
+
+#EXTINF:-1,FOX CINEMA
+http://161.0.157.5/PLTV/88888888/224/3221226793/index.m3u8
+
+#EXTINF:-1,FOX COMEDY
+http://161.0.157.5/PLTV/88888888/224/3221226800/index.m3u8
+
+#EXTINF:-1,FOX (1080) (M)
+http://tv.latintvweb.com:25461/GVN5T8z5Lz/dg1T4HwLO4/17050
+#EXTINF:-1,Fox Premium Action [1080] [Dual Audio]
+http://tv.latintvweb.com:25461/GVN5T8z5Lz/dg1T4HwLO4/75932
+#EXTINF:-1,Fox Premium Action(1080).
+http://tv.latintvweb.com:25461/GVN5T8z5Lz/dg1T4HwLO4/14863
+#EXTINF:-1,Fox Premium Action HD [Dual Audio]
+http://tv.latintvweb.com:25461/GVN5T8z5Lz/dg1T4HwLO4/75892
+#EXTINF:-1,Fox Premium Cinema [1080] [Dual Audio]
+http://tv.latintvweb.com:25461/GVN5T8z5Lz/dg1T4HwLO4/75935
+#EXTINF:-1,Fox Premium Cinema HD [Dual Audio]
+http://tv.latintvweb.com:25461/GVN5T8z5Lz/dg1T4HwLO4/75893
+#EXTINF:-1,Fox Premium Classics HD [Dual Audio]
+http://tv.latintvweb.com:25461/GVN5T8z5Lz/dg1T4HwLO4/75866
+#EXTINF:-1,Fox Premium Classics [1080] [Dual Audio]
+http://tv.latintvweb.com:25461/GVN5T8z5Lz/dg1T4HwLO4/75931
+#EXTINF:-1,Fox Premium Comedy [1080] [Dual Audio]
+http://tv.latintvweb.com:25461/GVN5T8z5Lz/dg1T4HwLO4/75937
+#EXTINF:-1,Fox Premium Comedy HD [Dual Audio]
+http://tv.latintvweb.com:25461/GVN5T8z5Lz/dg1T4HwLO4/75894
+#EXTINF:-1,Fox Premium Family [1080] [Dual Audio]
+http://tv.latintvweb.com:25461/GVN5T8z5Lz/dg1T4HwLO4/75933
+#EXTINF:-1,Fox Premium Family HD [Dual Audio]
+http://tv.latintvweb.com:25461/GVN5T8z5Lz/dg1T4HwLO4/75895
+#EXTINF:-1,FOX PREMIUM MOVIES(1080) (M)
+http://tv.latintvweb.com:25461/GVN5T8z5Lz/dg1T4HwLO4/17051
+#EXTINF:-1,Fox Premium Movies [1080] [Dual Audio]
+http://tv.latintvweb.com:25461/GVN5T8z5Lz/dg1T4HwLO4/75936
+#EXTINF:-1,Fox Premium Movies HD [Dual Audio]
+http://tv.latintvweb.com:25461/GVN5T8z5Lz/dg1T4HwLO4/75896
+#EXTINF:-1,Fox Premium Series [1080] [Dual Audio]
+http://tv.latintvweb.com:25461/GVN5T8z5Lz/dg1T4HwLO4/75934
+#EXTINF:-1,Fox Premium Series (1080)
+http://tv.latintvweb.com:25461/GVN5T8z5Lz/dg1T4HwLO4/14862
+#EXTINF:-1,Fox Premium Series HD [Dual Audio]
+http://tv.latintvweb.com:25461/GVN5T8z5Lz/dg1T4HwLO4/75897
+
+EXTINF:-1,MTV Live HD
+http://217.151.239.95:81/udp/239.255.0.164:1234
+
+#EXTINF:-1,tvN
+http://222.236.197.77:9981/stream/channelid/611543449
+#EXTINF:-1,홈&쇼핑
+http://222.236.197.77:9981/stream/channelid/1199360268
+#EXTINF:-1,SBS
+http://222.236.197.77:9981/stream/channelid/210436603
+#EXTINF:-1,CJ오쇼핑
+http://222.236.197.77:9981/stream/channelid/1781311303
+#EXTINF:-1,KBS2
+http://222.236.197.77:9981/stream/channelid/794204807
+#EXTINF:-1,현대홈쇼핑
+http://222.236.197.77:9981/stream/channelid/238881361
+#EXTINF:-1,KBS1
+http://222.236.197.77:9981/stream/channelid/25876953
+#EXTINF:-1,롯데홈쇼핑
 #EXTINF:0,[THE END]
