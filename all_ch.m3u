@@ -43,8 +43,10 @@ http://203.153.218.28:9981/stream/channelid/1744735983?ticket=07E4904EDFA549D56E
 http://203.153.218.28:9981/stream/channelid/1328589592?ticket=3F51EE4F59F75B214C132FBC6D457D6E252DB447&profile=pass
 #EXTINF:0 tvg-logo="https://www.trailappliances.com/media/wysiwyg/brands/blomberg/Blomberg-logo-colour_500.png" group-title="NEWS",Bloomberg International
 http://203.153.218.28:9981/stream/channelid/78064174?ticket=4490D953FCAC1483DE94BE2C4D1F241E5319BCD8&profile=pass
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="NEWS",BLOOMBERG ASIA
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="NEWS",  BLOOMBERG ASIA
 http://45.126.83.51/uq2663/h/h03/index2.m3u8
+#EXTINF:-1  tvg-logo="https://en.wikipedia.org/wiki/Bloomberg_Television#/media/File:Bloomberg_Television_2016.png" group-title="NEWS", BLOOMBERG 
+https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/876772485215141889/k58i8c8N_400x400.jpg" group-title="NEWS",Channel News Asia
 http://rr.dens.tv/h/h29/index2.m3u8
 #EXTINF:0 tvg-logo="http://images2.useetv.com/logo_aljazeera_big1.png" group-title="NEWS",Al Jazeera
@@ -82,8 +84,10 @@ http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8
 http://203.153.218.28:9981/stream/channelid/2038175895?ticket=0299B4C37DF5A2B463E83E4FFD9AD1E91BA48253&profile=pass
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="MOVIES",  HBO Hits
 http://203.153.218.28:9981/stream/channelid/2038175895?ticket=464FCB103389A10044FB3B935A95CDF9A1D1B68F&profile=pass
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/simpsons/images/b/b9/Fox_logo.jpg/revision/latest?cb=20111110052119" group-title="MOVIES",  FOX
+#EXTINF:-1 tvg-logo="https://www.cleanpng.com/png-fox-broadcasting-company-television-show-streaming-3020838/" group-title="MOVIES",  FOX
 http://203.153.218.28:9981/stream/channelid/1910872088?ticket=1FE514A47371AF385F3866E79BE3A4D04BB182F4&profile=pass
+#EXTINF:-1 tvg-logo="https://www.cleanpng.com/png-fox-broadcasting-company-television-show-streaming-3020838/" group-title="MOVIES",  FOX
+http://203.153.218.28:9981/stream/channelid/1910872088?ticket=972D8B718BDDBE34140EA502554535B036289E24&profile=pass
 #EXTINF:-1 tvg-logo="https://seeklogo.net/wp-content/uploads/2017/06/fox-movies-logo.png" group-title="MOVIES",  FOX MOVIES
 http://203.153.218.28:9981/stream/channelid/756717990?ticket=D9CDD7DB18E80023C22954FE693F71DB745D5CE7&profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sMQ0yyZ.png" group-title="MOVIES",  FOX FAMILY MOVIES
@@ -104,11 +108,11 @@ http://210.210.155.35/uq2663/h/h04/index2.m3u8
 http://210.210.155.35/session/c30d8c14-f1bc-11e8-89c0-aa35b2893d02/uq2663/h/h143/01.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png" group-title="MOVIES",BLUE ANT EXTREME
 http://45.126.83.51/dr9445/h/h15/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://parco-zh.github.io/demo/BLUE.png" group-title="MOVIES",  BLUE ANT ENTERAINMENT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://parco-zh.github.io/demo/BLUE.png" group-title="MOVIES",  BLUE ANT ENTERTAINMENT
 http://210.210.155.35:80/session/676c25ba-724e-11e9-834b-8ac28bf32f5a/dr9445/h/h16/02.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/720_300.png" tvg-country="ID" tvg-url="" group-title="MOVIES",  Hits
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/720_300.png" tvg-country="ID" tvg-url="" group-title="MOVIES",  HITS
 http://210.210.155.35/session/b664cd50-6b66-11e9-88bd-a3eeb50c438d/uq2663/h/h37/index2.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/Hits_TV_Asia_logo.jpg/200px-Hits_TV_Asia_logo.jpg" tvg-country="ID" tvg-url="" group-title="MOVIES",  Hits
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/Hits_TV_Asia_logo.jpg/200px-Hits_TV_Asia_logo.jpg" tvg-country="ID" tvg-url="" group-title="MOVIES",  HITS
 http://210.210.155.35/uq2663/h/h37/index2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052019/fashion_tv_2009_symbol.png?cVFRoMuFTxEWh0CmC_3DoU.NenvZVtOW&itok=auBIH1Oi" group-title="MOVIES",  FTV Midnight Secret
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
@@ -116,6 +120,15 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_mi
 http://streamidvo.multitvsolution.in/DiscoverScienceEng-a/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="MOVIES",  TLC HD
 https://itpolly.iptv.digijadoo.net/live/tlc_hd/chunks.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png" group-title="MOVIES",  Blue Ant Extreme
+http://203.153.218.28:9981/stream/channelid/1299824667?ticket=EDA811CE90A26AD414D02B63E0A9171A68A9454C&profile=pass
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1280px-AXN_logo_%282015%29.svg.png" group-title="MOVIES",  AXN
+http://203.153.218.28:9981/stream/channelid/882386103?ticket=DF543FFEC6C497F485D61A1907E83292A2DB1741&profile=pass
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/573025578837671936/0SP5Blcm_400x400.jpeg" group-title="MOVIES",  KIX HD
+http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/573025578837671936/0SP5Blcm_400x400.jpeg" group-title="MOVIES",  KIX SD
+http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/02.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/BHUh7hq.jpg" group-title="CHINA",  CCTV 1
 https://cctvakhwh5ca-cntv.akamaized.net/clive/cctv1_2/index.m3u8
@@ -137,6 +150,9 @@ http://112.50.243.8/PLTV/88888888/224/3221225819/1.m3u8
 http://112.50.243.5/PLTV/88888888/224/3221226990/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/dvjH5RE.png" group-title="CHINA",  NewTV Super Variety
 http://112.50.243.8/PLTV/88888888/224/3221225801/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" tvg-country="ID" tvg-url="" group-title="CHINA",  TOONMAX
+http://210.210.155.35/qwr9ew/s/s50/index2.m3u8
+
 
 #EXTINF:-1 tvg-id="Channel 5" tvg-name="Channel 5" tvg-language="English" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/64/20171222_084212.jpg" group-title="SG",Channel 5
 https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master.m3u8
@@ -150,118 +166,52 @@ https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/79/37/9e/79379ebe8f8398aeb819899a1468ae81.png" group-title="KIDS",  DISNEY JUNIOR
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 
-#EXTINF:-1 tvg-logo="" tvg-country="ID" tvg-url="" group-title="KIDS",Boomerang
-
-https://liveanevia.mncnow.id/live/eds/Boomerang/sa_hls/Boomerang.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" tvg-country="ID" tvg-url="" group-title="KIDS",Cartoon Network
-
-https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_hls/CartoonNetwork.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" tvg-country="ID" tvg-url="" group-title="KIDS",Disney Channel
-
-https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_hls/DisneyChannel.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/79/37/9e/79379ebe8f8398aeb819899a1468ae81.png" group-title="KIDS", DISNEY JUNIOR INDONESIA Backup
-http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
-
-
-#EXTINF:-1 tvg-logo="" tvg-country="ID" tvg-url="" group-title="KIDS",Disney XD 
-
-https://liveanevia.mncnow.id/live/eds/DisneyXD/sa_hls/DisneyXD.m3u8
-
-#EXTINF:0 tvg-logo="https://www.cartoonnetworkeurope.com/img/logo.png" group-title="KIDS",Cartoon Network
+#EXTINF:0 tvg-logo="https://www.cartoonnetworkeurope.com/img/logo.png" group-title="KIDS",  Cartoon Network
 http://203.153.218.28:9981/stream/channelid/251475608?ticket=5B6244F9555D96BA8A9DF1BBBA2BA2F8BDB05A86&profile=pass
 
-#EXTINF:0 tvg-logo="http://tv.dekagon.id/logo/disney_channel_global.png" group-title="KIDS",Disney Channel
+#EXTINF:0 tvg-logo="http://tv.dekagon.id/logo/disney_channel_global.png" group-title="KIDS",  Disney Channel
 http://203.153.218.28:9981/stream/channelid/31701170?ticket=02DB3A3E44B8E741CC4D2913B2F42F452A2C3AB9&profile=pass
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Nickelodeon_2009_logo.svg" group-title="KIDS",Nickelodeon Asia
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Nickelodeon_2009_logo.svg" group-title="KIDS",  Nickelodeon Asia
 http://203.153.218.28:9981/stream/channelid/648970596?ticket=72A19F89119921817ADF08AEBFF2D7E0009D1A20&profile=pass
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Animaxlogo-20160701.png/180px-Animaxlogo-20160701.png" tvg-country="ID" tvg-url="" group-title="KIDS", ANIMAX
-
-http://210.210.155.35:80/dr9445/h/h144/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Animaxlogo-20160701.png/180px-Animaxlogo-20160701.png" tvg-country="ID" tvg-url="" group-title="KIDS",Animax HD
-
-http://210.210.155.35:80/dr9445/h/h144/index2.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Aniplus_Asia_Logo.png/220px-Aniplus_Asia_Logo.png" tvg-country="ID" tvg-url="" group-title="KIDS",Aniplus
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Aniplus_Asia_Logo.png/220px-Aniplus_Asia_Logo.png" tvg-country="ID" tvg-url="" group-title="KIDS",  ANIPLUS
 http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
 
-
-#EXTINF:-1 tvg-logo="http://miaomi-tv.com/Public/images/miao-mi-logo-color.png" group-title="KIDS",  MIAO MI SD
-https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
-
-#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_aniplus_big1.png" group-title="KIDS", Aniplus ID
+#EXTINF:-1 tvg-logo="https://d1eet599aje0m8.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="KIDS", ANIPLUS
 http://rr1.dens.tv/h/h02/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://thehypedgeek.com/wp-content/uploads/2017/05/Aniplus-HD.jpg" group-title="KIDS", AniPlus
+#EXTINF:-1 tvg-logo="https://d1eet599aje0m8.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="KIDS", ANIPLUS
 http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-name="FOX" tvg-logo="" group-title="HIBURAN",FOX
-http://203.153.218.28:9981/stream/channelid/1910872088?ticket=972D8B718BDDBE34140EA502554535B036289E24&profile=pass
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Animaxlogo-20160701.png/180px-Animaxlogo-20160701.png" tvg-country="ID" tvg-url="" group-title="KIDS",  ANIMAX
+http://210.210.155.35:80/dr9445/h/h144/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/573025578837671936/0SP5Blcm_400x400.jpeg" group-title="HIBURAN",  KIX HD
-http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Animaxlogo-20160701.png/180px-Animaxlogo-20160701.png" tvg-country="ID" tvg-url="" group-title="KIDS",  Animax HD
+http://210.210.155.35:80/dr9445/h/h144/index2.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/573025578837671936/0SP5Blcm_400x400.jpeg" group-title="HIBURAN",  KIX SD
-http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/02.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/573025578837671936/0SP5Blcm_400x400.jpeg" group-title="HIBURAN",  KIX HD
-http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1280px-AXN_logo_%282015%29.svg.png" group-title="HIBURAN",  AXN
-http://203.153.218.28:9981/stream/channelid/882386103?ticket=DF543FFEC6C497F485D61A1907E83292A2DB1741&profile=pass
-
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png" group-title="HIBURAN",Blue Ant Extreme
-http://203.153.218.28:9981/stream/channelid/1299824667?ticket=EDA811CE90A26AD414D02B63E0A9171A68A9454C&profile=pass
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/Hits_TV_Asia_logo.jpg" group-title="HIBURAN",  HITS HD
-http://210.210.155.35/uq2663/h/h37/index2.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" tvg-country="ID" tvg-url="" group-title="HIBURAN",  Toonmax
-http://210.210.155.35/qwr9ew/s/s50/index2.m3u8
-
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/The_History_Channel_logo.png" group-title="Pengetahuan",History Channel
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/The_History_Channel_logo.png" group-title="SCIENCE",  HISTORY
 http://203.153.218.28:9981/stream/channelid/1868154562?ticket=21CAD98B63EE6B1D16AFD5B33F7C68F48FA445CD&profile=pass
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/NatGeo_People_logo.png" group-title="Pengetahuan",NAT GEO People
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/NatGeo_People_logo.png" group-title="SCIENCE",  NAT GEO People
 http://203.153.218.28:9981/stream/channelid/1114683377?ticket=39736C153BA658BB8604E39D479282644E09703E&profile=pass
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="Pengetahuan",NAT GEO Wild
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="SCIENCE",  NAT GEO Wild
 http://203.153.218.28:9981/stream/channelid/1497533758?ticket=36B439E64C5884A941F9938AD9373C4B849363BA&profile=pass
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="Pengetahuan",National Geographic
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="SCIENCE",  NAT GEO
 http://203.153.218.28:9981/stream/channelid/681683355?ticket=B3C34399E8376048D3433529578519E51673EA32&profile=pass
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/TLC-Logo_2016.png" group-title="Pengetahuan",TLC
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/TLC-Logo_2016.png" group-title="SCIENCE",  TLC
 http://203.153.218.28:9981/stream/channelid/391618553?ticket=08323DCACE84958A87EA829F012E919CA861DF74&profile=pass
 
-#EXTINF:0 tvg-logo="https://commons.wikimedia.org/wiki/Category:Discovery_Channel_logos#/media/File:Diskoveri.png" group-title="Pengetahuan",Discovery Channel
+#EXTINF:0 tvg-logo="https://commons.wikimedia.org/wiki/Category:Discovery_Channel_logos#/media/File:Diskoveri.png" group-title="SCIENCE",  DISCOVERY
 http://203.153.218.28:9981/stream/channelid/1151931232?ticket=D05F5F5AB713CBADFBFABB642E4F37D5004BB751&profile=pass
 
-#EXTINF:0 tvg-logo="https://www.underconsideration.com/brandnew/archives/animal_planet_2018_logo_before_after.png" group-title="Pengetahuan",Animal Planet
+#EXTINF:0 tvg-logo="https://www.underconsideration.com/brandnew/archives/animal_planet_2018_logo_before_after.png" group-title="SCIENCE",  ANIMAL PLANET
 http://203.153.218.28:9981/stream/channelid/1943600623?ticket=694FA36A0D756D8572C705243A10521FAF796351&profile=pass
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/250px-Afc_logo.svg.png" group-title="Pengetahuan",Asian Food Channel
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/250px-Afc_logo.svg.png" group-title="SCIENCE",  ASIAN FOOD NET
 http://203.153.218.28:9981/stream/channelid/1092664456?ticket=E20984982529618B739BCAB7412D568D65147A93&profile=pass
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="Pengetahuan",NATGEO LUAR
-http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
- 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="Pengetahuan",NATGEO WILD LUAR
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
- 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/NatGeo_People_logo.png" group-title="Pengetahuan",NATGEO PEOPLE LUAR
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
-
-#EXTINF:-1  tvg-logo="https://en.wikipedia.org/wiki/Bloomberg_Television#/media/File:Bloomberg_Television_2016.png" group-title="NEWS", BLOOMBERG
-https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
 
 #EXTINF:0,[THE END]
