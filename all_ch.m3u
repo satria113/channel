@@ -29,50 +29,50 @@ http://210.210.155.35/qwr9ew/s/s08/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="http://www.daaitv.co.id/DAAI-WP/wp-content/uploads/2017/11/logo_no_text.gif" tvg-country="ID" tvg-url="" group-title="LOCAL",  Da Ai ID
 http://210.210.155.35/qwr9ew/s/s13/index.m3u8
 
-#EXTINF:-1 tvg-id="Channel NewsAsia" tvg-name="Channel NewsAsia" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" group-title="NEWS",CNA HD
+#EXTINF:-1 tvg-id="Channel NewsAsia" tvg-name="Channel NewsAsia" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" group-title="NEWS",  CNA HD
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1 tvg-id="BBC World News UK" tvg-name="BBC World News UK" tvg-language="English" tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="NEWS",BBC World News
+#EXTINF:-1 tvg-id="BBC World News UK" tvg-name="BBC World News UK" tvg-language="English" tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="NEWS",  BBC World News
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ytimg.com/vi/YDsgbyisWWU/maxresdefault.jpg" group-title="NEWS",BBC World News
 http://203.153.218.28:9981/stream/channelid/861591723?ticket=F0599E847F90B5FE81ADFE5AD5296885A461DA19&profile=pass
-#EXTINF:-1  tvg-logo="https://en.wikipedia.org/wiki/Sky_News#/media/File:Sky-news-logo.png" group-title="NEWS", SKY NEWS
+#EXTINF:-1  tvg-logo="https://en.wikipedia.org/wiki/Sky_News#/media/File:Sky-news-logo.png" group-title="NEWS",  SKY NEWS
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
-#EXTINF:0 tvg-logo="https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif" group-title="NEWS",CNBC International
+#EXTINF:0 tvg-logo="https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif" group-title="NEWS",  CNBC International
 http://203.153.218.28:9981/stream/channelid/1744735983?ticket=07E4904EDFA549D56E57107CB6140923FE593775&profile=pass
-#EXTINF:0 tvg-logo="https://cdn.cnn.com/cnn/.e1mo/img/4.0/logos/CNN_logo_400x400.png" group-title="NEWS",CNN International
+#EXTINF:0 tvg-logo="https://cdn.cnn.com/cnn/.e1mo/img/4.0/logos/CNN_logo_400x400.png" group-title="NEWS",  CNN International
 http://203.153.218.28:9981/stream/channelid/1328589592?ticket=3F51EE4F59F75B214C132FBC6D457D6E252DB447&profile=pass
-#EXTINF:0 tvg-logo="https://www.trailappliances.com/media/wysiwyg/brands/blomberg/Blomberg-logo-colour_500.png" group-title="NEWS",Bloomberg International
+#EXTINF:0 tvg-logo="https://www.trailappliances.com/media/wysiwyg/brands/blomberg/Blomberg-logo-colour_500.png" group-title="NEWS",  Bloomberg International
 http://203.153.218.28:9981/stream/channelid/78064174?ticket=4490D953FCAC1483DE94BE2C4D1F241E5319BCD8&profile=pass
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="NEWS",  BLOOMBERG ASIA
 http://45.126.83.51/uq2663/h/h03/index2.m3u8
 #EXTINF:-1  tvg-logo="https://en.wikipedia.org/wiki/Bloomberg_Television#/media/File:Bloomberg_Television_2016.png" group-title="NEWS", BLOOMBERG 
 https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
-#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/876772485215141889/k58i8c8N_400x400.jpg" group-title="NEWS",Channel News Asia
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/876772485215141889/k58i8c8N_400x400.jpg" group-title="NEWS",  Channel News Asia
 http://rr.dens.tv/h/h29/index2.m3u8
-#EXTINF:0 tvg-logo="http://images2.useetv.com/logo_aljazeera_big1.png" group-title="NEWS",Al Jazeera
+#EXTINF:0 tvg-logo="http://images2.useetv.com/logo_aljazeera_big1.png" group-title="NEWS",  Al Jazeera
 http://rr2.dens.tv/s/s17/index2.m3u8
-#EXTINF:0 tvg-logo="http://images2.useetv.com/logo_euronews_big1.png" group-title="NEWS",EURONEWS
+#EXTINF:0 tvg-logo="http://images2.useetv.com/logo_euronews_big1.png" group-title="NEWS",  EURONEWS
 http://rr2.dens.tv/s/s15/index2.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="NEWS",EURONEWS TV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="NEWS",  EURONEWS
 http://45.126.83.51/qwr9ew/s/s15/index2.m3u8
-#EXTINF:0 tvg-logo="http://main.mzmediahost.com/wp-content/uploads/2015/10/Logos_FRANCE24_RVB_2013.svg_.png" group-title="NEWS",France24
+#EXTINF:0 tvg-logo="http://main.mzmediahost.com/wp-content/uploads/2015/10/Logos_FRANCE24_RVB_2013.svg_.png" group-title="NEWS",  France24
 http://rr2.dens.tv/s/s22/index2.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="NEWS", FRANCE24
 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/wB9CkPG.jpg" group-title="SPORT",Fight Sports
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/wB9CkPG.jpg" group-title="SPORT",  Fight Sports
 http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://pbs.twimg.com/media/DfLqnf4VMAA0m27.png" group-title="SPORT",Bek Sports East
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://pbs.twimg.com/media/DfLqnf4VMAA0m27.png" group-title="SPORT",  Bek Sports East
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/2000px-Fox_Sports_1_logo.svg.png" tvg-name="FOX SPORT 1"  group-title="SPORT",FOX SPORT 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/2000px-Fox_Sports_1_logo.svg.png" tvg-name="FOX SPORT 1"  group-title="SPORT",  FOX SPORT 1
 http://45.58.62.92:8080
 
-#EXTINF:-1, group-title="KR",K Plus
+#EXTINF:-1, group-title="KR",  K Plus
 http://210.210.155.35/session/e3afc732-c3a1-11e8-bfe5-8e058f0468b5/uq2663/h/h08/02.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/c8/K-drama_logo.jpg" tvg-country="ID" tvg-url="" group-title="KR",  K Drama
 http://210.210.155.35/qwr9ew/s/s42/index2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/c8/K-drama_logo.jpg" tvg-country="ID" tvg-url="" group-title="KR",K Drama
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/c8/K-drama_logo.jpg" tvg-country="ID" tvg-url="" group-title="KR",  K Drama
 http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/index.m3u8?fluxustv.m3u8
 
 
@@ -84,9 +84,9 @@ http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8
 http://203.153.218.28:9981/stream/channelid/2038175895?ticket=0299B4C37DF5A2B463E83E4FFD9AD1E91BA48253&profile=pass
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="MOVIES",  HBO Hits
 http://203.153.218.28:9981/stream/channelid/2038175895?ticket=464FCB103389A10044FB3B935A95CDF9A1D1B68F&profile=pass
-#EXTINF:-1 tvg-logo="https://www.cleanpng.com/png-fox-broadcasting-company-television-show-streaming-3020838/" group-title="MOVIES",  FOX
+#EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20180606/tap/kisspng-fox-broadcasting-company-television-show-streaming-tv-news-5b18109b57f2a2.4529019615283037713603.jpg" group-title="MOVIES",  FOX
 http://203.153.218.28:9981/stream/channelid/1910872088?ticket=1FE514A47371AF385F3866E79BE3A4D04BB182F4&profile=pass
-#EXTINF:-1 tvg-logo="https://www.cleanpng.com/png-fox-broadcasting-company-television-show-streaming-3020838/" group-title="MOVIES",  FOX
+#EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20180606/tap/kisspng-fox-broadcasting-company-television-show-streaming-tv-news-5b18109b57f2a2.4529019615283037713603.jpg" group-title="MOVIES",  FOX
 http://203.153.218.28:9981/stream/channelid/1910872088?ticket=972D8B718BDDBE34140EA502554535B036289E24&profile=pass
 #EXTINF:-1 tvg-logo="https://seeklogo.net/wp-content/uploads/2017/06/fox-movies-logo.png" group-title="MOVIES",  FOX MOVIES
 http://203.153.218.28:9981/stream/channelid/756717990?ticket=D9CDD7DB18E80023C22954FE693F71DB745D5CE7&profile=pass
