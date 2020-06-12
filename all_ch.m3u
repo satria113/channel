@@ -364,42 +364,86 @@ http://109.236.85.100:8081/SilenceTV/live/playlist.m3u8
 http://36.89.47.217:11935/rrinet/live/index.m3u8
 #EXTINF:-1 group-title="BUKAN PREMIUM",AYSAR FOX
 http://103.242.13.90:5555/udp/239.4.1.83:10000
-#EXTINF:-1 group-title="Local Channel",Local Channel AYSAR
-http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
-#EXTINF:-1 group-title="Local Channel",AYSAR NET TV HD
-http://sagahiptv.rumahstreaming.stream:89/sagahpremium.c8bf7a6f9fcaaa6f/lives/playlist.m3u8
-#EXTINF:-1 group-title="Local Channel",AYSAR TVRI DKI JAKARTA
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIdki)/index.m3u8
-#EXTINF:-1 group-title="Local Channel",AYSAR NET SD
-http://202.80.222.170/000001/2/ch00000090990000001723/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1 group-title="Local Channel",AYSAR TRANS TV
-http://202.80.222.174/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1 group-title="Local Channel",AYSAR TRANS 7 SD
-http://202.80.222.174/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1 group-title="Local Channel",AYSAR CNN
-http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
-#EXTINF:-1 group-title="Local Channel",AYSAR RCTI
-http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com&amp;IASHttpSessionId=OTT2832620180822024844000001
-#EXTINF:-1 group-title="Local Channel",AYSAR MNC
-http://202.80.222.182/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1 group-title="Local Channel",AYSAR GLOBAL
-http://202.80.222.174:80/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1 group-title="Local Channel",AYSAR I NEWS
-http://202.80.222.175/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1 group-title="Local Channel",AYSAR SCTV
-http://202.80.222.178/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1 group-title="Local Channel",AYSAR INDOSIAR
-http://202.80.222.179/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1 group-title="Local Channel",AYSAR ANTV
-http://202.80.222.170/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1 group-title="Local Channel",AYSAR TV ONE
-http://202.80.222.182/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=000001.live_hls.zte.com
-#EXTINF:-1 group-title="Local Channel",AYSAR METRO
-http://202.80.222.183/000001/2/ch14041511515576869807/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 group-title="Local Channel",AYSAR METRO HD
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w648106128_b1128000_sleng.m3u8
-#EXTINF:-1 group-title="Local Channel",AYSAR KOMPAS
-http://202.80.222.182/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 group-title="Local Channel",AYSAR BERITA SATU
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b846000.m3u8
+
+#EXTINF:-1 group-title="KIDS Channel",AYSAR Cartoon Network
+http://763417a9.kartoshkaka.ru/iptv/KLF5WG86AQZ653/143/index.m3u8
+#EXTINF:-1 group-title="KIDS Channel",AYSAR Nick Jr
+http://763417a9.kartoshkaka.ru/iptv/KLF5WG86AQZ653/114/index.m3u8
+#EXTINF:-1 group-title="KIDS Channel",AYSAR Nickelodeon
+http://763417a9.kartoshkaka.ru/iptv/KLF5WG86AQZ653/541/index.m3u8
+#EXTINF:-1 group-title="KIDS Channel",KIDS Channel AYSAR
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+#EXTINF:-1 group-title="KIDS Channel",AYSAR Kids TV
+https://stitcher.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=&deviceModel=&embedPartner=pluto.tv&sid=aocvf6f7c3skho4fkbj2demm10
+#EXTINF:-1 group-title="KIDS Channel",AYSAR After School Cartoons
+https://stitcher.pluto.tv/stitch/hls/channel/56171fafada51f8004c4b40f/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=&deviceModel=&embedPartner=pluto.tv&sid=kbcvf6f7c3skho4fkbj2demm10
+#EXTINF:-1 group-title="KIDS Channel",AYSAR Classic Toons TV
+https://stitcher.pluto.tv/stitch/hls/channel/562ea53fa9060c5a7d463e74/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=&deviceModel=&embedPartner=pluto.tv&sid=qbcvf6f7c3skho4fkbj2demm10
+#EXTINF:-1 group-title="KIDS Channel",Anime All Day
+https://stitcher.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=&deviceModel=&embedPartner=pluto.tv&sid=abcvf6f7c3skho4fkbj2demm10
+#EXTINF:-1 group-title="KIDS Channel",Miao Mi
+https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
+#EXTINF:-1 group-title="KIDS Channel",DISNEY Junior
+http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8
+#EXTINF:-1 group-title="KIDS Channel",DISNEY Channel
+http://161.0.157.6/PLTV/88888888/224/3221226299/index.m3u8
+#EXTINF:-1 group-title="KIDS Channel",AYSAR KIDS 1
+http://195.5.108.14:1935/live/itv1/playlist.m3u8
+#EXTINF:-1 group-title="KIDS Channel",A1 Kids
+http://178.132.6.97:8080/A1Kids1/index.m3u8
+ 
+ 
+ 
+ 
+ 
+#EXTINF:-1 group-title="MOVIE",AYSAR HBO HD
+http://125.227.35.176:18080/hbo/index.m3u8
+#EXTINF:-1 group-title="MOVIE",AYSAR HBO A HOME RED
+http://763417a9.kartoshkaka.ru/iptv/KLF5WG86AQZ653/556/index.m3u8
+#EXTINF:-1 group-title="MOVIE",AYSAR HBO CHINA
+http://218.202.220.2:5000/nn_live.m3u8?id=HBO
+#EXTINF:-1 group-title="MOVIE",AYSAR Max Prime
+http://161.0.157.9/PLTV/88888888/224/3221226834/index.m3u8
+#EXTINF:-1 group-title="MOVIE",AYSAR Sony Movie Channel
+http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_480_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title="MOVIE",AYSAR BTV Cinema
+http://84.43.207.130/btvcinema/btvcinema.m3u8
+#EXTINF:-1 group-title="MOVIE",AYSAR RAI PREMIUM
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
+#EXTINF:-1 group-title="MOVIE",AYSAR RAI MOVIE
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+#EXTINF:-1 group-title="MOVIE",AYSAR RAI 4 HD
+http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/master.m3u8
+#EXTINF:-1 group-title="MOVIE",Action Movies
+https://stitcher.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=cb6766b0-8b86-11e8-828e-357f3c4bb5d0&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:-1 group-title="MOVIE",Pluto Movies 2
+https://stitcher.pluto.tv/stitch/hls/channel/59976841a09fd13c9b590ce8/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=cb6766b0-8b86-11e8-828e-357f3c4bb5d0&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:-1 group-title="MOVIE",Pluto TV HER
+https://stitcher.pluto.tv/stitch/hls/channel/5887ba337b8e94223eb121bd/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=cb6766b0-8b86-11e8-828e-357f3c4bb5d0&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:-1 group-title="MOVIE",Pluto TV Headlines
+http://stitcher.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472000114/master.m3u8?sid=web24157571521&deviceType=web&deviceMake=web&deviceVersion=1&deviceId=web24163643069&appVersion=5.2.7&deviceDNT=web&deviceModel=web
+#EXTINF:-1 group-title="MOVIE",Pluto TV Cars
+https://stitcher.pluto.tv/stitch/hls/channel/5812b3a4249444e05d09cc46/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=cb6766b0-8b86-11e8-828e-357f3c4bb5d0&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:-1 group-title="MOVIE",AYSAR Anime
+http://aldirect.hls.huya.com/huyalive/94525224-2553630828-10967760892317401088-3049003140-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="MOVIE",AYSAR CARTOON BACKUP
+https://aldirect.hls.huya.com/huyalive/94525224-2475824398-10633584820048887808-2847687532-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="MOVIE",AYSAR Hollywood Movies 1
+http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
+#EXTINF:-1 group-title="MOVIE",AYSAR Hollywood Movies 2
+http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="MOVIE",AYSAR Hollywood Movies 4
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="MOVIE",AYSAR Kuroko's Basketball
+http://aldirect.hls.huya.com/huyalive/94525224-2604793726-11187503865995984896-3049003148-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="MOVIE",AYSAR Hollywood Movies 5
+http://ws4.streamhls.huya.com:80/huyalive/29106097-2689448236-11551092217904889856-2789274572-10057-A-0-1_1200/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",AYSAR Hollywood Movies 6
+http://ws4.streamhls.huya.com/huyalive/29106097-2689279104-11550365801496182784-2777026902-10057-A-0-1_1200/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",AYSAR Hollywood Movies 7
+http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
 #EXTINF:0,[THE END]
