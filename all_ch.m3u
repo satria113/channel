@@ -770,17 +770,9 @@ http://rr.dens.tv/h/h22/index.m3u8
 #EXTINF:-1 group-title="Sport", Superyatch_Tv
 http://cdn.mobibase.com/hls/733/258_5000k/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/cRtpjW2.png" group-title="YOUNG GIRLS TUBE",Young Girls Tube - VOD 08
-http://img3.younggirlstube.com/scj/thumbs/galleries/7/870/0_631.flv
- 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/cRtpjW2.png" group-title="YOUNG GIRLS TUBE",Young Girls Tube - VOD 11
-http://img3.younggirlstube.com/scj/thumbs/galleries/7/176/0_268.flv
- 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tyna2Vt.png" group-title="TEAM SKEET",Team Skeet - VOD 01 - Exxtra Small - Rissa Maxxx
-http://tube.paperstreetcash.com/8mins/exxxtrasmall/exxxtrasmall_rissa_maxxx_8minutes.mp4
- 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/tyna2Vt.png" group-title="TEAM SKEET",Team Skeet - VOD 02 - Adriana Lynn
-http://tube.paperstreetcash.com/12mins/exxxtrasmall/exxxtrasmall_adriana_lynn_12minute.mp4
-
+#EXTINF:-1,USA| WWE HD
+http://live.iptv.wtf:80/live/Zn3UgNxZq77/6qYGad7c50/5538.m3u8
+#EXTINF:-1,WWE HD
+http://live.iptv.wtf:80/live/Zn3UgNxZq77/6qYGad7c50/6815.m3u8
 
 #EXTINF:0,[THE END]
