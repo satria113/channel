@@ -65,6 +65,78 @@ http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/2000px-Fox_Sports_1_logo.svg.png" tvg-name="FOX SPORT 1"  group-title="SPORT",  FOX SPORT 1
 http://45.58.62.92:8080
+#EXTINF:-1,group-title="SPORT",  Uk- Sky BT Sport 1 HD
+http://linux-app.tv:6204/95025267076109/65839594001441/33630
+#EXTINF:-1,group-title="SPORT",  Uk- Sky BT Sport 2 HD
+http://linux-app.tv:6204/95025267076109/65839594001441/33631
+#EXTINF:-1,group-title="SPORT",  Uk- Sky BT Sport 3 HD
+http://linux-app.tv:6204/95025267076109/65839594001441/33577
+#EXTINF:-1,group-title="SPORT",  Uk- Sky Eir Sport 1
+http://linux-app.tv:6204/95025267076109/65839594001441/33557
+#EXTINF:-1,group-title="SPORT",  Uk- Sky Eir Sport 2
+http://linux-app.tv:6204/95025267076109/65839594001441/33558
+#EXTINF:-1,group-title="SPORT",  Uk- Sky Eurosport 1 HD
+http://linux-app.tv:6204/95025267076109/65839594001441/33633
+#EXTINF:-1,group-title="SPORT",  Uk- Sky Eurosport 2 HD
+http://linux-app.tv:6204/95025267076109/65839594001441/33634
+#EXTINF:-1,group-title="SPORT",  Uk- Sky Sports News HD
+http://linux-app.tv:6204/95025267076109/65839594001441/33312
+#EXTINF:-1,group-title="SPORT",  Uk- Sky Sport Football
+http://linux-app.tv:6204/95025267076109/65839594001441/33638
+#EXTINF:-1,group-title="SPORT",  Uk- Sky Sports Action HD
+http://linux-app.tv:6204/95025267076109/65839594001441/33641
+#EXTINF:-1,group-title="SPORT",  UK- Sky Sports Arena HD
+http://linux-app.tv:6204/95025267076109/65839594001441/33599
+#EXTINF:-1,group-title="SPORT",  Uk- Sky Sports Box Office HD
+http://linux-app.tv:6204/95025267076109/65839594001441/33559
+#EXTINF:-1,group-title="SPORT",  Uk- BT Sport Box Office
+http://linux-app.tv:6204/95025267076109/65839594001441/33311
+#EXTINF:-1,group-title="SPORT",  Uk- Sky BoxNation
+http://linux-app.tv:6204/95025267076109/65839594001441/33629
+#EXTINF:-1,group-title="SPORT",  Uk- Sky Sports Cricket HD
+http://linux-app.tv:6204/95025267076109/65839594001441/33640
+#EXTINF:-1,group-title="SPORT",  Uk- Sky Sports F1 HD
+http://linux-app.tv:6204/95025267076109/65839594001441/33644
+#EXTINF:-1,group-title="SPORT",  Uk- Sky Sports Golf HD
+http://linux-app.tv:6204/95025267076109/65839594001441/33642
+#EXTINF:-1,group-title="SPORT",  Uk- Sky Sports Main Event HD
+http://linux-app.tv:6204/95025267076109/65839594001441/33639
+#EXTINF:-1,group-title="SPORT",  Uk- Sky Sports Mix HD
+http://linux-app.tv:6204/95025267076109/65839594001441/33645
+#EXTINF:-1,group-title="SPORT",  Uk- Sky Sports Premier League HD
+http://linux-app.tv:6204/95025267076109/65839594001441/33643
+#EXTINF:-1,group-title="SPORT",  Uk- Sky Liverpool FC TV HD
+http://linux-app.tv:6204/95025267076109/65839594001441/33635
+#EXTINF:-1,group-title="SPORT",  US- BeIN Sports
+http://linux-app.tv:6204/95025267076109/65839594001441/33435
+#EXTINF:-1,group-title="SPORT",  US- BeIN2 Sports
+http://linux-app.tv:6204/95025267076109/65839594001441/33436
+#EXTINF:-1,group-title="SPORT",  US- ESPN 1
+http://linux-app.tv:6204/95025267076109/65839594001441/33437
+#EXTINF:-1,group-title="SPORT",  US- ESPN 2
+http://linux-app.tv:6204/95025267076109/65839594001441/33438
+#EXTINF:-1,group-title="SPORT",  US- ESPN Baseball Regionals
+http://linux-app.tv:6204/95025267076109/65839594001441/33439
+#EXTINF:-1,group-title="SPORT",  US- ESPN Longhorn Network
+http://linux-app.tv:6204/95025267076109/65839594001441/33440
+#EXTINF:-1,group-title="SPORT",  US- ESPN News
+http://linux-app.tv:6204/95025267076109/65839594001441/33441
+#EXTINF:-1,group-title="SPORT",  US- ESPN SEC Network
+http://linux-app.tv:6204/95025267076109/65839594001441/33442
+#EXTINF:-1,group-title="SPORT",  US- ESPNU College Sports
+http://linux-app.tv:6204/95025267076109/65839594001441/33443
+#EXTINF:-1,group-title="SPORT",  US- Fight Network
+http://linux-app.tv:6204/95025267076109/65839594001441/33444
+#EXTINF:-1,group-title="SPORT",  US- FNTSY Sports Network
+http://linux-app.tv:6204/95025267076109/65839594001441/33445
+#EXTINF:-1,group-title="SPORT",  US- Fox College Sports Central
+http://linux-app.tv:6204/95025267076109/65839594001441/33447
+#EXTINF:-1,group-title="SPORT",  US- Fox College Sports Pacific
+http://linux-app.tv:6204/95025267076109/65839594001441/33448
+#EXTINF:-1,group-title="SPORT",  US- Fox Sports 1
+http://linux-app.tv:6204/95025267076109/65839594001441/33449
+#EXTINF:-1,group-title="SPORT",  US- Fox Sports 2
+http://linux-app.tv:6204/95025267076109/65839594001441/20567
 
 #EXTINF:-1, group-title="KR",  K Plus
 http://210.210.155.35/session/e3afc732-c3a1-11e8-bfe5-8e058f0468b5/uq2663/h/h08/02.m3u8
