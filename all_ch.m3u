@@ -511,35 +511,6 @@ http://183.207.248.71/cntv/live1/8/cctv-8
 #EXTINF:-1 group-title="CHINA",黑龙江卫视高清-8M
 http://183.207.248.71/cntv/live1/heilongjiangstv/HD-8000k-1080P-heilongjiangstv
 
-#EXTINF:-1 group-title="WEDANG RONDE",DISNEY
-http://60.248.127.231:8024/0.ts
-#EXTINF:-1 group-title="WEDANG RONDE",NATGEO WILD
-http://60.248.127.231:8038/0.ts
-#EXTINF:-1 group-title="WEDANG RONDE",HBO HD BACKUP
-http://60.248.127.231:8012/0.ts
-#EXTINF:-1 group-title="WEDANG RONDE",HBO HD
-http://195.206.253.157:20300/hbo
-#EXTINF:-1 group-title="WEDANG RONDE",HBO 3 HD
-http://195.206.253.157:19200/hbo3
-#EXTINF:-1 group-title="WEDANG RONDE",HBO 2 HD
-http://195.206.253.157:19100/hbo2
-#EXTINF:-1 group-title="WEDANG RONDE",History HD
-http://195.206.253.157:8101/history
-#EXTINF:-1 group-title="WEDANG RONDE",Discovery Life HD
-http://195.206.253.157:8401/animalplanet
-#EXTINF:-1 group-title="WEDANG RONDE",Da Vinci
-http://195.206.253.157:17200/davinci
-#EXTINF:-1 group-title="WEDANG RONDE",Polsat Jim Jam
-http://195.206.253.157:20200/jimjam
-#EXTINF:-1 group-title="WEDANG RONDE",ID HD
-http://195.206.253.157:19800/id
-#EXTINF:-1 group-title="WEDANG RONDE",AXN Black
-http://195.206.253.157:14200/axnblack
-#EXTINF:-1 group-title="WEDANG RONDE",AXN White
-http://195.206.253.157:14400/axnwhite
-#EXTINF:-1 group-title="WEDANG RONDE",FilmBox Premium HD
-http://195.206.253.157:15900/filmbox
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHINA",  TV CHINA 1 FHD
 http://ivi.bupt.edu.cn/hls/hunanhd.m3u8
 
@@ -552,4 +523,16 @@ http://ivi.bupt.edu.cn/hls/jshd.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/66/ZTV_logo.png" group-title="CHINA",  TV CHINA 4 HD
 http://121.31.30.90:8085/ysten-business/live/hdzhejiangstv/yst.m3u8
 
+#EXTINF:0 group-title="SPORT",FOXSPORT
+http://103.242.13.90:5555/udp/239.4.1.47:10000
+#EXTINF:0 group-title="SPORT",FOXSPORT2
+http://103.242.13.90:5555/udp/239.4.1.48:10000
+#EXTINF:0 group-title="SPORT",FOXSPORT3
+http://103.242.13.90:5555/udp/239.4.1.44:10000
+#EXTINF:0 group-title="SPORT",Super Soccer Tv
+http://rr.dens.tv/h/h20/index2.m3u8
+#EXTINF:0 group-title="SPORT",Astro SuperSport3
+http://103.242.13.90:5555/udp/239.4.1.148:10000
+#EXTINF:0 group-title="SPORT",FOX SPORT 3
+http://cdn2.bear-tv.com/freetv/TOT_foxsport3/playlist.m3u8
 #EXTINF:0,[THE END]
