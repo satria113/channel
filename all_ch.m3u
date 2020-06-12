@@ -344,49 +344,62 @@ http://210.210.155.35/qwr9ew/s/s15/02.m3u8
 #EXTINF:-1 group-title="BUKAN PREMIUM",AYSAR D W
 http://210.210.155.35/qwr9ew/s/s26/02.m3u8
 
-#EXTINF:-1 group-title="BUKAN PREMIUM",AYSAR FOX
+#EXTINF:-1 group-title="BUKAN PREMIUM",AYSAR cinema world
 http://210.210.155.35/uq2663/h/h04/index.m3u8
 #EXTINF:-1 group-title="BUKAN PREMIUM",AYSAR FIGHT SPORTS
 http://210.210.155.35/uq2663/h/h05/index.m3u8
-#EXTINF:-1 group-title="BUKAN PREMIUM",AYSAR my KIDS
-http://210.210.155.35/qwr9ew/s/s30/index2.m3u8
-#EXTINF:-1 group-title="BUKAN PREMIUM",AYSAR MY CINEMA
-http://210.210.155.35/qwr9ew/s/s31/index2.m3u8
+
 #EXTINF:-1 group-title="BUKAN PREMIUM",AYSAR NEW ASIA CHANNEL
 http://210.210.155.35/uq2663/h/h29/index.m3u8
-#EXTINF:-1 group-title="BUKAN PREMIUM",AYSAR MEKKAH    
-http://210.210.155.35/session/490cf076-0756-11e9-ac17-b82a72d63267/qwr9ew/s/s28/01.m3u8
-#EXTINF:-1 group-title="BUKAN PREMIUM",AYSAR MADINA
-http://210.210.155.35/session/29a26522-0756-11e9-bf0a-b82a72d63267/qwr9ew/s/s27/02.m3u8
+
 #EXTINF:-1 group-title="BUKAN PREMIUM",AYSAR HITS
 http://210.210.155.35/session/315e5196-0755-11e9-a62c-b82a72d63267/uq2663/h/h37/02.m3u8
 #EXTINF:-1 group-title="BUKAN PREMIUM",AYSAR Channel A
 http://210.210.155.35/session/5f5291e8-f3f5-11e8-a084-882a82612570/dr9445/h/h29/01.m3u8
-#EXTINF:-1 group-title="BUKAN PREMIUM",AYSAR Real Lives
-http://92.14.111.173:8007/play/a00v
-#EXTINF:-1 group-title="BUKAN PREMIUM",AYSAR Sky Sports F1
-http://92.14.111.173:8007/play/a011
 #EXTINF:-1 group-title="BUKAN PREMIUM",AYSAR Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 group-title="BUKAN PREMIUM",AYSAR Silence TV
 http://109.236.85.100:8081/SilenceTV/live/playlist.m3u8
 #EXTINF:-1 group-title="BUKAN PREMIUM",AYSAR RRI NET
 http://36.89.47.217:11935/rrinet/live/index.m3u8
-#EXTINF:-1 group-title="BUKAN PREMIUM",AYSAR Mediaset INSPIRATION TV
-https://inspnetworks-lh.akamaihd.net/i/insp_2@393793/index_1_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="BUKAN PREMIUM",AYSAR KBS WORLD
-http://edge.linknetott.swiftserve.com/channelgroup5/cg542production/ch262/03.m3u8
 #EXTINF:-1 group-title="BUKAN PREMIUM",AYSAR FOX
 http://103.242.13.90:5555/udp/239.4.1.83:10000
-#EXTINF:-1 group-title="BUKAN PREMIUM",AYSAR A HBO
-http://763417a9.kartoshkaka.ru/iptv/KLF5WG86AQZ653/229/index.m3u8
-#EXTINF:-1 group-title="BUKAN PREMIUM",AYSAR HISTORY
-http://92.14.111.173:8007/play/a00z
-#EXTINF:-1 group-title="BUKAN PREMIUM",AYSAR Crime Investigation
-http://92.14.111.173:8007/play/a00u
-#EXTINF:-1 group-title="BUKAN PREMIUM",AYSAR H2
-http://92.14.111.173:8007/play/a00y
-#EXTINF:-1 group-title="BUKAN PREMIUM",AYSAR Nat Geo WILD
-http://92.14.111.173:8007/play/a00w
-
+#EXTINF:-1 group-title="Local Channel",Local Channel AYSAR
+http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
+#EXTINF:-1 group-title="Local Channel",AYSAR NET TV HD
+http://sagahiptv.rumahstreaming.stream:89/sagahpremium.c8bf7a6f9fcaaa6f/lives/playlist.m3u8
+#EXTINF:-1 group-title="Local Channel",AYSAR TVRI DKI JAKARTA
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIdki)/index.m3u8
+#EXTINF:-1 group-title="Local Channel",AYSAR NET SD
+http://202.80.222.170/000001/2/ch00000090990000001723/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 group-title="Local Channel",AYSAR TRANS TV
+http://202.80.222.174/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 group-title="Local Channel",AYSAR TRANS 7 SD
+http://202.80.222.174/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 group-title="Local Channel",AYSAR CNN
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
+#EXTINF:-1 group-title="Local Channel",AYSAR RCTI
+http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com&amp;IASHttpSessionId=OTT2832620180822024844000001
+#EXTINF:-1 group-title="Local Channel",AYSAR MNC
+http://202.80.222.182/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 group-title="Local Channel",AYSAR GLOBAL
+http://202.80.222.174:80/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 group-title="Local Channel",AYSAR I NEWS
+http://202.80.222.175/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 group-title="Local Channel",AYSAR SCTV
+http://202.80.222.178/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 group-title="Local Channel",AYSAR INDOSIAR
+http://202.80.222.179/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 group-title="Local Channel",AYSAR ANTV
+http://202.80.222.170/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 group-title="Local Channel",AYSAR TV ONE
+http://202.80.222.182/000001/2/ch14061215030555428637/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 group-title="Local Channel",AYSAR METRO
+http://202.80.222.183/000001/2/ch14041511515576869807/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 group-title="Local Channel",AYSAR METRO HD
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w648106128_b1128000_sleng.m3u8
+#EXTINF:-1 group-title="Local Channel",AYSAR KOMPAS
+http://202.80.222.182/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 group-title="Local Channel",AYSAR BERITA SATU
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b846000.m3u8
 #EXTINF:0,[THE END]
