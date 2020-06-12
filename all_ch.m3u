@@ -426,4 +426,119 @@ http://161.0.157.6/PLTV/88888888/224/3221226766/index.m3u8
 http://161.0.157.6/PLTV/88888888/224/3221226777/index.m3u8
 #EXTINF:-1 group-title="SPORTS",AYSAR  FOX SPORT RACING
 http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
+
+#EXTINF:-1 group-title="CHINA",CCTV 1
+http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
+#EXTINF:-1 group-title="CHINA",CCTV 2
+http://ivi.bupt.edu.cn/hls/cctv2.m3u8
+#EXTINF:-1 group-title="CHINA",CCTV 3
+http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
+#EXTINF:-1 group-title="CHINA",CCTV 4
+http://ivi.bupt.edu.cn/hls/cctv4.m3u8
+#EXTINF:-1 group-title="CHINA",CCTV 5
+http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
+#EXTINF:-1 group-title="CHINA",CCTV 6
+http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
+#EXTINF:-1 group-title="CHINA",CCTV 7
+http://ivi.bupt.edu.cn/hls/cctv7.m3u8
+#EXTINF:-1 group-title="CHINA",CCTV 8
+http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
+#EXTINF:-1 group-title="CHINA",CCTV 9
+http://ivi.bupt.edu.cn/hls/cctv9.m3u8
+#EXTINF:-1 group-title="CHINA",CCTV 10
+http://ivi.bupt.edu.cn/hls/cctv10.m3u8
+#EXTINF:-1 group-title="CHINA",CCTV 11
+http://ivi.bupt.edu.cn/hls/cctv11.m3u8
+#EXTINF:-1 group-title="CHINA",CCTV 12
+http://ivi.bupt.edu.cn/hls/cctv12.m3u8
+#EXTINF:-1 group-title="CHINA",CCTV 13
+http://ivi.bupt.edu.cn/hls/cctv13.m3u8
+#EXTINF:-1 group-title="CHINA",CCTV 14
+http://ivi.bupt.edu.cn/hls/cctv14.m3u8
+#EXTINF:-1 group-title="CHINA",CCTV 15
+http://ivi.bupt.edu.cn/hls/cctv15.m3u8
+#EXTINF:-1 group-title="CHINA",LY TV
+http://ivi.bupt.edu.cn/hls/lytv.m3u8
+#EXTINF:-1 group-title="CHINA",AYSAR HNNTV CN
+http://pili-live-hls.livelvy.sobeycache.com/livelvy/lvy1.m3u8
+#EXTINF:-1 group-title="CHINA",家有购物
+http://183.207.248.71/cntv/live1/jiayougw/SD-1500k-576P-jiayougw
+#EXTINF:-1 group-title="CHINA",江苏卫视高清
+http://183.207.248.71/cntv/live1/jiangsustv/HD-2500k-1080P-jiangsustv
+#EXTINF:-1 group-title="CHINA",浙江卫视高清
+http://183.207.248.71/cntv/live1/zhejiangstv/HD-2500k-1080P-zhejiangstv
+#EXTINF:-1 group-title="CHINA",北京卫视高清
+http://183.207.248.71/cntv/live1/beijingstv/HD-2500k-1080P-beijingstv
+#EXTINF:-1 group-title="CHINA",湖南卫视高清
+http://183.207.248.71/cntv/live1/hunanstv/HD-2500k-1080P-hunanstv
+#EXTINF:-1 group-title="CHINA",广东卫视高清
+http://183.207.248.71/cntv/live1/guangdongstv/HD-2500k-1080P-guangdongstv
+#EXTINF:-1 group-title="CHINA",东方卫视高清
+http://183.207.248.71/cntv/live1/dongfangstv/HD-2500k-1080P-dongfangstv
+#EXTINF:-1 group-title="CHINA",黑龙江卫视高清
+http://183.207.248.71/cntv/live1/heilongjiangstv/HD-2500k-1080P-heilongjiangstv
+#EXTINF:-1 group-title="CHINA",深圳卫视高清
+http://183.207.248.71/cntv/live1/shenzhenstv/HD-2500k-1080P-shenzhenstv
+#EXTINF:-1 group-title="CHINA",山东卫视高清
+http://183.207.248.71/cntv/live1/shandongstv/HD-2500k-1080P-shandongstv
+#EXTINF:-1 group-title="CHINA",天津卫视高清
+http://183.207.248.71/cntv/live1/tianjinstv/HD-2500k-1080P-tianjinstv
+#EXTINF:-1 group-title="CHINA",湖北卫视高清
+http://183.207.248.71/cntv/live1/hubeistv/HD-2500k-1080P-hubeistv
+#EXTINF:-1 group-title="CHINA",江西卫视
+http://183.207.248.71/cntv/live1/jiangxistv/jiangxistv
+#EXTINF:-1 group-title="CHINA",青海卫视
+http://183.207.248.71/cntv/live1/qinghaistv/qinghaistv
+#EXTINF:-1 group-title="CHINA",安徽卫视
+http://183.207.248.71/cntv/live1/anhuistv/anhuistv
+#EXTINF:-1 group-title="CHINA",宁夏卫视
+http://183.207.248.71/cntv/live1/ningxiastv/ningxiastv
+#EXTINF:-1 group-title="CHINA",甘肃卫视
+http://183.207.248.71/cntv/live1/gansustv/gansustv
+#EXTINF:-1 group-title="CHINA",内蒙古卫视
+http://183.207.248.71/cntv/live1/neimenggustv/neimenggustv
+#EXTINF:-1 group-title="CHINA",农业致富
+http://183.207.248.71/cntv/live1/nongyezf/nongyezf
+#EXTINF:-1 group-title="CHINA",完美游戏
+http://183.207.248.71/cntv/live1/wmyx/wmyx
+#EXTINF:-1 group-title="CHINA",精品纪录
+http://183.207.248.71/cntv/live1/jingpinjl/jingpinjl
+#EXTINF:-1 group-title="CHINA",健康有约
+http://183.207.248.71/cntv/live1/ljiankangyouyue/ljiankangyouyue
+#EXTINF:-1 group-title="CHINA",精品体育
+http://183.207.248.71/cntv/live1/jtiyu/jtiyu
+#EXTINF:-1 group-title="CHINA",潮妈辣婆
+http://183.207.248.71/cntv/live1/cmlapo/HD-1500k-720P-cmlapo
+#EXTINF:-1 group-title="CHINA",CCTV-1
+http://183.207.248.71/cntv/live1/1/cctv-1
+#EXTINF:-1 group-title="CHINA",CCTV-2
+http://183.207.248.71/cntv/live1/2/cctv-2
+#EXTINF:-1 group-title="CHINA",CCTV-3
+http://183.207.248.71/cntv/live1/3/cctv-3
+#EXTINF:-1 group-title="CHINA",CCTV-5
+http://183.207.248.71/cntv/live1/5/cctv-5
+#EXTINF:-1 group-title="CHINA",CCTV5
+http://183.207.248.71/cntv/live1/hdcctv05plus/hdcctv05plus
+#EXTINF:-1 group-title="CHINA",CCTV-6
+http://183.207.248.71/cntv/live1/6/cctv-6
+#EXTINF:-1 group-title="CHINA",CCTV-7
+http://183.207.248.71/cntv/live1/7/cctv-7
+#EXTINF:-1 group-title="CHINA",CCTV-8
+http://183.207.248.71/cntv/live1/8/cctv-8
+#EXTINF:-1 group-title="CHINA",黑龙江卫视高清-8M
+http://183.207.248.71/cntv/live1/heilongjiangstv/HD-8000k-1080P-heilongjiangstv
+#EXTINF:-1 group-title="CHINA",YUNNAN
+http://103.242.13.90:5555/udp/239.4.1.92:10000
+#EXTINF:-1 group-title="CHINA",SanSha
+http://103.242.13.90:5555/udp/239.4.1.94:10000
+#EXTINF:-1 group-title="CHINA",HubeiTV
+http://103.242.13.90:5555/udp/239.4.1.4:10000
+#EXTINF:-1 group-title="CHINA",JSWS
+http://103.242.13.90:5555/udp/239.4.1.1:10000
+#EXTINF:-1 group-title="CHINA",FJTV
+http://103.242.13.90:5555/udp/239.4.1.7:10000
+#EXTINF:-1 group-title="CHINA",sichuan
+http://103.242.13.90:5555/udp/239.4.1.27:10000
+#EXTINF:-1 group-title="CHINA",Tianjin TV
+http://103.242.13.90:5555/udp/239.4.1.25:10000
 #EXTINF:0,[THE END]
