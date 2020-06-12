@@ -209,7 +209,8 @@ http://210.210.155.35/qwr9ew/s/s50/index2.m3u8
 http://210.210.155.35/qwr9ew/s/s19/02.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://starsat.co.za/wp-content/uploads/2017/08/Dragon-TV.png" group-title="CHINA",  DRAGON TV
 http://210.210.155.35/qwr9ew/s/s29/index.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="http://logok.org/wp-content/uploads/2014/10/Hunan-TV-logo-880x645.png" group-title="CHINA",  湖南卫视高清
+http://183.207.248.71/cntv/live1/hunanstv/HD-2500k-1080P-hunanstv
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/BHUh7hq.jpg" group-title="CHINA",  CCTV 1
 https://cctvakhwh5ca-cntv.akamaized.net/clive/cctv1_2/index.m3u8
@@ -414,19 +415,6 @@ http://rt-uk.secure.footprint.net/1106.m3u8?streamType=live
 #EXTINF:-1 group-title="ASIA",AYSAR DW TV
 https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
 
-#EXTINF:-1 group-title="SPORTS",AYSAR  Fox Sports hd
-http://203.154.243.32:8088/live/foxsporthd/index.m3u8
-#EXTINF:-1 group-title="SPORTS",AYSAR  ESPN 1
-http://80.80.160.168/live/6/live.m3u8
-#EXTINF:-1 group-title="SPORTS",AYSAR  ESPN 2
-http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
-#EXTINF:-1 group-title="SPORTS",AYSAR  SPORTS MAX
-http://161.0.157.6/PLTV/88888888/224/3221226766/index.m3u8
-#EXTINF:-1 group-title="SPORTS",AYSAR  SPORTS MAX 2
-http://161.0.157.6/PLTV/88888888/224/3221226777/index.m3u8
-#EXTINF:-1 group-title="SPORTS",AYSAR  FOX SPORT RACING
-http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
-
 #EXTINF:-1 group-title="CHINA",CCTV 1
 http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
 #EXTINF:-1 group-title="CHINA",CCTV 2
@@ -459,18 +447,13 @@ http://ivi.bupt.edu.cn/hls/cctv14.m3u8
 http://ivi.bupt.edu.cn/hls/cctv15.m3u8
 #EXTINF:-1 group-title="CHINA",LY TV
 http://ivi.bupt.edu.cn/hls/lytv.m3u8
-#EXTINF:-1 group-title="CHINA",AYSAR HNNTV CN
-http://pili-live-hls.livelvy.sobeycache.com/livelvy/lvy1.m3u8
-#EXTINF:-1 group-title="CHINA",家有购物
-http://183.207.248.71/cntv/live1/jiayougw/SD-1500k-576P-jiayougw
 #EXTINF:-1 group-title="CHINA",江苏卫视高清
 http://183.207.248.71/cntv/live1/jiangsustv/HD-2500k-1080P-jiangsustv
 #EXTINF:-1 group-title="CHINA",浙江卫视高清
 http://183.207.248.71/cntv/live1/zhejiangstv/HD-2500k-1080P-zhejiangstv
 #EXTINF:-1 group-title="CHINA",北京卫视高清
 http://183.207.248.71/cntv/live1/beijingstv/HD-2500k-1080P-beijingstv
-#EXTINF:-1 group-title="CHINA",湖南卫视高清
-http://183.207.248.71/cntv/live1/hunanstv/HD-2500k-1080P-hunanstv
+
 #EXTINF:-1 group-title="CHINA",广东卫视高清
 http://183.207.248.71/cntv/live1/guangdongstv/HD-2500k-1080P-guangdongstv
 #EXTINF:-1 group-title="CHINA",东方卫视高清
@@ -527,18 +510,46 @@ http://183.207.248.71/cntv/live1/7/cctv-7
 http://183.207.248.71/cntv/live1/8/cctv-8
 #EXTINF:-1 group-title="CHINA",黑龙江卫视高清-8M
 http://183.207.248.71/cntv/live1/heilongjiangstv/HD-8000k-1080P-heilongjiangstv
-#EXTINF:-1 group-title="CHINA",YUNNAN
-http://103.242.13.90:5555/udp/239.4.1.92:10000
-#EXTINF:-1 group-title="CHINA",SanSha
-http://103.242.13.90:5555/udp/239.4.1.94:10000
-#EXTINF:-1 group-title="CHINA",HubeiTV
-http://103.242.13.90:5555/udp/239.4.1.4:10000
-#EXTINF:-1 group-title="CHINA",JSWS
-http://103.242.13.90:5555/udp/239.4.1.1:10000
-#EXTINF:-1 group-title="CHINA",FJTV
-http://103.242.13.90:5555/udp/239.4.1.7:10000
-#EXTINF:-1 group-title="CHINA",sichuan
-http://103.242.13.90:5555/udp/239.4.1.27:10000
-#EXTINF:-1 group-title="CHINA",Tianjin TV
-http://103.242.13.90:5555/udp/239.4.1.25:10000
+
+#EXTINF:-1 group-title="WEDANG RONDE",DISNEY
+http://60.248.127.231:8024/0.ts
+#EXTINF:-1 group-title="WEDANG RONDE",NATGEO WILD
+http://60.248.127.231:8038/0.ts
+#EXTINF:-1 group-title="WEDANG RONDE",HBO HD BACKUP
+http://60.248.127.231:8012/0.ts
+#EXTINF:-1 group-title="WEDANG RONDE",HBO HD
+http://195.206.253.157:20300/hbo
+#EXTINF:-1 group-title="WEDANG RONDE",HBO 3 HD
+http://195.206.253.157:19200/hbo3
+#EXTINF:-1 group-title="WEDANG RONDE",HBO 2 HD
+http://195.206.253.157:19100/hbo2
+#EXTINF:-1 group-title="WEDANG RONDE",History HD
+http://195.206.253.157:8101/history
+#EXTINF:-1 group-title="WEDANG RONDE",Discovery Life HD
+http://195.206.253.157:8401/animalplanet
+#EXTINF:-1 group-title="WEDANG RONDE",Da Vinci
+http://195.206.253.157:17200/davinci
+#EXTINF:-1 group-title="WEDANG RONDE",Polsat Jim Jam
+http://195.206.253.157:20200/jimjam
+#EXTINF:-1 group-title="WEDANG RONDE",ID HD
+http://195.206.253.157:19800/id
+#EXTINF:-1 group-title="WEDANG RONDE",AXN Black
+http://195.206.253.157:14200/axnblack
+#EXTINF:-1 group-title="WEDANG RONDE",AXN White
+http://195.206.253.157:14400/axnwhite
+#EXTINF:-1 group-title="WEDANG RONDE",FilmBox Premium HD
+http://195.206.253.157:15900/filmbox
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHINA",  TV CHINA 1 FHD
+http://ivi.bupt.edu.cn/hls/hunanhd.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHINA",  TV CHINA 2 FHD
+http://ivi.bupt.edu.cn/hls/dfhd.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CHINA",  TV CHINA 3 FHD
+http://ivi.bupt.edu.cn/hls/jshd.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/66/ZTV_logo.png" group-title="CHINA",  TV CHINA 4 HD
+http://121.31.30.90:8085/ysten-business/live/hdzhejiangstv/yst.m3u8
+
 #EXTINF:0,[THE END]
