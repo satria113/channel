@@ -369,55 +369,13 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w648106128_
 #EXTINF:-1 group-title="Local Channel",AYSAR BERITA SATU
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b846000.m3u8
 
-#EXTINF:-1 group-title="KIDS Channel",AYSAR Cartoon Network
-http://763417a9.kartoshkaka.ru/iptv/KLF5WG86AQZ653/143/index.m3u8
-#EXTINF:-1 group-title="KIDS Channel",AYSAR Nick Jr
-http://763417a9.kartoshkaka.ru/iptv/KLF5WG86AQZ653/114/index.m3u8
-#EXTINF:-1 group-title="KIDS Channel",AYSAR Nickelodeon
-http://763417a9.kartoshkaka.ru/iptv/KLF5WG86AQZ653/541/index.m3u8
-#EXTINF:-1 group-title="KIDS Channel",KIDS Channel AYSAR
+#EXTINF:-1 group-title="KIDS Channel",  DISNEY JUNIOR
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
-#EXTINF:-1 group-title="KIDS Channel",AYSAR Kids TV
-https://stitcher.pluto.tv/stitch/hls/channel/51c75f7bb6f26ba1cd00002f/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=&deviceModel=&embedPartner=pluto.tv&sid=aocvf6f7c3skho4fkbj2demm10
-#EXTINF:-1 group-title="KIDS Channel",AYSAR After School Cartoons
-https://stitcher.pluto.tv/stitch/hls/channel/56171fafada51f8004c4b40f/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=&deviceModel=&embedPartner=pluto.tv&sid=kbcvf6f7c3skho4fkbj2demm10
-#EXTINF:-1 group-title="KIDS Channel",AYSAR Classic Toons TV
-https://stitcher.pluto.tv/stitch/hls/channel/562ea53fa9060c5a7d463e74/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=&deviceModel=&embedPartner=pluto.tv&sid=qbcvf6f7c3skho4fkbj2demm10
-#EXTINF:-1 group-title="KIDS Channel",Anime All Day
-https://stitcher.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=&deviceModel=&embedPartner=pluto.tv&sid=abcvf6f7c3skho4fkbj2demm10
-#EXTINF:-1 group-title="KIDS Channel",Miao Mi
-https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
 #EXTINF:-1 group-title="KIDS Channel",DISNEY Junior
 http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8
 #EXTINF:-1 group-title="KIDS Channel",DISNEY Channel
 http://161.0.157.6/PLTV/88888888/224/3221226299/index.m3u8
-#EXTINF:-1 group-title="KIDS Channel",AYSAR KIDS 1
-http://195.5.108.14:1935/live/itv1/playlist.m3u8
-#EXTINF:-1 group-title="KIDS Channel",A1 Kids
-http://178.132.6.97:8080/A1Kids1/index.m3u8
- 
- 
- 
- 
- 
-#EXTINF:-1 group-title="MOVIE",AYSAR HBO HD
-http://125.227.35.176:18080/hbo/index.m3u8
-#EXTINF:-1 group-title="MOVIE",AYSAR HBO A HOME RED
-http://763417a9.kartoshkaka.ru/iptv/KLF5WG86AQZ653/556/index.m3u8
-#EXTINF:-1 group-title="MOVIE",AYSAR HBO CHINA
-http://218.202.220.2:5000/nn_live.m3u8?id=HBO
-#EXTINF:-1 group-title="MOVIE",AYSAR Max Prime
-http://161.0.157.9/PLTV/88888888/224/3221226834/index.m3u8
-#EXTINF:-1 group-title="MOVIE",AYSAR Sony Movie Channel
-http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_480_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title="MOVIE",AYSAR BTV Cinema
-http://84.43.207.130/btvcinema/btvcinema.m3u8
-#EXTINF:-1 group-title="MOVIE",AYSAR RAI PREMIUM
-http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
-#EXTINF:-1 group-title="MOVIE",AYSAR RAI MOVIE
-http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
-#EXTINF:-1 group-title="MOVIE",AYSAR RAI 4 HD
-http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/master.m3u8
+
 #EXTINF:-1 group-title="MOVIE",Action Movies
 https://stitcher.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=cb6766b0-8b86-11e8-828e-357f3c4bb5d0&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 #EXTINF:-1 group-title="MOVIE",Pluto Movies 2
@@ -428,22 +386,160 @@ https://stitcher.pluto.tv/stitch/hls/channel/5887ba337b8e94223eb121bd/master.m3u
 http://stitcher.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472000114/master.m3u8?sid=web24157571521&deviceType=web&deviceMake=web&deviceVersion=1&deviceId=web24163643069&appVersion=5.2.7&deviceDNT=web&deviceModel=web
 #EXTINF:-1 group-title="MOVIE",Pluto TV Cars
 https://stitcher.pluto.tv/stitch/hls/channel/5812b3a4249444e05d09cc46/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=cb6766b0-8b86-11e8-828e-357f3c4bb5d0&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
-#EXTINF:-1 group-title="MOVIE",AYSAR Anime
-http://aldirect.hls.huya.com/huyalive/94525224-2553630828-10967760892317401088-3049003140-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="MOVIE",AYSAR CARTOON BACKUP
-https://aldirect.hls.huya.com/huyalive/94525224-2475824398-10633584820048887808-2847687532-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="MOVIE",AYSAR Hollywood Movies 1
-http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
-#EXTINF:-1 group-title="MOVIE",AYSAR Hollywood Movies 2
-http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="MOVIE",AYSAR Hollywood Movies 4
-http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="MOVIE",AYSAR Kuroko's Basketball
-http://aldirect.hls.huya.com/huyalive/94525224-2604793726-11187503865995984896-3049003148-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="MOVIE",AYSAR Hollywood Movies 5
-http://ws4.streamhls.huya.com:80/huyalive/29106097-2689448236-11551092217904889856-2789274572-10057-A-0-1_1200/playlist.m3u8
-#EXTINF:-1 group-title="MOVIE",AYSAR Hollywood Movies 6
-http://ws4.streamhls.huya.com/huyalive/29106097-2689279104-11550365801496182784-2777026902-10057-A-0-1_1200/playlist.m3u8
-#EXTINF:-1 group-title="MOVIE",AYSAR Hollywood Movies 7
-http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1 group-title="LIFE STYLE",LIFE STYLE LIST AYSAR
+https://mysisli.com/36bay2/gin/gin-fashionone/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="LIFE STYLE",AYSAR Women Fashion Channel
+http://mysisli.com/md2/all-fashionwomen/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="LIFE STYLE",FAMILIA TV
+http://familytvblizz-lh.akamaihd.net/i/blizzlive_1@36699/master.m3u8
+#EXTINF:-1 group-title="LIFE STYLE",FASHION BRIDAL
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_bridal_adaptive.smil/media.m3u8
+#EXTINF:-1 group-title="LIFE STYLE",FASHION FILMS
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_fashion_films_adaptive.smil/media.m3u8
+#EXTINF:-1 group-title="LIFE STYLE",FASHION FITNESS
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_fashion_fitness_adaptive.smil/media.m3u8
+#EXTINF:-1 group-title="LIFE STYLE",FASHION MEN
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_fmen_adaptive.smil/media.m3u8
+#EXTINF:-1 group-title="LIFE STYLE",FASHION MIDDLE
+https://fash2043.cloudycdn.services/slive/_definst_/ftv_ftv_middle_e_60b_42114_middle_east_94_hls.smil/media.m3u8
+#EXTINF:-1 group-title="LIFE STYLE",FASHION MIDNITE
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8
+#EXTINF:-1 group-title="LIFE STYLE",FASHION MODEL
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_top_models_adaptive.smil/media.m3u8
+#EXTINF:-1 group-title="LIFE STYLE",FASHION PARIS
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/media.m3u8
+#EXTINF:-1 group-title="LIFE STYLE",FASHION PG13
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg13_adaptive.smil/media.m3u8
+#EXTINF:-1 group-title="LIFE STYLE",FASHION PG16
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/media.m3u8
+#EXTINF:-1 group-title="LIFE STYLE",FASHION PHOTOSHOOTS
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_photoshoots_adaptive.smil/media.m3u8
+
+#EXTINF:-1 group-title="ASIA",AYSAR JOJ
+http://nn.geo.joj.sk/hls/joj-540.m3u8
+#EXTINF:-1 group-title="ASIA",AYSAR JOJ PLUS
+http://nn.geo.joj.sk/hls/jojplus-540.m3u8
+#EXTINF:-1 group-title="ASIA",AYSAR JOJ FAMILY
+http://nn.geo.joj.sk/hls/family-540.m3u8
+#EXTINF:-1 group-title="ASIA",AYSAR DAJTO
+http://se01.se.cdn.srv.markiza.sk/live/dajto-w.smil/chunklist.m3u8
+#EXTINF:-1 group-title="ASIA",AYSAR DOMA
+http://se02.se.cdn.srv.markiza.sk/live/doma-w.smil/chunklist.m3u8
+#EXTINF:-1 group-title="ASIA",AYSAR WAU
+http://nn.geo.joj.sk/hls/wau-540.m3u8
+#EXTINF:-1 group-title="ASIA",AYSAR xcorps
+http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8
+#EXTINF:-1 group-title="ASIA",AYSAR Stargaze Music
+http://vcnstargazemuzik.teleosmedia.com/stream/stargazemuzik/asianmusic/seglist_720p.m3u8
+#EXTINF:-1 group-title="ASIA",AYSAR IndieWave
+https://vcnindiewave.teleosmedia.com/stream/indiewave/indiewave/seglist_720p.m3u8
+#EXTINF:-1 group-title="ASIA",AYSAR FEVA TV
+http://vcnfevatv.teleosmedia.com/stream/fevatv/fevatv/seglist_720p.m3u8
+#EXTINF:-1 group-title="ASIA",AYSAR IRIB Varzesh
+https://yjc.arvanlive.com/hls/varzesh/varzesh_480/index.m3u8
+#EXTINF:-1 group-title="ASIA",AYSAR HISTORY
+http://192.240.127.34:1935/live/cs14.stream/playlist.m3u8?wowzasessionid=1203854395
+#EXTINF:-1 group-title="ASIA",AYSAR CGTN Documentary
+https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+#EXTINF:-1 group-title="ASIA",AYSAR CGTN English
+http://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1 group-title="ASIA",AYSAR JAPAN CH
+http://192.240.127.34:1935/live/cs19.stream/play.m3u8?wowzasessionid=708726640
+#EXTINF:-1 group-title="ASIA",AYSAR WOWOW MOVIES
+http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
+#EXTINF:-1 group-title="ASIA",AYSAR EBS KIDS
+http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1 group-title="ASIA",AYSAR Science Channel
+http://80.80.160.168/live/9/live.m3u8
+#EXTINF:-1 group-title="ASIA",AYSAR Showtime
+http://80.80.160.168/live/7/live.m3u8
+#EXTINF:-1 group-title="ASIA",AYSAR BEACH TV
+http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
+#EXTINF:-1 group-title="ASIA",AYSAR MEDIARORP 8
+https://ftach8.akamaized.net/out/v1/e6c84096fa424e7eaab636021b2b86ec/index.m3u8
+#EXTINF:-1 group-title="ASIA",AYSAR MEDIARORP U
+https://ftachu.akamaized.net/out/v1/4d9907464ff048ce859219b22ed52599/index.m3u8
+#EXTINF:-1 group-title="ASIA",AYSAR HD FASHION
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
+#EXTINF:-1 group-title="ASIA",AYSAR FASHION TV
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_fmen_adaptive.smil/chunklist_b900000_t64MzYwcA==.m3u8
+#EXTINF:-1 group-title="ASIA",AYSAR PRIME ASIA
+http://primeasia.dyndns.tv:8080/Live_web_2500/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="ASIA",AYSAR Discovery ID
+http://80.80.160.168/live/5/live.m3u8
+#EXTINF:-1 group-title="ASIA",AYSAR Discovery Science HD
+http://80.80.160.168/live/9/live.m3u8
+#EXTINF:-1 group-title="ASIA",AYSAR Animal Planet2
+http://80.80.160.168/live/1/live.m3u8
+#EXTINF:-1 group-title="ASIA",AYSAR SHOWTIME HD TV
+http://80.80.160.168/live/7/live.m3u8
+#EXTINF:-1 group-title="ASIA",AYSAR MTV
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:-1 group-title="ASIA",AYSAR DAI TV
+http://edge.nim.mivo.tv/daaitv/daaitv2_all/playlist.m3u8
+#EXTINF:-1 group-title="ASIA",AYSAR British Muslim TV
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/british_muslim_tv/hls1/index.m3u8
+#EXTINF:-1 group-title="ASIA",AYSAR Eman Channel
+http://dcunilive3-lh.akamaihd.net/i/dclive_1@317556/master.m3u8
+#EXTINF:-1 group-title="ASIA",AYSAR Ayaat Tv
+http://m.live.net.sa:1935/live/ayat/playlist.m3u8
+#EXTINF:-1 group-title="ASIA",AYSAR Resalat Al Islam
+http://82.212.74.3:8000/live/7502.m3u8
+#EXTINF:-1 group-title="ASIA",AYSAR Al Rayyan Al Qadeem
+http://alrayyan1live.azureedge.net/alrayyan2/alrayyan2.smil/playlist.m3u8
+#EXTINF:-1 group-title="ASIA",AYSAR Bahrain Quran  
+http://185.105.4.106:1935/live/Bahrain%20Quran/playlist.m3u8
+#EXTINF:-1 group-title="ASIA",imam hussein tv
+http://en.imamhossaintv.com/live/ih301/index.m3u8
+#EXTINF:-1 group-title="ASIA",AYSAR KTV Ethraa
+http://svs.itworkscdn.net/ktvethraalive/smil:kethraa.smil/playlist.m3u8
+#EXTINF:-1 group-title="ASIA",AYSAR Sharqiya Tv
+http://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
+#EXTINF:-1 group-title="ASIA",AYSAR TRT Diyanet
+http://trtcanlitv-lh.akamaihd.net/i/TRTDIYANET_1@182344/master.m3u8
+#EXTINF:-1 group-title="ASIA",AYSAR TRT WORLD
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+#EXTINF:-1 group-title="ASIA",AYSAR Semerkand Tv
+http://semerkandglb.mediatriple.net/semerkandliveedge/semerkand3/sansar.m3u8
+#EXTINF:-1 group-title="ASIA",AYSAR RT USA
+http://rt-usa.secure.footprint.net:80/1105.m3u8?streamType=live
+#EXTINF:-1 group-title="ASIA",AYSAR RT UK
+http://rt-uk.secure.footprint.net/1106.m3u8?streamType=live
+#EXTINF:-1 group-title="ASIA",AYSAR NHK WORLD
+https://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
+#EXTINF:-1 group-title="ASIA",AYSAR BLOOMBERG
+https://bblive-liveprodapnortheast.hs.llnwd.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
+#EXTINF:-1 group-title="ASIA",AYSAR DW TV
+https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
+#EXTINF:-1 group-title="ASIA",AYSAR SKY NEWS
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
+#EXTINF:-1 group-title="ASIA",AYSAR Japan Channel DX
+http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
+#EXTINF:-1 group-title="ASIA",AYSAR Japan HISTORY
+http://192.240.127.34:1935/live/cs14.stream/playlist.m3u8
+#EXTINF:-1 group-title="ASIA",AYSAR NTV News24
+http://www.news24.jp/livestream/index.m3u8
+#EXTINF:-1 group-title="ASIA",AYSAR ABC News 11
+https://abclive2-lh.akamaihd.net/i/abc_live11@423404/index_4000_av-p.m3u8
+#EXTINF:-1 group-title="ASIA",AYSAR TV5 MONDE
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
+#EXTINF:-1 group-title="ASIA",AYSAR fta ch8
+https://ftach8.akamaized.net/out/v1/073dd78a13e94503be38183e2d126d31/index_5.m3u8
+#EXTINF:-1 group-title="ASIA",AYSAR fta ch5
+https://ftach5.akamaized.net/out/v1/0b05c17bddbd459f874d7cd3b2df9464/index_5.m3u8
+#EXTINF:-1 group-title="ASIA",AYSAR fta okt
+https://ftaokto.akamaized.net/out/v1/dcbd96fdb4f24038a854bcd95ba36593/index_5.m3u8
+#EXTINF:-1 group-title="ASIA",AYSAR fta cna
+https://ftacnas.akamaized.net/out/v1/9ddbc4447c95436baf9bcf61377f7046/index_5.m3u8
+#EXTINF:-1 group-title="ASIA",AYSAR 7mate
+https://csm-e-n7aus.tls1.yospace.com/csm/extlive/sevenprd01,SYD3.m3u8
+#EXTINF:-1 group-title="ASIA",AYSAR 7TWO
+https://csm-e-n7aus.tls1.yospace.com/csm/extlive/sevenprd01,SYD2.m3u8
+#EXTINF:-1 group-title="ASIA",AYSAR Expo Channel
+http://tvsn-i.akamaihd.net/hls/live/261837/expo/expo_750.m3u8?thebestfreeenglishchannels.m3u8
+#EXTINF:-1 group-title="ASIA",AYSAR BC
+http://ax.micaesoft.com/YMitv/YMITV_CN_DSnew.m3u8
+#EXTINF:-1 group-title="ASIA",AYSAR MS HD
+http://ax.micaesoft.com/YMitv/YMITV_CN_MS.m3u8
 #EXTINF:0,[THE END]
