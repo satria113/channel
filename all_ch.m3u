@@ -239,24 +239,63 @@ http://183.207.248.71/cntv/live1/hunanstv/HD-2500k-1080P-hunanstv
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/BHUh7hq.jpg" group-title="CHINA",  CCTV 1
 https://cctvakhwh5ca-cntv.akamaized.net/clive/cctv1_2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/BHUh7hq.jpg" group-title="CHINA",  CCTV 1 HD
+http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/Rb0mjkC.jpg" group-title="CHINA",  CCTV 2
 http://112.50.243.8/PLTV/88888888/224/3221225800/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/Rb0mjkC.jpg" group-title="CHINA",  CCTV 2
+http://ivi.bupt.edu.cn/hls/cctv2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/HqScjKW.jpg" group-title="CHINA",  CCTV 3
 http://183.207.249.14/PLTV/3/224/3221225588/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/HqScjKW.jpg" group-title="CHINA",  CCTV 3 HD
+http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/l8PQ7fy.jpg" group-title="CHINA",  CCTV 4
 https://cctvcnch5ca.v.wscdns.com/live/cctveurope_2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/OkLtNrC.jpg" group-title="CHINA",  CCTV-8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/l8PQ7fy.jpg" group-title="CHINA",  CCTV 4
+http://ivi.bupt.edu.cn/hls/cctv4.m3u8
+
+#EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/hdcctv05plus/C55JSKDXTB.png" group-title="CHINA",  CCTV5+ HD
+http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
+#EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-6/C6JSKDXTB.png" group-title="CHINA",  CCTV 6 FHD
+http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
+#EXTINF:-1 group-title="CHINA",  CCTV 7
+http://ivi.bupt.edu.cn/hls/cctv7.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/OkLtNrC.jpg" group-title="CHINA",  CCTV 8
 http://223.110.243.171/PLTV/3/224/3221227204/index.m3u8
+#EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-8/C8JSKDXTB.png" group-title="CHINA",  CCTV 8 FHD
+http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
+#EXTINF:-1 group-title="CHINA",  CCTV 9
+http://ivi.bupt.edu.cn/hls/cctv9.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/PzNBEcb.jpg" group-title="CHINA",  CCTV 10
 http://112.50.243.8/PLTV/88888888/224/3221225814/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/PzNBEcb.jpg" group-title="CHINA",  CCTV 10
+http://ivi.bupt.edu.cn/hls/cctv10.m3u8
+#EXTINF:-1 group-title="CHINA",  CCTV 11
+http://ivi.bupt.edu.cn/hls/cctv11.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/WSRY5Fu.jpg" group-title="CHINA",  CCTV 12
 http://112.50.243.8/PLTV/88888888/224/3221225816/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/WSRY5Fu.jpg" group-title="CHINA",  CCTV 12
+http://ivi.bupt.edu.cn/hls/cctv12.m3u8
+#EXTINF:-1 group-title="CHINA",  CCTV 13
+http://ivi.bupt.edu.cn/hls/cctv13.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/USiqg8c.jpg" group-title="CHINA",  CCTV 14
 http://112.50.243.8/PLTV/88888888/224/3221225819/1.m3u8
+#EXTINF:-1 group-title="CHINA",  CCTV 14
+http://ivi.bupt.edu.cn/hls/cctv14.m3u8
+#EXTINF:-1 group-title="CHINA",  CCTV 15
+http://ivi.bupt.edu.cn/hls/cctv15.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/cr8OF2D.jpg" group-title="CHINA",  CCTV 17
 http://112.50.243.5/PLTV/88888888/224/3221226990/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/dvjH5RE.png" group-title="CHINA",  NewTV Super Variety
 http://112.50.243.8/PLTV/88888888/224/3221225801/1.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/hdcctv05plus/C55JSKDXTB.png" group-title="CHINA",  CCTV5+ HD 2
+http://cdn10.uhd4khdr.com/5jia.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png" group-title="CHINA",  CHC FHD
+http://ivi.bupt.edu.cn/hls/chchd.m3u8
 
 
 
@@ -439,36 +478,7 @@ http://rt-uk.secure.footprint.net/1106.m3u8?streamType=live
 #EXTINF:-1 group-title="ASIA",AYSAR DW TV
 https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
 
-#EXTINF:-1 group-title="CHINA",CCTV 1
-http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
-#EXTINF:-1 group-title="CHINA",CCTV 2
-http://ivi.bupt.edu.cn/hls/cctv2.m3u8
-#EXTINF:-1 group-title="CHINA",CCTV 3
-http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
-#EXTINF:-1 group-title="CHINA",CCTV 4
-http://ivi.bupt.edu.cn/hls/cctv4.m3u8
-#EXTINF:-1 group-title="CHINA",CCTV 5
-http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
-#EXTINF:-1 group-title="CHINA",CCTV 6
-http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
-#EXTINF:-1 group-title="CHINA",CCTV 7
-http://ivi.bupt.edu.cn/hls/cctv7.m3u8
-#EXTINF:-1 group-title="CHINA",CCTV 8
-http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
-#EXTINF:-1 group-title="CHINA",CCTV 9
-http://ivi.bupt.edu.cn/hls/cctv9.m3u8
-#EXTINF:-1 group-title="CHINA",CCTV 10
-http://ivi.bupt.edu.cn/hls/cctv10.m3u8
-#EXTINF:-1 group-title="CHINA",CCTV 11
-http://ivi.bupt.edu.cn/hls/cctv11.m3u8
-#EXTINF:-1 group-title="CHINA",CCTV 12
-http://ivi.bupt.edu.cn/hls/cctv12.m3u8
-#EXTINF:-1 group-title="CHINA",CCTV 13
-http://ivi.bupt.edu.cn/hls/cctv13.m3u8
-#EXTINF:-1 group-title="CHINA",CCTV 14
-http://ivi.bupt.edu.cn/hls/cctv14.m3u8
-#EXTINF:-1 group-title="CHINA",CCTV 15
-http://ivi.bupt.edu.cn/hls/cctv15.m3u8
+
 #EXTINF:-1 group-title="CHINA",LY TV
 http://ivi.bupt.edu.cn/hls/lytv.m3u8
 #EXTINF:-1 group-title="CHINA",江苏卫视高清
@@ -723,23 +733,7 @@ http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8
 #EXTINF:-1 group-title="LIFESTYLE",  REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
-#EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-3/C3JSKDXTB.png" group-title="CHINA",  CCTV3 FHD
-http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
 
-#EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/hdcctv05plus/C55JSKDXTB.png" group-title="CHINA",  CCTV5+ HD
-http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
-
-#EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/hdcctv05plus/C55JSKDXTB.png" group-title="CHINA",  CCTV5+ HD 2
-http://cdn10.uhd4khdr.com/5jia.m3u8
-
-#EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-6/C6JSKDXTB.png" group-title="CHINA",  CCTV6 FHD
-http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
-
-#EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-8/C8JSKDXTB.png" group-title="CHINA",  CCTV8 FHD
-http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png" group-title="CHINA",  CHC FHD
-http://ivi.bupt.edu.cn/hls/chchd.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport",  SENTANA SPORT
