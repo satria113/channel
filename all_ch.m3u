@@ -110,8 +110,6 @@ http://210.210.155.35/session/ff569f46-2f90-11e9-b351-b82a72d63267/uq2663/h/h05/
 http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/02.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/wB9CkPG.jpg" group-title="SPORT",  Fight Sports
 http://210.210.155.35/uq2663/h/h05/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://pbs.twimg.com/media/DfLqnf4VMAA0m27.png" group-title="SPORT",  Bek Sports East
-https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/2000px-Fox_Sports_1_logo.svg.png" tvg-name="FOX SPORT 1"  group-title="SPORT",  FOX SPORT 1
 http://45.58.62.92:8080
 #EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b5/Real_Madrid_TV_HD.png/revision/latest/scale-to-width-down/200?cb=20170103061913", group-title="SPORT",  REAL MADRID TV
@@ -274,9 +272,9 @@ http://210.210.155.35/session/c30d8c14-f1bc-11e8-89c0-aa35b2893d02/uq2663/h/h143
 http://45.126.83.51/dr9445/h/h15/01.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png" group-title="MOVIES",BLUE ANT EXTREME
 http://210.210.155.35/session/52acdc30-30c4-11e9-b47d-c81f66f89318/dr9445/h/h15/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://parco-zh.github.io/demo/BLUE.png" group-title="MOVIES",  BLUE ANT ENTERTAINMENT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://pbs.twimg.com/profile_images/947316656480518144/FEiA6XmM.jpg" group-title="MOVIES",  BLUE ANT ENTERTAINMENT
 http://210.210.155.35:80/session/676c25ba-724e-11e9-834b-8ac28bf32f5a/dr9445/h/h16/02.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://parco-zh.github.io/demo/BLUE.png" group-title="MOVIES",  BLUE ANT ENTERTAINMENT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://pbs.twimg.com/profile_images/947316656480518144/FEiA6XmM.jpg" group-title="MOVIES",  BLUE ANT ENTERTAINMENT
 http://210.210.155.35/session/2892c0cc-30c4-11e9-af8c-c81f66f89318/dr9445/h/h16/02.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/720_300.png" tvg-country="ID" tvg-url="" group-title="MOVIES",  HITS
 http://210.210.155.35/session/b664cd50-6b66-11e9-88bd-a3eeb50c438d/uq2663/h/h37/index2.m3u8?fluxustv.m3u8
@@ -286,8 +284,6 @@ http://210.210.155.35/uq2663/h/h37/index2.m3u8
 http://210.210.155.35/session/315e5196-0755-11e9-a62c-b82a72d63267/uq2663/h/h37/02.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/Hits_TV_Asia_logo.jpg/200px-Hits_TV_Asia_logo.jpg" tvg-country="ID" tvg-url="" group-title="MOVIES",  HITS
 http://rr.dens.tv/h/h37/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png" group-title="MOVIES",  Blue Ant Extreme
-http://203.153.218.28:9981/stream/channelid/1299824667?ticket=EDA811CE90A26AD414D02B63E0A9171A68A9454C&profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1280px-AXN_logo_%282015%29.svg.png" group-title="MOVIES",  AXN
 http://203.153.218.28:9981/stream/channelid/882386103?ticket=DF543FFEC6C497F485D61A1907E83292A2DB1741&profile=pass
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/573025578837671936/0SP5Blcm_400x400.jpeg" group-title="MOVIES",  KIX HD
