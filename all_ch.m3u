@@ -590,4 +590,9 @@ http://203.153.218.28:9981/stream/channelid/1299824667?ticket=EDA811CE90A26AD414
 http://203.153.218.28:9981/stream/channelid/1197019186?ticket=96AB9AD0536B1000E515E3219100C78A9625CAE3&profile=pass
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png" group-title="XXX", CINEMAX
 http://203.153.218.28:9981/stream/channelid/255605374?ticket=434549F6D027878D70C7F1F479D0C3495B16099D&profile=pass
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="http://img1.gtimg.com/sh/pics/hv1/200/222/1872/121783610.png" tvg-country="ID" tvg-url="" group-title="XXX",  优漫卡通
+http://218.244.147.118:5383/wtvlive/wasu/ymkatong
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="http://img1.gtimg.com/sh/pics/hv1/200/222/1872/121783610.png" tvg-country="ID" tvg-url="" group-title="XXX",  优漫卡通
+http://116.10.188.134:55336/tslive/c24_ct_jstv7_ymkt_smooth_t10/c24_ct_jstv7_ymkt_smooth_t10.m3u8
+
 #EXTINF:0,[THE END]
