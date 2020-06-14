@@ -244,6 +244,8 @@ http://183.207.248.71/cntv/live1/hunanstv/HD-2500k-1080P-hunanstv
 http://ivi.bupt.edu.cn/hls/hunanhd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/jiangsu_tv.png" group-title="CHINA",  JIANGSU TV
 http://ivi.bupt.edu.cn/hls/jshd.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/jiangsu_tv.png" group-title="CHINA",  JIANGSU TV
+http://183.207.248.71/cntv/live1/jiangsustv/HD-2500k-1080P-jiangsustv
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/zz/zhejiang-satellite-tv-cn.png" group-title="CHINA",  ZHEJIANG
 http://121.31.30.90:8085/ysten-business/live/hdzhejiangstv/yst.m3u8
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e1/SETN_logo.png" group-title="CHINA",  SETN
@@ -313,16 +315,14 @@ http://ivi.bupt.edu.cn/hls/cctv14.m3u8
 http://112.50.243.8/PLTV/88888888/224/3221225819/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv15.jpg" group-title="CHINA",  CCTV 15
 http://ivi.bupt.edu.cn/hls/cctv15.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/cr8OF2D.jpg" group-title="CHINA",  CCTV 17
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv17.jpg" group-title="CHINA",  CCTV 17
 http://112.50.243.5/PLTV/88888888/224/3221226990/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/dvjH5RE.png" group-title="CHINA",  NewTV Super Variety
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/dvjH5RE.png" group-title="CHINA",  NewTV SUPER VARIETY
 http://112.50.243.8/PLTV/88888888/224/3221225801/1.m3u8
 #EXTINF:-1 tvg-logo="http://www.dianshiba.cc/images/dianshi/chc.jpg" group-title="CHINA",  CHC HD
 http://ivi.bupt.edu.cn/hls/chchd.m3u8
 
-#EXTINF:-1 group-title="CHINA",江苏卫视高清
-http://183.207.248.71/cntv/live1/jiangsustv/HD-2500k-1080P-jiangsustv
-#EXTINF:-1 group-title="CHINA",浙江卫视高清
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/jiangsu_tv.png" group-title="CHINA",  ZHEJIANG TV
 http://183.207.248.71/cntv/live1/zhejiangstv/HD-2500k-1080P-zhejiangstv
 #EXTINF:-1 group-title="CHINA",北京卫视高清
 http://183.207.248.71/cntv/live1/beijingstv/HD-2500k-1080P-beijingstv
