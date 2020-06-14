@@ -4,6 +4,10 @@
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/MetroTV_2000.svg/1280px-MetroTV_2000.svg.png" group-title="LOCAL",  METRO TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2076301259_b1492000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/MetroTV_2000.svg/1280px-MetroTV_2000.svg.png" group-title="LOCAL",  METRO TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w648106128_b1128000_sleng.m3u8
+#EXTINF:-1 tvg-logo="http://www.beritasatu.tv/wp-content/themes/beritasatu/images/beritasatu-news-ch.png" group-title="LOCAL",  BERITA SATU
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b846000.m3u8
 #EXTINF:-1 tvg-logo="http://www.beritasatu.tv/wp-content/themes/beritasatu/images/beritasatu-news-ch.png" group-title="LOCAL",  BERITA SATU
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.beritasatu.tv/wp-content/themes/beritasatu/images/beritasatu-news-ch.png" group-title="LOCAL",  BERITA SATU HD
@@ -20,6 +24,8 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 http://video.detik.com/transtv/smil:transtv.smil/chunklist_w1742067075_b384000_sleng.m3u8?regieaerlays
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_trans7_big1.png?v=1.0.0.0" group-title="LOCAL",  TRANS7
 http://video.detik.com/trans7/smil:trans7.smil/chunklist_w798109995_b384000_sleng.m3u8?regieaerlays
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/489px-Antv_logo_%282017%29.svg.png" group-title="LOCAL",  ANTV
+http://210.210.155.35/qwr9ew/s/s07/01.m3u8
 #EXTINF:-1,tvg-logo="http://images2.useetv.com/logo_tvone_big1.png?v=1.0.0.0" group-title="LOCAL", TVRI Sports
 http://210.210.155.35/session/69e800f6-97c0-11e9-888f-b82a72d63267/qwr9ew/s/s107/index.m3u8
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_rtv_big1.png?v=1.0.0.0" group-title="LOCAL",  RAJAWALI TV HD
@@ -30,6 +36,9 @@ http://210.210.155.35/qwr9ew/s/s08/01.m3u8
 http://210.210.155.35/qwr9ew/s/s13/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/e3/DAAI_TV_Jakarta.png/320px-DAAI_TV_Jakarta.png" group-title="LOCAL",  DAAI TV
 http://210.210.155.35/session/4ad0585c-b72501e8-b712-b82a72d63267/qwr9ew/s/s13/01.m3u8
+
+
+
 
 
 #EXTINF:-1 tvg-id="Channel NewsAsia" tvg-name="Channel NewsAsia" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" group-title="NEWS",  CNA HD
@@ -74,6 +83,8 @@ http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
 http://210.210.155.35/qwr9ew/s/s38/index.m3u8
 #EXTINF:-1  tvg-logo="https://braga.breakout.pt/wp-content/uploads/2015/04/RTP-e-TDT-logo.png" group-title="NEWS",  RTP
 http://210.210.155.35/qwr9ew/s/s23/02.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/RRI_NET.png" group-title="NEWS",  RRI NET
+http://36.89.47.217:11935/rrinet/live/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/wB9CkPG.jpg" group-title="SPORT",  Fight Sports
@@ -399,6 +410,8 @@ http://183.207.248.71/cntv/live1/heilongjiangstv/HD-8000k-1080P-heilongjiangstv
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/79/37/9e/79379ebe8f8398aeb819899a1468ae81.png" group-title="KIDS",  DISNEY JUNIOR
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/79/37/9e/79379ebe8f8398aeb819899a1468ae81.png" group-title="KIDS",  DISNEY JUNIOR
+http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8
 
 #EXTINF:0 tvg-logo="https://www.cartoonnetworkeurope.com/img/logo.png" group-title="KIDS",  Cartoon Network
 http://203.153.218.28:9981/stream/channelid/251475608?ticket=5B6244F9555D96BA8A9DF1BBBA2BA2F8BDB05A86&profile=pass
@@ -465,23 +478,10 @@ http://210.210.155.35/uq2663/h/h01/index.m3u8
 
 
 
-#EXTINF:-1 group-title="BUKAN PREMIUM",AYSAR Channel A
-http://210.210.155.35/session/5f5291e8-f3f5-11e8-a084-882a82612570/dr9445/h/h29/01.m3u8
-#EXTINF:-1 group-title="BUKAN PREMIUM",AYSAR Silence TV
-http://109.236.85.100:8081/SilenceTV/live/playlist.m3u8
-#EXTINF:-1 group-title="BUKAN PREMIUM",AYSAR RRI NET
-http://36.89.47.217:11935/rrinet/live/index.m3u8
-#EXTINF:-1 group-title="BUKAN PREMIUM",AYSAR FOX
-http://103.242.13.90:5555/udp/239.4.1.83:10000
-#EXTINF:-1 group-title="Local Channel",AYSAR METRO HD
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w648106128_b1128000_sleng.m3u8
-#EXTINF:-1 group-title="Local Channel",AYSAR BERITA SATU
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b846000.m3u8
 
-#EXTINF:-1 group-title="KIDS Channel",  DISNEY JUNIOR
-http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
-#EXTINF:-1 group-title="KIDS Channel",DISNEY Junior
-http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8
+
+
+
 #EXTINF:-1 group-title="KIDS Channel",DISNEY Channel
 http://161.0.157.6/PLTV/88888888/224/3221226299/index.m3u8
 
@@ -525,10 +525,7 @@ https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
 
 
 
-#EXTINF:0 group-title="INDOTV",ANTV
-http://210.210.155.35/qwr9ew/s/s07/01.m3u8
-#EXTINF:0 group-title="INDOTV",METRO TV
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+
 
 #EXTINF:0 group-title="INDOTV",TVRI
 http://210.210.155.35/qwr9ew/s/s11/01.m3u8
