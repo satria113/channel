@@ -591,16 +591,22 @@ http://203.153.218.28:9981/stream/channelid/1197019186?ticket=96AB9AD0536B1000E5
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png" group-title="XXX", CINEMAX
 http://203.153.218.28:9981/stream/channelid/255605374?ticket=434549F6D027878D70C7F1F479D0C3495B16099D&profile=pass
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="http://img1.gtimg.com/sh/pics/hv1/200/222/1872/121783610.png" tvg-country="ID" tvg-url="" group-title="XXX",  优漫卡通
+#EXTINF:0 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="http://img1.gtimg.com/sh/pics/hv1/200/222/1872/121783610.png" tvg-country="ID" tvg-url="" group-title="XXX",  优漫卡通
 http://122.96.52.11:8080/gitv_live/G_YOUMAN/G_YOUMAN.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="http://img1.gtimg.com/sh/pics/hv1/200/222/1872/121783610.png" tvg-country="ID" tvg-url="" group-title="XXX",  优漫卡通
+#EXTINF:0 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="http://img1.gtimg.com/sh/pics/hv1/200/222/1872/121783610.png" tvg-country="ID" tvg-url="" group-title="XXX",  优漫卡通
 http://111.13.42.8/PLTV/88888888/224/3221225988/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="http://img1.gtimg.com/sh/pics/hv1/200/222/1872/121783610.png" tvg-country="ID" tvg-url="" group-title="XXX",  优漫卡通
+#EXTINF:0 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="http://img1.gtimg.com/sh/pics/hv1/200/222/1872/121783610.png" tvg-country="ID" tvg-url="" group-title="XXX",  优漫卡通
 http://183.251.61.207/PLTV/88888888/224/3221225874/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="http://img1.gtimg.com/sh/pics/hv1/200/222/1872/121783610.png" tvg-country="ID" tvg-url="" group-title="XXX",  优漫卡通
+#EXTINF:0 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="http://img1.gtimg.com/sh/pics/hv1/200/222/1872/121783610.png" tvg-country="ID" tvg-url="" group-title="XXX",  优漫卡通
 http://202.107.188.232:5002/cctv1_hdcq-1.m3u8?token=s8pJTbTKSU21yklN_yoongoo&ct=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="http://img1.gtimg.com/sh/pics/hv1/200/222/1872/121783610.png" tvg-country="ID" tvg-url="" group-title="XXX",  优漫卡通
+#EXTINF:0 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="http://img1.gtimg.com/sh/pics/hv1/200/222/1872/121783610.png" tvg-country="ID" tvg-url="" group-title="XXX",  优漫卡通
 http://202.107.188.232:5002/cctv1_hdcq-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="http://img1.gtimg.com/sh/pics/hv1/200/222/1872/121783610.png" tvg-country="ID" tvg-url="" group-title="XXX",  优漫卡通
+#EXTINF:0 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="http://img1.gtimg.com/sh/pics/hv1/200/222/1872/121783610.png" tvg-country="ID" tvg-url="" group-title="XXX",  优漫卡通
 http://live.video.baidu.com/playlist.m3u8?src_media_id=6b99528d9c7c87139aa328818ff3995d&output_format=1231&live_video=1&src=xxx
+#EXTINF:0 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="http://img1.gtimg.com/sh/pics/hv1/200/222/1872/121783610.png" tvg-country="ID" tvg-url="" group-title="XXX",  优漫卡通
+http://116.10.188.134:55336/tslive/c24_ct_jstv7_ymkt_smooth_t10/c24_ct_jstv7_ymkt_smooth_t10.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="http://img1.gtimg.com/sh/pics/hv1/200/222/1872/121783610.png" tvg-country="ID" tvg-url="" group-title="XXX",  优漫卡通
+http://live.video.baidu.com/playlist.m3u8
+
+
 #EXTINF:0,[THE END]
