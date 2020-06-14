@@ -26,6 +26,8 @@ http://video.detik.com/transtv/smil:transtv.smil/chunklist_w1742067075_b384000_s
 http://video.detik.com/trans7/smil:trans7.smil/chunklist_w798109995_b384000_sleng.m3u8?regieaerlays
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/489px-Antv_logo_%282017%29.svg.png" group-title="LOCAL",  ANTV
 http://210.210.155.35/qwr9ew/s/s07/01.m3u8
+#EXTINF:-1,tvg-logo="http://images2.useetv.com/logo_tvone_big1.png?v=1.0.0.0" group-title="LOCAL", TVRI
+http://210.210.155.35/qwr9ew/s/s11/01.m3u8
 #EXTINF:-1,tvg-logo="http://images2.useetv.com/logo_tvone_big1.png?v=1.0.0.0" group-title="LOCAL", TVRI Sports
 http://210.210.155.35/session/69e800f6-97c0-11e9-888f-b82a72d63267/qwr9ew/s/s107/index.m3u8
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_rtv_big1.png?v=1.0.0.0" group-title="LOCAL",  RAJAWALI TV HD
@@ -256,14 +258,6 @@ http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/
 http://210.210.155.35/qwr9ew/s/s24/02.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/231966/screenshots/3391979/play_film_logo.png" group-title="Film",  CINEMA WORD HD
-http://210.210.155.35/uq2663/h/h04/index2.m3u8
-
-#EXTINF:-1 group-title="Film", CINEMA WORLD
-http://45.126.83.51/uq2663/h/h04/index2.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/Hits_TV_Asia_logo.jpg" group-title="Film",  HITS HD
-http://210.210.155.35/uq2663/h/h37/index2.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="http://img1.gtimg.com/sh/pics/hv1/200/222/1872/121783610.png" tvg-country="ID" tvg-url="" group-title="CHINA",  TOONMAX
 http://210.210.155.35/qwr9ew/s/s50/index2.m3u8
@@ -412,71 +406,47 @@ http://183.207.248.71/cntv/live1/heilongjiangstv/HD-8000k-1080P-heilongjiangstv
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/79/37/9e/79379ebe8f8398aeb819899a1468ae81.png" group-title="KIDS",  DISNEY JUNIOR
 http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8
-
 #EXTINF:0 tvg-logo="https://www.cartoonnetworkeurope.com/img/logo.png" group-title="KIDS",  Cartoon Network
 http://203.153.218.28:9981/stream/channelid/251475608?ticket=5B6244F9555D96BA8A9DF1BBBA2BA2F8BDB05A86&profile=pass
-
 #EXTINF:0 tvg-logo="http://tv.dekagon.id/logo/disney_channel_global.png" group-title="KIDS",  Disney Channel
 http://203.153.218.28:9981/stream/channelid/31701170?ticket=02DB3A3E44B8E741CC4D2913B2F42F452A2C3AB9&profile=pass
-
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Nickelodeon_2009_logo.svg" group-title="KIDS",  Nickelodeon Asia
 http://203.153.218.28:9981/stream/channelid/648970596?ticket=72A19F89119921817ADF08AEBFF2D7E0009D1A20&profile=pass
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Aniplus_Asia_Logo.png/220px-Aniplus_Asia_Logo.png" tvg-country="ID" tvg-url="" group-title="KIDS",  ANIPLUS
 http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
-
 #EXTINF:-1 tvg-logo="https://d1eet599aje0m8.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="KIDS", ANIPLUS
 http://rr1.dens.tv/h/h02/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://d1eet599aje0m8.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="KIDS", ANIPLUS
 http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Animaxlogo-20160701.png/180px-Animaxlogo-20160701.png" tvg-country="ID" tvg-url="" group-title="KIDS",  ANIMAX
 http://210.210.155.35:80/dr9445/h/h144/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Animaxlogo-20160701.png/180px-Animaxlogo-20160701.png" tvg-country="ID" tvg-url="" group-title="KIDS",  Animax HD
 http://210.210.155.35:80/dr9445/h/h144/index2.m3u8
 
+
+
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/The_History_Channel_logo.png" group-title="SCIENCE",  HISTORY
 http://203.153.218.28:9981/stream/channelid/1868154562?ticket=21CAD98B63EE6B1D16AFD5B33F7C68F48FA445CD&profile=pass
-
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/NatGeo_People_logo.png" group-title="SCIENCE",  NAT GEO People
 http://203.153.218.28:9981/stream/channelid/1114683377?ticket=39736C153BA658BB8604E39D479282644E09703E&profile=pass
-
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="SCIENCE",  NAT GEO Wild
 http://203.153.218.28:9981/stream/channelid/1497533758?ticket=36B439E64C5884A941F9938AD9373C4B849363BA&profile=pass
-
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="SCIENCE",  NAT GEO
 http://203.153.218.28:9981/stream/channelid/681683355?ticket=B3C34399E8376048D3433529578519E51673EA32&profile=pass
-
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/TLC-Logo_2016.png" group-title="SCIENCE",  TLC
 http://203.153.218.28:9981/stream/channelid/391618553?ticket=08323DCACE84958A87EA829F012E919CA861DF74&profile=pass
-
 #EXTINF:0 tvg-logo="https://commons.wikimedia.org/wiki/Category:Discovery_Channel_logos#/media/File:Diskoveri.png" group-title="SCIENCE",  DISCOVERY
 http://203.153.218.28:9981/stream/channelid/1151931232?ticket=D05F5F5AB713CBADFBFABB642E4F37D5004BB751&profile=pass
-
 #EXTINF:0 tvg-logo="https://www.underconsideration.com/brandnew/archives/animal_planet_2018_logo_before_after.png" group-title="SCIENCE",  ANIMAL PLANET
 http://203.153.218.28:9981/stream/channelid/1943600623?ticket=694FA36A0D756D8572C705243A10521FAF796351&profile=pass
-
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/250px-Afc_logo.svg.png" group-title="SCIENCE",  ASIAN FOOD NET
 http://203.153.218.28:9981/stream/channelid/1092664456?ticket=E20984982529618B739BCAB7412D568D65147A93&profile=pass
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/Logo_TV5Monde_Style_primary-styleblue.png" group-title="SCIENCE",  STYLE
+http://210.210.155.35/uq2663/h/h01/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="SCIENCE",  CGTN CN
 http://210.210.155.35/qwr9ew/s/s20/02.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="SCIENCE",  CGTN CN
 http://210.210.155.35/session/ffc58ebe-0755-11e9-9443-c81f66f89318/qwr9ew/s/s20/02.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/Logo_TV5Monde_Style_primary-styleblue.png" group-title="SCIENCE",  ASIAN FOOD NET
-http://210.210.155.35/uq2663/h/h01/index.m3u8
-
-
-
-
-
-
-
 
 
 
@@ -527,8 +497,7 @@ https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
 
 
 
-#EXTINF:0 group-title="INDOTV",TVRI
-http://210.210.155.35/qwr9ew/s/s11/01.m3u8
+
 #EXTINF:0 group-title="MOVIE", Cinema World
 http://rr.dens.tv/h/h04/index2.m3u8
 #EXTINF:0 group-title="KIDS", ANIPLUS
