@@ -34,8 +34,10 @@ http://210.210.155.35/session/4ad0585c-b72501e8-b712-b82a72d63267/qwr9ew/s/s13/0
 
 #EXTINF:-1 tvg-id="Channel NewsAsia" tvg-name="Channel NewsAsia" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" group-title="NEWS",  CNA HD
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" group-title="NEWS",  Channel News Asia
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" group-title="NEWS",  CNA
 http://rr.dens.tv/h/h29/index2.m3u8
+#EXTINF:-1 tvg-id="Channel NewsAsia" tvg-name="Channel NewsAsia" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" group-title="NEWS",  CNA HD
+http://210.210.155.35/uq2663/h/h29/index.m3u8
 #EXTINF:-1 tvg-id="BBC World News UK" tvg-name="BBC World News UK" tvg-language="English" tvg-logo="https://ichef.bbci.co.uk/images/ic/480xn/p07kfh1t.jpg" group-title="NEWS",  BBC WORLD NEWS
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:0 tvg-logo="https://ichef.bbci.co.uk/images/ic/480xn/p07kfh1t.jpg" group-title="NEWS",  BBC WORLD NEWS
@@ -62,10 +64,16 @@ http://rr2.dens.tv/s/s17/index2.m3u8
 http://rr2.dens.tv/s/s15/index2.m3u8
 #EXTINF:-1 tvg-logo="https://www.baselworld.com/-/media/mch/baselworld/portal/images/content/the-show/euronews-thumb.png?la=en&mw=1200&vs=1&hash=D1B5CE798BAC805CB0152D03FCBF2102" group-title="NEWS",  EURONEWS
 http://45.126.83.51/qwr9ew/s/s15/index2.m3u8
+#EXTINF:-1 tvg-logo="https://www.baselworld.com/-/media/mch/baselworld/portal/images/content/the-show/euronews-thumb.png?la=en&mw=1200&vs=1&hash=D1B5CE798BAC805CB0152D03FCBF2102" group-title="NEWS",  EURONEWS
+http://210.210.155.35/qwr9ew/s/s15/02.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="NEWS",  FRANCE24
 http://rr2.dens.tv/s/s22/index2.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="NEWS", FRANCE24
 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+#EXTINF:-1  tvg-logo="https://braga.breakout.pt/wp-content/uploads/2015/04/RTP-e-TDT-logo.png" group-title="NEWS",  RTP
+http://210.210.155.35/qwr9ew/s/s38/index.m3u8
+#EXTINF:-1  tvg-logo="https://braga.breakout.pt/wp-content/uploads/2015/04/RTP-e-TDT-logo.png" group-title="NEWS",  RTP
+http://210.210.155.35/qwr9ew/s/s23/02.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/wB9CkPG.jpg" group-title="SPORT",  Fight Sports
@@ -160,6 +168,8 @@ http://210.210.155.35/uq2663/h/h08/index.m3u8
 http://210.210.155.35/qwr9ew/s/s42/index2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/c8/K-drama_logo.jpg" tvg-country="ID" tvg-url="" group-title="KR",  K Drama
 http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/index.m3u8?fluxustv.m3u8
+#EXTINF:-1, group-title="KR",  ARIRANG
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
 
 
@@ -215,6 +225,8 @@ http://210.210.155.35/session/2892c0cc-30c4-11e9-af8c-c81f66f89318/dr9445/h/h16/
 http://210.210.155.35/session/b664cd50-6b66-11e9-88bd-a3eeb50c438d/uq2663/h/h37/index2.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/Hits_TV_Asia_logo.jpg/200px-Hits_TV_Asia_logo.jpg" tvg-country="ID" tvg-url="" group-title="MOVIES",  HITS
 http://210.210.155.35/uq2663/h/h37/index2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/Hits_TV_Asia_logo.jpg/200px-Hits_TV_Asia_logo.jpg" tvg-country="ID" tvg-url="" group-title="MOVIES",  HITS
+http://210.210.155.35/session/315e5196-0755-11e9-a62c-b82a72d63267/uq2663/h/h37/02.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/052019/fashion_tv_2009_symbol.png?cVFRoMuFTxEWh0CmC_3DoU.NenvZVtOW&itok=auBIH1Oi" group-title="MOVIES",  FTV Midnight Secret
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="MOVIES",  Discovery Science
@@ -229,7 +241,8 @@ http://203.153.218.28:9981/stream/channelid/882386103?ticket=DF543FFEC6C497F485D
 http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/573025578837671936/0SP5Blcm_400x400.jpeg" group-title="MOVIES",  KIX SD
 http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/02.m3u8
-
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/tv5-monde-logo-300x300.jpg" group-title="MOVIES",  TV 5 MONDE ASIE
+http://210.210.155.35/qwr9ew/s/s24/02.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/231966/screenshots/3391979/play_film_logo.png" group-title="Film",  CINEMA WORD HD
@@ -435,6 +448,13 @@ http://203.153.218.28:9981/stream/channelid/1943600623?ticket=694FA36A0D756D8572
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Afc_logo.svg/250px-Afc_logo.svg.png" group-title="SCIENCE",  ASIAN FOOD NET
 http://203.153.218.28:9981/stream/channelid/1092664456?ticket=E20984982529618B739BCAB7412D568D65147A93&profile=pass
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="SCIENCE",  CGTN CN
+http://210.210.155.35/qwr9ew/s/s20/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="SCIENCE",  CGTN CN
+http://210.210.155.35/session/ffc58ebe-0755-11e9-9443-c81f66f89318/qwr9ew/s/s20/02.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/Logo_TV5Monde_Style_primary-styleblue.png" group-title="SCIENCE",  ASIAN FOOD NET
 http://210.210.155.35/uq2663/h/h01/index.m3u8
 
@@ -444,41 +464,9 @@ http://210.210.155.35/uq2663/h/h01/index.m3u8
 
 
 
-#EXTINF:-1 group-title="BUKAN PREMIUM",AYSAR RTP
-http://210.210.155.35/qwr9ew/s/s38/index.m3u8
-#EXTINF:-1 group-title="BUKAN PREMIUM",AYSAR TBN ASIA
-http://210.210.155.35/qwr9ew/s/s39/index.m3u8
 
-
-#EXTINF:-1 group-title="BUKAN PREMIUM",AYSAR TRT WORLD
-http://210.210.155.35/qwr9ew/s/s16/02.m3u8
-
-#EXTINF:-1 group-title="BUKAN PREMIUM",AYSAR CGTN
-http://210.210.155.35/qwr9ew/s/s20/02.m3u8
-#EXTINF:-1 group-title="BUKAN PREMIUM",AYSAR CGTN DOCUMENTARY
-http://210.210.155.35/session/ffc58ebe-0755-11e9-9443-c81f66f89318/qwr9ew/s/s20/02.m3u8
-#EXTINF:-1 group-title="BUKAN PREMIUM",AYSAR MOSCOW
-http://210.210.155.35/qwr9ew/s/s23/02.m3u8
-#EXTINF:-1 group-title="BUKAN PREMIUM",AYSAR TV 5 MONDE
-http://210.210.155.35/qwr9ew/s/s24/02.m3u8
-#EXTINF:-1 group-title="BUKAN PREMIUM",AYSAR NOW LIVE
-http://210.210.155.35/qwr9ew/s/s15/02.m3u8
-#EXTINF:-1 group-title="BUKAN PREMIUM",AYSAR D W
-http://210.210.155.35/qwr9ew/s/s26/02.m3u8
-
-
-#EXTINF:-1 group-title="BUKAN PREMIUM",AYSAR FIGHT SPORTS
-http://210.210.155.35/uq2663/h/h05/index.m3u8
-
-#EXTINF:-1 group-title="BUKAN PREMIUM",AYSAR NEW ASIA CHANNEL
-http://210.210.155.35/uq2663/h/h29/index.m3u8
-
-#EXTINF:-1 group-title="BUKAN PREMIUM",AYSAR HITS
-http://210.210.155.35/session/315e5196-0755-11e9-a62c-b82a72d63267/uq2663/h/h37/02.m3u8
 #EXTINF:-1 group-title="BUKAN PREMIUM",AYSAR Channel A
 http://210.210.155.35/session/5f5291e8-f3f5-11e8-a084-882a82612570/dr9445/h/h29/01.m3u8
-#EXTINF:-1 group-title="BUKAN PREMIUM",AYSAR Arirang
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 group-title="BUKAN PREMIUM",AYSAR Silence TV
 http://109.236.85.100:8081/SilenceTV/live/playlist.m3u8
 #EXTINF:-1 group-title="BUKAN PREMIUM",AYSAR RRI NET
