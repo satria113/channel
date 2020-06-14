@@ -43,9 +43,6 @@ http://edge.nim.mivo.tv/daaitv/daaitv2_all/playlist.m3u8
 
 
 
-
-
-
 #EXTINF:-1 tvg-id="Channel NewsAsia" tvg-name="Channel NewsAsia" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" group-title="NEWS",  CNA HD
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" group-title="NEWS",  CNA
@@ -102,8 +99,6 @@ http://rt-uk.secure.footprint.net/1106.m3u8?streamType=live
 http://36.89.47.217:11935/rrinet/live/index.m3u8
 #EXTINF:-1  tvg-logo="https://logos-download.com/wp-content/uploads/2016/05/Deutsche_Welle_logo.png" group-title="NEWS",  DW NEWS
 https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
-
-
 
 
 
@@ -192,6 +187,7 @@ http://linux-app.tv:6204/95025267076109/65839594001441/33449
 #EXTINF:-1,group-title="SPORT",  US- Fox Sports 2
 http://linux-app.tv:6204/95025267076109/65839594001441/20567
 
+
 #EXTINF:-1, group-title="KR",  K Plus
 http://210.210.155.35/session/e3afc732-c3a1-11e8-bfe5-8e058f0468b5/uq2663/h/h08/02.m3u8
 #EXTINF:-1, group-title="KR",  K Plus
@@ -277,10 +273,6 @@ http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/
 http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/02.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/tv5-monde-logo-300x300.jpg" group-title="MOVIES",  TV 5 MONDE ASIE
 http://210.210.155.35/qwr9ew/s/s24/02.m3u8
-
-
-#EXTINF:0 group-title="KIDS", ANIPLUS
-http://rr1.dens.tv/h/h02/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="http://img1.gtimg.com/sh/pics/hv1/200/222/1872/121783610.png" tvg-country="ID" tvg-url="" group-title="CHINA",  TOONMAX
@@ -374,6 +366,8 @@ http://112.50.243.5/PLTV/88888888/224/3221226990/1.m3u8
 http://112.50.243.8/PLTV/88888888/224/3221225801/1.m3u8
 #EXTINF:-1 tvg-logo="http://www.dianshiba.cc/images/dianshi/chc.jpg" group-title="CHINA",  CHC HD
 http://ivi.bupt.edu.cn/hls/chchd.m3u8
+#EXTINF:-1 tvg-logo="http://www.dianshiba.cc/images/dianshi/chc.jpg" group-title="CHINA",  PHOENIX
+http://210.210.155.35/x6bnqe/s/s80/index2.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/jiangsu_tv.png" group-title="CHINA",  ZHEJIANG TV
 http://183.207.248.71/cntv/live1/zhejiangstv/HD-2500k-1080P-zhejiangstv
@@ -422,8 +416,10 @@ http://183.207.248.71/cntv/live1/cmlapo/HD-1500k-720P-cmlapo
 http://183.207.248.71/cntv/live1/heilongjiangstv/HD-8000k-1080P-heilongjiangstv
 
 
-
-
+#EXTINF:-1 tvg-logo="https://d1eet599aje0m8.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="KIDS", ANIPLUS
+http://rr1.dens.tv/h/h02/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1eet599aje0m8.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="KIDS", ANIPLUS
+http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/819H8JmzwgL._SX300_.jpg" group-title="KIDS",  XCORPS
 http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/79/37/9e/79379ebe8f8398aeb819899a1468ae81.png" group-title="KIDS",  DISNEY JUNIOR
@@ -436,12 +432,7 @@ http://203.153.218.28:9981/stream/channelid/251475608?ticket=5B6244F9555D96BA8A9
 http://203.153.218.28:9981/stream/channelid/31701170?ticket=02DB3A3E44B8E741CC4D2913B2F42F452A2C3AB9&profile=pass
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Nickelodeon_2009_logo.svg" group-title="KIDS",  Nickelodeon Asia
 http://203.153.218.28:9981/stream/channelid/648970596?ticket=72A19F89119921817ADF08AEBFF2D7E0009D1A20&profile=pass
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Aniplus_Asia_Logo.png/220px-Aniplus_Asia_Logo.png" tvg-country="ID" tvg-url="" group-title="KIDS",  ANIPLUS
-http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
-#EXTINF:-1 tvg-logo="https://d1eet599aje0m8.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="KIDS", ANIPLUS
-http://rr1.dens.tv/h/h02/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1eet599aje0m8.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="KIDS", ANIPLUS
-http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Animaxlogo-20160701.png/180px-Animaxlogo-20160701.png" tvg-country="ID" tvg-url="" group-title="KIDS",  ANIMAX
 http://210.210.155.35:80/dr9445/h/h144/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Animaxlogo-20160701.png/180px-Animaxlogo-20160701.png" tvg-country="ID" tvg-url="" group-title="KIDS",  Animax HD
@@ -532,22 +523,11 @@ http://210.210.155.35/session/ff569f46-2f90-11e9-b351-b82a72d63267/uq2663/h/h05/
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sport",  SPORTSMAX SD
 http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
 
-#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_aniplus_big1.png" group-title="KIDS",  Aniplus ID
-http://rr1.dens.tv/h/h02/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://thehypedgeek.com/wp-content/uploads/2017/05/Aniplus-HD.jpg" group-title="KIDS",  AniPlus
-http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQ77GYCN/Kids.png" group-title="KIDS", PHOENIX
-http://210.210.155.35/x6bnqe/s/s80/index2.m3u8
-#EXTINF:-1 logo="http://tv.dekagon.id/logo/cartoon_network_global.png" tvg-id="b45a655c749810baf6d4c29a3f55f172",Cartoon Network
-http://203.153.218.26:9981/stream/channelid/1550146228?ticket=AF3DCDE080523FF64BD91861C68599813879BB0F&profile=pass
-#EXTINF:-1 logo="http://tv.dekagon.id/logo/cartoon_network_global.png",Cartoon Network 2
-http://14.207.174.68:8000/play/a03h?fbclid=IwAR32sSEvlj1xw8oHmlkyNMZYRKUyhuC9LGC8v4vI7VaO6CenxsW2lh8s81c
-#EXTINF:-1 logo="http://tv.dekagon.id/logo/nickelodeon_us.png" tvg-id="18ace557a0cc99741f9cbbbaf2bda4d1",Nickelodeon Asia
-http://203.153.218.26:9981/stream/channelid/1474669592?ticket=309DF2F8A9C69BFCF546DA6489E3E5215127D2D6&profile=pass
-#EXTINF:-1 logo="http://tv.dekagon.id/logo/disney_channel_global.png" tvg-id="3766117da69ce90f5cb3f0ea09df5f80",Disney Channel
-http://203.153.218.26:9981/stream/channelid/2098292279?ticket=B3C087D794ADB9CB0D7B89414C84A32DC5889AF5&profile=pass
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://mrid-web-01.s3.amazonaws.com/content/uploads/2015/06/Discovery-Channel.jpg" group-title="Info", DISCOVERY CH. HD
@@ -652,6 +632,8 @@ http://cdn.mobibase.com/hls/733/258_5000k/playlist.m3u8
 http://live.iptv.wtf:80/live/Zn3UgNxZq77/6qYGad7c50/5538.m3u8
 #EXTINF:-1,WWE HD
 http://live.iptv.wtf:80/live/Zn3UgNxZq77/6qYGad7c50/6815.m3u8
+
+
 #EXTINF:-1 group-title="XXX", PLUTO
 https://stitcher.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=cb6766b0-8b86-11e8-828e-357f3c4bb5d0&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 #EXTINF:-1 group-title="XXX", PLUTO
@@ -676,5 +658,13 @@ http://192.240.127.34:1935/live/cs19.stream/play.m3u8?wowzasessionid=708726640
 http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
 #EXTINF:-1 group-title="XXX",  FASHION TV
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_fmen_adaptive.smil/chunklist_b900000_t64MzYwcA==.m3u8
+#EXTINF:-1 logo="http://tv.dekagon.id/logo/cartoon_network_global.png" tvg-id="b45a655c749810baf6d4c29a3f55f172",  Cartoon Network
+http://203.153.218.26:9981/stream/channelid/1550146228?ticket=AF3DCDE080523FF64BD91861C68599813879BB0F&profile=pass
+#EXTINF:-1 logo="http://tv.dekagon.id/logo/cartoon_network_global.png",  Cartoon Network 2
+http://14.207.174.68:8000/play/a03h?fbclid=IwAR32sSEvlj1xw8oHmlkyNMZYRKUyhuC9LGC8v4vI7VaO6CenxsW2lh8s81c
+#EXTINF:-1 logo="http://tv.dekagon.id/logo/nickelodeon_us.png" tvg-id="18ace557a0cc99741f9cbbbaf2bda4d1",Nickelodeon Asia
+http://203.153.218.26:9981/stream/channelid/1474669592?ticket=309DF2F8A9C69BFCF546DA6489E3E5215127D2D6&profile=pass
+#EXTINF:-1 logo="http://tv.dekagon.id/logo/disney_channel_global.png" tvg-id="3766117da69ce90f5cb3f0ea09df5f80",Disney Channel
+http://203.153.218.26:9981/stream/channelid/2098292279?ticket=B3C087D794ADB9CB0D7B89414C84A32DC5889AF5&profile=pass
 
 #EXTINF:0,[THE END]
