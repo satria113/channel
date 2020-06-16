@@ -531,66 +531,15 @@ http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=htt
 #EXTINF:0 group-title="MUSIC",  ONE
 http://rtmp.one.by:1300
 
-#EXTINF:-1 group-title="XXX", PLUTO
+#EXTINF:-1 group-title="NN", PLUTO
 https://stitcher.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=cb6766b0-8b86-11e8-828e-357f3c4bb5d0&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
-#EXTINF:-1 group-title="XXX", PLUTO
+#EXTINF:-1 group-title="NN", PLUTO
 https://stitcher.pluto.tv/stitch/hls/channel/59976841a09fd13c9b590ce8/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=cb6766b0-8b86-11e8-828e-357f3c4bb5d0&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
-#EXTINF:-1 group-title="XXX", PLUTO
+#EXTINF:-1 group-title="NN", PLUTO
 https://stitcher.pluto.tv/stitch/hls/channel/5887ba337b8e94223eb121bd/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=cb6766b0-8b86-11e8-828e-357f3c4bb5d0&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
-#EXTINF:-1 group-title="XXX", PLUTO
+#EXTINF:-1 group-title="NN", PLUTO
 http://stitcher.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472000114/master.m3u8?sid=web24157571521&deviceType=web&deviceMake=web&deviceVersion=1&deviceId=web24163643069&appVersion=5.2.7&deviceDNT=web&deviceModel=web
-#EXTINF:-1 group-title="XXX", PLUTO
-https://stitcher.pluto.tv/stitch/hls/channel/5812b3a4249444e05d09cc46/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=cb6766b0-8b86-11e8-828e-357f3c4bb5d0&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
-#EXTINF:0 group-title="XXX",  SCI CRIME
-http://80.80.160.168/live/9/live.m3u8
-#EXTINF:0 group-title="XXX",  CRIME&INVESTIGATION HD
-http://www.5z8.info/launchexe_jfpw
-#EXTINF:-1 group-title="XXX",   DISNEY Channel
-http://161.0.157.6/PLTV/88888888/224/3221226299/index.m3u8
-#EXTINF:-1 group-title="XXX",  HISTORY
-http://192.240.127.34:1935/live/cs14.stream/playlist.m3u8?wowzasessionid=1203854395
-#EXTINF:-1 group-title="XXX", JAPAN CH
-http://192.240.127.34:1935/live/cs19.stream/play.m3u8?wowzasessionid=708726640
-#EXTINF:-1 group-title="XXX",  WOWOW MOVIES
-http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
-#EXTINF:-1 group-title="XXX",  FASHION TV
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_fmen_adaptive.smil/chunklist_b900000_t64MzYwcA==.m3u8
-#EXTINF:-1 logo="http://tv.dekagon.id/logo/cartoon_network_global.png" tvg-id="b45a655c749810baf6d4c29a3f55f172",  Cartoon Network
-http://203.153.218.26:9981/stream/channelid/1550146228?ticket=AF3DCDE080523FF64BD91861C68599813879BB0F&profile=pass
-#EXTINF:-1 logo="http://tv.dekagon.id/logo/cartoon_network_global.png",  Cartoon Network 2
-http://14.207.174.68:8000/play/a03h?fbclid=IwAR32sSEvlj1xw8oHmlkyNMZYRKUyhuC9LGC8v4vI7VaO6CenxsW2lh8s81c
-#EXTINF:-1 logo="http://tv.dekagon.id/logo/nickelodeon_us.png" tvg-id="18ace557a0cc99741f9cbbbaf2bda4d1",Nickelodeon Asia
-http://203.153.218.26:9981/stream/channelid/1474669592?ticket=309DF2F8A9C69BFCF546DA6489E3E5215127D2D6&profile=pass
-#EXTINF:-1 logo="http://tv.dekagon.id/logo/disney_channel_global.png" tvg-id="3766117da69ce90f5cb3f0ea09df5f80",Disney Channel
-http://203.153.218.26:9981/stream/channelid/2098292279?ticket=B3C087D794ADB9CB0D7B89414C84A32DC5889AF5&profile=pass
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="XXX",  PLANET GREEN
-http://80.80.160.168/live/4/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="XXX",  TRAVEL
-http://80.80.160.168/live/3/live.m3u8
-#EXTINF:-1 logo="http://tv.dekagon.id/logo/nat_geo_us.png" tvg-id="caf21dc58bc94e97a7f5db16c098d274",National Geographic
-http://203.153.218.26:9981/stream/channelid/1159590602?ticket=E89ECEBB08187E7830CEE02569772C593D07B88C&profile=pass
-#EXTINF:-1 logo="http://tv.dekagon.id/logo/nat_geo_wild_us.png" tvg-id="6d7217574bc1970e8b152657fb354b7b",NAT GEO Wild
-http://203.153.218.26:9981/stream/channelid/1461154413?ticket=470997BD0AA45FCC91573E9E6608416A03977FF6&profile=pass
-#EXTINF:-1 logo="http://tv.dekagon.id/logo/nat_geo_wild_us.png" ,NAT GEO Wild Thailand
-http://14.207.174.68:8000/play/a01y?fbclid=IwAR32sSEvlj1xw8oHmlkyNMZYRKUyhuC9LGC8v4vI7VaO6CenxsW2lh8s81c
-#EXTINF:-1 logo="http://tv.dekagon.id/logo/nat_geo_people_asia.png" tvg-id="31392caa0cf1109c49a675d48b70fedf",NAT GEO People
-http://203.153.218.26:9981/stream/channelid/707541297?ticket=B43B8ED27A5A69A2EDEF706DB73C2A8BDDD5095B&profile=pass
-#EXTINF:-1 logo="http://tv.dekagon.id/logo/axn_global.png" tvg-id="c49f2c797fcd666531a473f4b459d32a",AXN
-http://203.153.218.26:9981/stream/channelid/2032967620?ticket=E34EB2A918E7D460AFC60AF12C49B2A70A2FA0FB&profile=pass
-#EXTINF:-1 logo="http://tv.dekagon.id/logo/hbo_hits.png" tvg-id="216ad7670aeac0b23e11fdbc13200c7f",HBO Hits
-http://203.153.218.26:9981/stream/channelid/1742170657?ticket=6DCC7FF603E6D3D22A5F7CB12B44E950CE1D222D&profile=pass
-#EXTINF:-1 logo="http://tv.dekagon.id/logo/hbo_family_asia.png" tvg-id="bd833b39257c35def3eff69f74d1d7e2",HBO Family
-http://203.153.218.26:9981/stream/channelid/960201661?ticket=75E706237FA41F9E520BA0F00FC5F580D3339AB0&profile=pass
-#EXTINF:-1 logo="http://tv.dekagon.id/logo/blue-ant-extreme-ca.png" tvg-id="b57c2f8768bcfdba104c35a8dd8b6639",Blue Ant Extreme
-http://203.153.218.26:9981/stream/channelid/120552629?ticket=CE7832FF190AF0482563D9348D29426C87170A65&profile=pass
-#EXTINF:-1 logo="http://tv.dekagon.id/logo/fox_global.png" tvg-id="59732413cf986964787adfb05e71d108",FOX
-http://203.153.218.26:9981/stream/channelid/321155929?ticket=C5DC3255AF3CA5EC1055B9DE110428C64829ACED&profile=pass
-#EXTINF:-1 logo="http://tv.dekagon.id/logo/fox_movies_family.png" tvg-id="2c3bbeac9d7621a579b275bc2ed6f67b",FOX Family Movies
-http://203.153.218.26:9981/stream/channelid/750664492?ticket=A527AFBD2805DE45C765902D98E3776BF5C4FD0C&profile=pass
-#EXTINF:-1 logo="http://tv.dekagon.id/logo/fox_movies_action.png" tvg-id="21252d69f4203ee24552bb350a0b4880",FOX Action Movies
-http://203.153.218.26:9981/stream/channelid/1764566305?ticket=B2CA17472AD2DCA7D982B2D2C0E59FA9EA408411&profile=pass
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png" group-title="XXX",  SCI DISCOVERY
-http://122.155.180.8:5021/live/457
+#EXTINF:-1 group-title="NN", PLUTO
 #EXTINF:-1 Animal Planet South East Asia
 http://80.80.160.168/live/1/500000/live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/320px-HBO_logo.svg.png" group-title="XXX", HBO ID
@@ -603,23 +552,5 @@ http://203.153.218.28:9981/stream/channelid/255605374?ticket=434549F6D027878D70C
 http://39.134.65.74:80/wh7f454c46tw2588997493_937400034/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8?icpid=88888888&RTS=1583531261&from=1&hms_devid=127
 #EXTINF:-1 group-title="XXX", CHINA
 http://39.134.65.74:80/wh7f454c46tw2588997493_937400034/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8
-#EXTINF:-1 group-title="XXX", CHINA
-http://39.134.65.74:80//PLTV/88888888/224/3221225656/index.m3u8
-#EXTINF:-1 group-title="XXX", CHINA
-http://111.13.42.8/PLTV/88888888/224/3221225656/index.m3u8
-#EXTINF:-1 group-title="XXX", CHINA
-http://122.96.52.11:8080/3221225656/index.m3u8
-#EXTINF:-1 group-title="XXX", CHINA
-http://111.13.42.8/PLTV/88888888/224/3221225656/index.m3u8
-#EXTINF:-1 group-title="XXX", CHINA
-http://183.251.61.207/PLTV/88888888/224/3221225656/index.m3u8
-#EXTINF:-1 group-title="XXX", CHINA
-http://111.13.42.8/PLTV/88888888/224/3221225910/index.m3u8
-#EXTINF:-1 group-title="XXX", CHINA
-http://122.96.52.11:8080/gitv_live/G_YOUMAN/G_YOUMAN.m3u8
-#EXTINF:-1 group-title="XXX", CHINA
-http://111.13.42.8/PLTV/88888888/224/3221225988/index.m3u8
-#EXTINF:-1 group-title="XXX", CHINA
-http://183.251.61.207/PLTV/88888888/224/3221225874/index.m3u8
 
 #EXTINF:0,[THE END]
