@@ -435,7 +435,7 @@ http://183.207.248.71/cntv/live1/cmlapo/HD-1500k-720P-cmlapo
 http://183.207.248.71/cntv/live1/heilongjiangstv/HD-8000k-1080P-heilongjiangstv
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="http://img1.gtimg.com/sh/pics/hv1/200/222/1872/121783610.png" tvg-country="ID" tvg-url="" group-title="KIDS",  TOONMAX
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="http://img1.gtimg.com/sh/pics/hv1/200/222/1872/121783610.png" tvg-country="ID" tvg-url="" group-title="KIDS",  TOON MAX
 http://210.210.155.35/qwr9ew/s/s50/index2.m3u8
 #EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/ymkt.jpg" group-title="KIDS", YOU MAN
 http://111.40.205.76/PLTV/88888888/224/3221225656/index.m3u8
@@ -447,11 +447,11 @@ http://121.31.30.90:8085/ysten-business/live/youmankaton/1.m3u8
 http://121.31.30.90:8085/ysten-business/live/youmankaton/yst.m3u8
 #EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/ymkt.jpg" group-title="KIDS", YOU MAN
 http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/youmankaton/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" group-title="KIDS",北京卡酷少儿
+#EXTINF:-1 tvg-id="" tvg-name="北京卡酷少儿" tvg-language="Chinese" tvg-logo="http://www.leshizhibo.com/uploads/images/53a2a9c43fbbfbtv2.jpg" group-title="KIDS", BTV
 http://117.148.187.37/PLTV/88888888/224/3221226184/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" group-title="KIDS",北京卡酷少儿
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.026520.com/upfile/beijingdianshitaierlinglingjiuqiyongdetaibiao_1123.gif" group-title="KIDS",  BTV
 http://121.31.30.90:8085/ysten-business/live/kakukaton/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" group-title="KIDS",北京卡酷少儿
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9a/KAKU_logo.png/150px-KAKU_logo.png" group-title="KIDS",  BTV
 http://121.31.30.90:8085/ysten-business/live/kakukaton/yst.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-language="Chinese" tvg-logo="" group-title="KIDS",北京卫视
 http://111.40.205.87/PLTV/88888888/224/3221225651/index.m3u8
@@ -469,8 +469,6 @@ http://112.17.40.140/PLTV/88888888/224/3221226461/index.m3u8
 http://117.148.187.37/PLTV/88888888/224/3221226461/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="嘉佳卡通" tvg-language="Chinese" tvg-logo="" group-title="KIDS",嘉佳卡通
 http://39.134.52.180/PLTV/88888888/224/3221225701/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0113/20140113093103537.jpg" group-title="KIDS",嘉兴新闻综合
-http://112.17.40.140/PLTV/88888888/224/3221226358/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" group-title="KIDS",炫动卡通
 http://121.31.30.90:8085/ysten-business/live/xuandongkaton/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" group-title="KIDS",炫动卡通
@@ -600,8 +598,6 @@ https://stitcher.pluto.tv/stitch/hls/channel/5887ba337b8e94223eb121bd/master.m3u
 #EXTINF:-1 group-title="NN",  PLUTO
 http://stitcher.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472000114/master.m3u8?sid=web24157571521&deviceType=web&deviceMake=web&deviceVersion=1&deviceId=web24163643069&appVersion=5.2.7&deviceDNT=web&deviceModel=web
 #EXTINF:-1 group-title="NN",  PLUTO
-#EXTINF:-1 group-title="NN",  Animal Planet South East Asia
-http://80.80.160.168/live/1/500000/live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png" group-title="NN",  CINEMAX
 http://203.153.218.28:9981/stream/channelid/255605374?ticket=434549F6D027878D70C7F1F479D0C3495B16099D&profile=pass
 #EXTINF:-1 group-title="NN", YOU MAN
