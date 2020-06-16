@@ -542,15 +542,11 @@ http://stitcher.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472000114/master.m3u8
 #EXTINF:-1 group-title="NN", PLUTO
 #EXTINF:-1 Animal Planet South East Asia
 http://80.80.160.168/live/1/500000/live.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/320px-HBO_logo.svg.png" group-title="XXX", HBO ID
-http://203.153.218.28:9981/stream/channelid/1299824667?ticket=EDA811CE90A26AD414D02B63E0A9171A68A9454C&profile=pass
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png" group-title="XXX", HBO SIGNATURE
-http://203.153.218.28:9981/stream/channelid/1197019186?ticket=96AB9AD0536B1000E515E3219100C78A9625CAE3&profile=pass
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png" group-title="XXX", CINEMAX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png" group-title="NN", CINEMAX
 http://203.153.218.28:9981/stream/channelid/255605374?ticket=434549F6D027878D70C7F1F479D0C3495B16099D&profile=pass
-#EXTINF:-1 group-title="XXX", CHINA
+#EXTINF:-1 group-title="NN", CHINA
 http://39.134.65.74:80/wh7f454c46tw2588997493_937400034/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8?icpid=88888888&RTS=1583531261&from=1&hms_devid=127
-#EXTINF:-1 group-title="XXX", CHINA
+#EXTINF:-1 group-title="NN", CHINA
 http://39.134.65.74:80/wh7f454c46tw2588997493_937400034/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8
 
 #EXTINF:0,[THE END]
