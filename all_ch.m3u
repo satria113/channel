@@ -447,6 +447,65 @@ http://121.31.30.90:8085/ysten-business/live/youmankaton/1.m3u8
 http://121.31.30.90:8085/ysten-business/live/youmankaton/yst.m3u8
 #EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/ymkt.jpg" group-title="KIDS", YOU MAN
 http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/youmankaton/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" group-title="KIDS",北京卡酷少儿
+http://117.148.187.37/PLTV/88888888/224/3221226184/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" group-title="KIDS",北京卡酷少儿
+http://121.31.30.90:8085/ysten-business/live/kakukaton/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" group-title="KIDS",北京卡酷少儿
+http://121.31.30.90:8085/ysten-business/live/kakukaton/yst.m3u8
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-language="Chinese" tvg-logo="" group-title="KIDS",北京卫视
+http://111.40.205.87/PLTV/88888888/224/3221225651/index.m3u8
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-language="Chinese" tvg-logo="" group-title="KIDS",北京卫视
+http://111.40.205.87/PLTV/88888888/224/3221225701/index.m3u8
+#EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/b/b5/TOONMAX_logo.png" group-title="KIDS",哈哈炫动
+http://111.40.205.76/PLTV/88888888/224/3221225657/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="哈哈炫动" tvg-language="Chinese" tvg-logo="https://i.imgur.com/YojAv3d.png" group-title="KIDS",哈哈炫动Toon Max TV
+http://210.210.155.35/qwr9ew/s/s50/index2.m3u8
+#EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/b/b5/TOONMAX_logo.png" group-title="KIDS",哈哈炫动卫视
+http://210.210.155.35/qwr9ew/s/s50/index.m3u8
+#EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-language="Chinese" tvg-logo="http://www.jiajiakt.com/images/global/logo.png" group-title="KIDS",嘉佳卡通
+http://112.17.40.140/PLTV/88888888/224/3221226461/index.m3u8
+#EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-language="Chinese" tvg-logo="" group-title="KIDS",嘉佳卡通
+http://117.148.187.37/PLTV/88888888/224/3221226461/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="嘉佳卡通" tvg-language="Chinese" tvg-logo="" group-title="KIDS",嘉佳卡通
+http://39.134.52.180/PLTV/88888888/224/3221225701/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0113/20140113093103537.jpg" group-title="KIDS",嘉兴新闻综合
+http://112.17.40.140/PLTV/88888888/224/3221226358/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" group-title="KIDS",炫动卡通
+http://121.31.30.90:8085/ysten-business/live/xuandongkaton/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" group-title="KIDS",炫动卡通
+http://121.31.30.90:8085/ysten-business/live/xuandongkaton/yst.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" group-title="KIDS",炫动卡通
+http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/xuandongkaton/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" group-title="KIDS",福州少儿
+http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
+#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-language="Chinese" tvg-logo="" group-title="KIDS",金鹰卡通
+http://117.148.187.37/PLTV/88888888/224/3221226190/index.m3u8
+#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-language="Chinese" tvg-logo="" group-title="KIDS",金鹰卡通
+http://121.31.30.90:8085/ysten-business/live/jinyingkaton/1.m3u8
+#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-language="Chinese" tvg-logo="" group-title="KIDS",金鹰卡通
+http://121.31.30.90:8085/ysten-business/live/jinyingkaton/yst.m3u8
+#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-language="Chinese" tvg-logo="" group-title="KIDS",金鹰卡通
+http://223.82.250.72/live/jinyingkaton/1.m3u8
+#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-language="Chinese" tvg-logo="" group-title="KIDS",金鹰卡通
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
+#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-language="Chinese" tvg-logo="" group-title="KIDS",金鹰卡通
+http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/jinyingkaton/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://www.nettv.live/uploads/19/1-191215202209426.jpg" group-title="KIDS",黑莓动画
+http://111.40.205.76/PLTV/88888888/224/3221225662/index.m3u8
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c8/CCTV-14_Logo.png" group-title="KIDS",CCTV中国中央电视台-14 少儿
+http://111.40.205.76/PLTV/88888888/224/3221225732/index.m3u8
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c8/CCTV-14_Logo.png" group-title="KIDS",CCTV中国中央电视台-14 少儿
+http://111.40.205.87/PLTV/88888888/224/3221225732/index.m3u8
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c8/CCTV-14_Logo.png" group-title="KIDS",CCTV中国中央电视台-14 少儿
+http://117.148.187.37/PLTV/88888888/224/3221226126/index.m3u8
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c8/CCTV-14_Logo.png" group-title="KIDS",CCTV中国中央电视台-14 少儿
+http://117.148.187.37/PLTV/88888888/224/3221226565/index.m3u8
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c8/CCTV-14_Logo.png" group-title="KIDS",CCTV中国中央电视台-14 少儿
+http://121.31.30.90:8085/ysten-business/live/cctv-14/1.m3u8
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c8/CCTV-14_Logo.png" group-title="KIDS",CCTV中国中央电视台-14 少儿
+http://ivi.bupt.edu.cn/hls/cctv14.m3u8
+
 #EXTINF:-1 tvg-logo="https://d1eet599aje0m8.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="KIDS", ANIPLUS
 http://rr1.dens.tv/h/h02/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1eet599aje0m8.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="KIDS", ANIPLUS
