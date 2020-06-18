@@ -390,14 +390,8 @@ http://ivi.bupt.edu.cn/hls/chchd.m3u8
 #EXTINF:-1 tvg-logo="http://www.dianshiba.cc/images/dianshi/chc.jpg" group-title="CHINA",  PHOENIX
 http://210.210.155.35/x6bnqe/s/s80/index2.m3u8
 
-#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://i.imgur.com/GjGiNIA.jpg" group-title="Movies",CHC高清电影
-http://ivi.bupt.edu.cn/hls/chchd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://www.nettv.live/uploads/18/1-1PR5234U14N.jpg" group-title="Entertainment",HRB哈尔滨网络广播电视 娱乐
-http://111.40.205.87/PLTV/88888888/224/3221225759/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://www.nettv.live/uploads/18/1-1PR5235054640.jpg" group-title="Movies",HRB哈尔滨网络广播电视 影视
 http://111.40.205.87/PLTV/88888888/224/3221225760/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://www.nettv.live/uploads/18/1-1PR5233533258.jpg" group-title="News",HRB哈尔滨网络广播电视 新闻综合
-http://111.40.205.87/PLTV/88888888/224/3221225745/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://www.nettv.live/uploads/18/1-1PR523550C59.jpg" group-title="",HRB哈尔滨网络广播电视 生活
 http://111.40.205.87/PLTV/88888888/224/3221225762/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://www.nettv.live/uploads/18/1-1PR5234K6354.jpg" group-title="",HRB哈尔滨网络广播电视 资讯
