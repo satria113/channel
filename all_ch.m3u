@@ -623,45 +623,43 @@ http://220.180.110.101:8083/videos/live/33/59/NC7XQdEveyncq/NC7XQdEveyncq.M3U8
 http://221.233.242.239:280/live/71/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" group-title="CHINA",  仙桃生活文体
 http://221.233.242.239:280/live/72/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" group-title="",保姆的目的
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" group-title="",  ERROR 保姆的目的
 https://156zy.suyunbo.tv/2018/07/28/55Zmxf2t0KqXP4xy/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" group-title="",假面骑士HD
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" group-title="KIDS",  假面骑士HD
 http://117.148.187.37/PLTV/88888888/224/3221226178/index.m3u8
-#EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-language="Chinese" tvg-logo="" group-title="",全纪实
+
+#EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-language="Chinese" tvg-logo="" group-title="CHINA",  全纪实
 http://39.134.52.153/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225697/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" group-title="",公共农村
-http://219.153.252.50/PLTV/88888888/224/3221225626/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.china-latv.com/t/icon/201901/20190107160038YJK.png" group-title="",六安公共频道
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.china-latv.com/t/icon/201901/20190107160038YJK.png" group-title="CHINA",  六安公共频道
 http://live.china-latv.com/channel2/sd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.china-latv.com/t/icon/201901/20190107160038YJK.png" group-title="",六安新闻综合
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.china-latv.com/t/icon/201901/20190107160038YJK.png" group-title="CHINA",  六安新闻综合
 http://live.china-latv.com/channel1/sd/live.m3u8
-#EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/bingtuantv.jpg" group-title="",兵团卫视
+#EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/bingtuantv.jpg" group-title="CHINA",  兵团卫视
 http://112.17.40.140/PLTV/88888888/224/3221226186/index.m3u8
-#EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-language="Chinese" tvg-logo="" group-title="",兵团卫视
+#EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-language="Chinese" tvg-logo="" group-title="CHINA",  兵团卫视
 http://ivi.bupt.edu.cn/hls/bttv.m3u8
-#EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-language="Chinese" tvg-logo="" group-title="",兵团卫视
+#EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-language="Chinese" tvg-logo="" group-title="CHINA",  兵团卫视
 http://v.btzx.com.cn:1935/live/weishi.stream/chunklist_w846804169.m3u8
-#EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-language="Chinese" tvg-logo="" group-title="",兵团卫视
+#EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-language="Chinese" tvg-logo="" group-title="CHINA",  兵团卫视
 http://v.btzx.com.cn:1935/live/weishi.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" group-title="",兵团建设
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" group-title="CHINA",  兵团建设
 http://v.btzx.com.cn:1935/live/news.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-language="Chinese" tvg-logo="" group-title="",内蒙古卫视
+#EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-language="Chinese" tvg-logo="" group-title="CHINA",  内蒙古卫视
 http://111.40.205.87/PLTV/88888888/224/3221225634/index.m3u8
-#EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-language="Chinese" tvg-logo="" group-title="",内蒙古卫视
+#EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-language="Chinese" tvg-logo="" group-title="CHINA",  内蒙古卫视
 http://117.169.120.140:8080/live/neimenggustv/.m3u8
-#EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-language="Chinese" tvg-logo="" group-title="",内蒙古卫视
+#EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-language="Chinese" tvg-logo="" group-title="CHINA",  内蒙古卫视
 http://121.31.30.90:8085/ysten-business/live/neimenggustv/1.m3u8
-#EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-language="Chinese" tvg-logo="" group-title="",内蒙古卫视
+#EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-language="Chinese" tvg-logo="" group-title="CHINA",  内蒙古卫视
 http://121.31.30.90:8085/ysten-business/live/neimenggustv/yst.m3u8
-#EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-language="Chinese" tvg-logo="" group-title="",内蒙古卫视
+#EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-language="Chinese" tvg-logo="" group-title="CHINA",  内蒙古卫视
 http://39.134.52.159/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226022/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.sichuanmianning.com/images/mianlin_tv/img/logo.png" group-title="",冕宁电视台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.sichuanmianning.com/images/mianlin_tv/img/logo.png" group-title="CHINA",  冕宁电视台
 http://live.sichuanmianning.com/live/xwpd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" group-title="",农安新闻综合
-http://stream2.jlntv.cn/naxw/sd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" group-title="",凤台文化生活
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" group-title="CHINA",  凤台文化生活
 http://60.175.115.119:1935/live/wenhua/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" group-title="",凤台综合频道
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" group-title="CHINA",  凤台综合频道
 http://60.175.115.119:1935/live/zonghe/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" group-title="",利川公共频道
 http://lichuan.live.tempsource.cjyun.org/videotmp/s10093-lcgg.m3u8
