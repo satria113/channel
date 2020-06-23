@@ -296,7 +296,10 @@ http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/
 http://210.210.155.35/qwr9ew/s/s24/02.m3u8
 
 
-
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-language="Chinese" tvg-logo="https://www.lyngsat.com/logo/tv/bb/beijing-tv-cn.png" group-title="CHINA",  BTV
+http://111.40.205.87/PLTV/88888888/224/3221225651/index.m3u8
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-language="Chinese" tvg-logo="https://www.lyngsat.com/logo/tv/bb/beijing-tv-cn.png" group-title="CHINA",  BTV
+http://111.40.205.87/PLTV/88888888/224/3221225701/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://starsat.co.za/wp-content/uploads/2017/08/Dragon-TV.png" group-title="CHINA",  DRAGON TV
 http://210.210.155.35/qwr9ew/s/s29/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://starsat.co.za/wp-content/uploads/2017/08/Dragon-TV.png" group-title="CHINA",  DRAGON TV
@@ -2330,33 +2333,31 @@ http://210.210.155.35/qwr9ew/s/s50/index.m3u8
 #EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-language="Chinese" tvg-logo="https://www.lyngsat.com/logo/tv/tt/toonmax-tv-cn.png" group-title="KIDS",  TOON MAX
 http://111.40.205.76/PLTV/88888888/224/3221225657/index.m3u8
 
-#EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/ymkt.jpg" group-title="KIDS",  优漫卡通
+#EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/ymkt.jpg" group-title="KIDS",  YOU MAN
 http://111.40.205.76/PLTV/88888888/224/3221225656/index.m3u8
 #EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/ymkt.jpg" group-title="KIDS",  YOU MAN
 http://117.148.187.37/PLTV/88888888/224/3221226172/index.m3u8
-#EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/ymkt.jpg" group-title="KIDS",   YOU MAN
+#EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/ymkt.jpg" group-title="KIDS",  YOU MAN
 http://121.31.30.90:8085/ysten-business/live/youmankaton/1.m3u8
-#EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/ymkt.jpg" group-title="KIDS",   YOU MAN
+#EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/ymkt.jpg" group-title="KIDS",  YOU MAN
 http://121.31.30.90:8085/ysten-business/live/youmankaton/yst.m3u8
-#EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/ymkt.jpg" group-title="KIDS",   YOU MAN
+#EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/ymkt.jpg" group-title="KIDS",  YOU MAN
 http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/youmankaton/1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="北京卡酷少儿" tvg-language="Chinese" tvg-logo="http://www.leshizhibo.com/uploads/images/53a2a9c43fbbfbtv2.jpg" group-title="KIDS", BTV
+#EXTINF:-1 tvg-id="" tvg-name="北京卡酷少儿" tvg-language="Chinese" tvg-logo="https://www.lyngsat.com/logo/tv/bb/beijing-tv-kaku-cn.png" group-title="KIDS", BTV KAKU
 http://117.148.187.37/PLTV/88888888/224/3221226184/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.026520.com/upfile/beijingdianshitaierlinglingjiuqiyongdetaibiao_1123.gif" group-title="KIDS",  BTV
+#EXTINF:-1 tvg-id="" tvg-name="北京卡酷少儿" tvg-language="Chinese" tvg-logo="https://www.lyngsat.com/logo/tv/bb/beijing-tv-kaku-cn.png" group-title="KIDS", BTV KAKU
 http://121.31.30.90:8085/ysten-business/live/kakukaton/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9a/KAKU_logo.png/150px-KAKU_logo.png" group-title="KIDS",  BTV
+#EXTINF:-1 tvg-id="" tvg-name="北京卡酷少儿" tvg-language="Chinese" tvg-logo="https://www.lyngsat.com/logo/tv/bb/beijing-tv-kaku-cn.png" group-title="KIDS", BTV KAKU
 http://121.31.30.90:8085/ysten-business/live/kakukaton/yst.m3u8
-#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-language="Chinese" tvg-logo="" group-title="KIDS",北京卫视
-http://111.40.205.87/PLTV/88888888/224/3221225651/index.m3u8
-#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-language="Chinese" tvg-logo="" group-title="KIDS",北京卫视
-http://111.40.205.87/PLTV/88888888/224/3221225701/index.m3u8
-#EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-language="Chinese" tvg-logo="http://www.jiajiakt.com/images/global/logo.png" group-title="KIDS",嘉佳卡通
+
+#EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-language="Chinese" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jiajia-cartoon-cn.png" group-title="KIDS",  JIAJIA CARTOON 
 http://112.17.40.140/PLTV/88888888/224/3221226461/index.m3u8
-#EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-language="Chinese" tvg-logo="" group-title="KIDS",嘉佳卡通
+#EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-language="Chinese" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jiajia-cartoon-cn.png" group-title="KIDS",  JIAJIA CARTOON 
 http://117.148.187.37/PLTV/88888888/224/3221226461/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="嘉佳卡通" tvg-language="Chinese" tvg-logo="" group-title="KIDS",嘉佳卡通
+#EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-language="Chinese" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jiajia-cartoon-cn.png" group-title="KIDS",  JIAJIA CARTOON 
 http://39.134.52.180/PLTV/88888888/224/3221225701/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" group-title="KIDS",炫动卡通
 http://121.31.30.90:8085/ysten-business/live/xuandongkaton/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" group-title="KIDS",炫动卡通
