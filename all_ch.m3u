@@ -2323,8 +2323,13 @@ http://183.207.248.71/cntv/live1/cmlapo/HD-1500k-720P-cmlapo
 #EXTINF:-1 group-title="CHINA",黑龙江卫视高清-8M
 http://183.207.248.71/cntv/live1/heilongjiangstv/HD-8000k-1080P-heilongjiangstv
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="http://img1.gtimg.com/sh/pics/hv1/200/222/1872/121783610.png" tvg-country="ID" tvg-url="" group-title="KIDS",  TOON MAX
+#EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-language="Chinese" tvg-logo="https://www.lyngsat.com/logo/tv/tt/toonmax-tv-cn.png" group-title="KIDS",  TOON MAX
 http://210.210.155.35/qwr9ew/s/s50/index2.m3u8
+#EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-language="Chinese" tvg-logo="https://www.lyngsat.com/logo/tv/tt/toonmax-tv-cn.png" group-title="KIDS",  TOON MAX
+http://210.210.155.35/qwr9ew/s/s50/index.m3u8
+#EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-language="Chinese" tvg-logo="https://www.lyngsat.com/logo/tv/tt/toonmax-tv-cn.png" group-title="KIDS",  TOON MAX
+http://111.40.205.76/PLTV/88888888/224/3221225657/index.m3u8
+
 #EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/ymkt.jpg" group-title="KIDS",  优漫卡通
 http://111.40.205.76/PLTV/88888888/224/3221225656/index.m3u8
 #EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/ymkt.jpg" group-title="KIDS",  YOU MAN
@@ -2335,6 +2340,7 @@ http://121.31.30.90:8085/ysten-business/live/youmankaton/1.m3u8
 http://121.31.30.90:8085/ysten-business/live/youmankaton/yst.m3u8
 #EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/ymkt.jpg" group-title="KIDS",   YOU MAN
 http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/youmankaton/1.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="北京卡酷少儿" tvg-language="Chinese" tvg-logo="http://www.leshizhibo.com/uploads/images/53a2a9c43fbbfbtv2.jpg" group-title="KIDS", BTV
 http://117.148.187.37/PLTV/88888888/224/3221226184/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.026520.com/upfile/beijingdianshitaierlinglingjiuqiyongdetaibiao_1123.gif" group-title="KIDS",  BTV
@@ -2345,12 +2351,6 @@ http://121.31.30.90:8085/ysten-business/live/kakukaton/yst.m3u8
 http://111.40.205.87/PLTV/88888888/224/3221225651/index.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-language="Chinese" tvg-logo="" group-title="KIDS",北京卫视
 http://111.40.205.87/PLTV/88888888/224/3221225701/index.m3u8
-#EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/b/b5/TOONMAX_logo.png" group-title="KIDS",哈哈炫动
-http://111.40.205.76/PLTV/88888888/224/3221225657/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="哈哈炫动" tvg-language="Chinese" tvg-logo="https://i.imgur.com/YojAv3d.png" group-title="KIDS",哈哈炫动Toon Max TV
-http://210.210.155.35/qwr9ew/s/s50/index2.m3u8
-#EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/b/b5/TOONMAX_logo.png" group-title="KIDS",哈哈炫动卫视
-http://210.210.155.35/qwr9ew/s/s50/index.m3u8
 #EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-language="Chinese" tvg-logo="http://www.jiajiakt.com/images/global/logo.png" group-title="KIDS",嘉佳卡通
 http://112.17.40.140/PLTV/88888888/224/3221226461/index.m3u8
 #EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-language="Chinese" tvg-logo="" group-title="KIDS",嘉佳卡通
