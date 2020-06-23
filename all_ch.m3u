@@ -486,6 +486,7 @@ http://121.31.30.90:8085/ysten-business/live/cctv-14/1.m3u8
 http://ivi.bupt.edu.cn/hls/cctv14.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/USiqg8c.jpg" group-title="CHINA",  CCTV 14
 http://112.50.243.8/PLTV/88888888/224/3221225819/1.m3u8
+
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv15.jpg" group-title="CHINA",  CCTV 15
 http://111.40.205.87/PLTV/88888888/224/3221225601/index.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv15.jpg" group-title="CHINA",  CCTV 15
@@ -2358,44 +2359,19 @@ http://117.148.187.37/PLTV/88888888/224/3221226461/index.m3u8
 #EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-language="Chinese" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jiajia-cartoon-cn.png" group-title="KIDS",  JIAJIA CARTOON 
 http://39.134.52.180/PLTV/88888888/224/3221225701/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" group-title="KIDS",炫动卡通
-http://121.31.30.90:8085/ysten-business/live/xuandongkaton/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" group-title="KIDS",炫动卡通
-http://121.31.30.90:8085/ysten-business/live/xuandongkaton/yst.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" group-title="KIDS",炫动卡通
-http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/xuandongkaton/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" group-title="KIDS",福州少儿
-http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
-#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-language="Chinese" tvg-logo="" group-title="KIDS",金鹰卡通
+
+#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-language="Chinese" tvg-logo="https://www.tvchinese.net/uploads/tv/jykt.jpg" group-title="KIDS",  ANIWORLD
 http://117.148.187.37/PLTV/88888888/224/3221226190/index.m3u8
-#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-language="Chinese" tvg-logo="" group-title="KIDS",金鹰卡通
+#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-language="Chinese" tvg-logo="https://www.tvchinese.net/uploads/tv/jykt.jpg" group-title="KIDS",  ANIWORLD
 http://121.31.30.90:8085/ysten-business/live/jinyingkaton/1.m3u8
-#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-language="Chinese" tvg-logo="" group-title="KIDS",金鹰卡通
+#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-language="Chinese" tvg-logo="https://www.tvchinese.net/uploads/tv/jykt.jpg" group-title="KIDS",  ANIWORLD
 http://121.31.30.90:8085/ysten-business/live/jinyingkaton/yst.m3u8
-#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-language="Chinese" tvg-logo="" group-title="KIDS",金鹰卡通
+#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-language="Chinese" tvg-logo="https://www.tvchinese.net/uploads/tv/jykt.jpg" group-title="KIDS",  ANIWORLD
 http://223.82.250.72/live/jinyingkaton/1.m3u8
-#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-language="Chinese" tvg-logo="" group-title="KIDS",金鹰卡通
+#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-language="Chinese" tvg-logo="https://www.tvchinese.net/uploads/tv/jykt.jpg" group-title="KIDS",  ANIWORLD
 http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
-#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-language="Chinese" tvg-logo="" group-title="KIDS",金鹰卡通
+#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-language="Chinese" tvg-logo="https://www.tvchinese.net/uploads/tv/jykt.jpg" group-title="KIDS",  ANIWORLD
 http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/jinyingkaton/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://www.nettv.live/uploads/19/1-191215202209426.jpg" group-title="KIDS",黑莓动画
-http://111.40.205.76/PLTV/88888888/224/3221225662/index.m3u8
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c8/CCTV-14_Logo.png" group-title="KIDS",CCTV中国中央电视台-14 少儿
-http://111.40.205.76/PLTV/88888888/224/3221225732/index.m3u8
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c8/CCTV-14_Logo.png" group-title="KIDS",CCTV中国中央电视台-14 少儿
-http://111.40.205.87/PLTV/88888888/224/3221225732/index.m3u8
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c8/CCTV-14_Logo.png" group-title="KIDS",CCTV中国中央电视台-14 少儿
-http://117.148.187.37/PLTV/88888888/224/3221226126/index.m3u8
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c8/CCTV-14_Logo.png" group-title="KIDS",CCTV中国中央电视台-14 少儿
-http://117.148.187.37/PLTV/88888888/224/3221226565/index.m3u8
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c8/CCTV-14_Logo.png" group-title="KIDS",CCTV中国中央电视台-14 少儿
-http://121.31.30.90:8085/ysten-business/live/cctv-14/1.m3u8
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c8/CCTV-14_Logo.png" group-title="KIDS",CCTV中国中央电视台-14 少儿
-http://ivi.bupt.edu.cn/hls/cctv14.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="qiaoxiangpingdao.png" group-title="KIDS",  侨乡频道
-http://stream.jinjiang.tv/1/sd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" group-title="KIDS",  假面骑士HD
-http://117.148.187.37/PLTV/88888888/224/3221226178/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://d1eet599aje0m8.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="KIDS", ANIPLUS
 http://rr1.dens.tv/h/h02/index.m3u8
@@ -2409,14 +2385,6 @@ http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/79/37/9e/79379ebe8f8398aeb819899a1468ae81.png" group-title="KIDS",  DISNEY JUNIOR
 http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8
-#EXTINF:0 tvg-logo="http://tv.dekagon.id/logo/disney_channel_global.png" group-title="KIDS",  Disney Channel
-http://203.153.218.28:9981/stream/channelid/31701170?ticket=02DB3A3E44B8E741CC4D2913B2F42F452A2C3AB9&profile=pass
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Nickelodeon_2009_logo.svg" group-title="KIDS",  Nickelodeon Asia
-http://203.153.218.28:9981/stream/channelid/648970596?ticket=72A19F89119921817ADF08AEBFF2D7E0009D1A20&profile=pass
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Animaxlogo-20160701.png/180px-Animaxlogo-20160701.png" tvg-country="ID" tvg-url="" group-title="KIDS",  ANIMAX
-http://210.210.155.35:80/dr9445/h/h144/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Animaxlogo-20160701.png/180px-Animaxlogo-20160701.png" tvg-country="ID" tvg-url="" group-title="KIDS",  Animax HD
-http://210.210.155.35:80/dr9445/h/h144/index2.m3u8
 
 
 #EXTINF:0 tvg-logo="https://i-h1.pinimg.com/564x/8e/56/cd/8e56cdba9e19abf173ff387ae15ecce0.jpg" group-title="SCIENCE",  HISTORY
@@ -2509,6 +2477,18 @@ http://121.31.30.90:8085/ysten-business/live/jingpinjl/1.m3u8
 http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://x01.xesimg.com/teacher/2014/12/08/14180090355091.jpg" group-title="NN",  百视通 BesTV学而思
 http://39.134.52.172/wh7f454c46tw3633585374_215135606/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226027/index.m3u8
+#EXTINF:0 tvg-logo="http://tv.dekagon.id/logo/disney_channel_global.png" group-title="NN",  Disney Channel
+http://203.153.218.28:9981/stream/channelid/31701170?ticket=02DB3A3E44B8E741CC4D2913B2F42F452A2C3AB9&profile=pass
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Nickelodeon_2009_logo.svg" group-title="NN",  Nickelodeon Asia
+http://203.153.218.28:9981/stream/channelid/648970596?ticket=72A19F89119921817ADF08AEBFF2D7E0009D1A20&profile=pass
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Animaxlogo-20160701.png/180px-Animaxlogo-20160701.png" tvg-country="ID" tvg-url="" group-title="NN",  ANIMAX
+http://210.210.155.35:80/dr9445/h/h144/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Animaxlogo-20160701.png/180px-Animaxlogo-20160701.png" tvg-country="ID" tvg-url="" group-title="NN",  ANIMAX HD
+http://210.210.155.35:80/dr9445/h/h144/index2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="" group-title="NN",  KAMEN RIDER
+http://117.148.187.37/PLTV/88888888/224/3221226178/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="黑莓动画" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://www.nettv.live/uploads/19/1-191215202209426.jpg" group-title="NN",  BLACKBERRY DISCOVERY
+http://111.40.205.76/PLTV/88888888/224/3221225662/index.m3u8
 
 
 
