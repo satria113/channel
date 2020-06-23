@@ -103,14 +103,15 @@ http://36.89.47.217:11935/rrinet/live/index.m3u8
 https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
 
 
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/wB9CkPG.jpg" group-title="SPORT",  Fight Sports
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://photo.sofun.tw/2013/11/STAR-SPORTS-LOGO.jpg" tvg-country="HK" tvg-url="" group-title="SPORT",  STAR SPORTS
+rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/wB9CkPG.jpg" group-title="SPORT",  FIGHT SPORTS
 http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/wB9CkPG.jpg" group-title="SPORT",  Fight Sports
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/wB9CkPG.jpg" group-title="SPORT",  FIGHT SPORTS
 http://210.210.155.35/session/ff569f46-2f90-11e9-b351-b82a72d63267/uq2663/h/h05/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/wB9CkPG.jpg" group-title="SPORT",  Fight Sports
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/wB9CkPG.jpg" group-title="SPORT",  FIGHT SPORTS
 http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/02.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/wB9CkPG.jpg" group-title="SPORT",  Fight Sports
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/wB9CkPG.jpg" group-title="SPORT",  FIGHT SPORTS
 http://210.210.155.35/uq2663/h/h05/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/2000px-Fox_Sports_1_logo.svg.png" tvg-name="FOX SPORT 1"  group-title="SPORT",  FOX SPORT 1
 http://45.58.62.92:8080
@@ -130,7 +131,8 @@ http://rr.dens.tv/h/h22/index.m3u8
 http://live.iptv.wtf:80/live/Zn3UgNxZq77/6qYGad7c50/5538.m3u8
 #EXTINF:-1 group-title="SPORT",  WWE HD
 http://live.iptv.wtf:80/live/Zn3UgNxZq77/6qYGad7c50/6815.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://pic.pimg.tw/sportcast/d28525d04fd7be954e32f9f0b344ee93_n.png" tvg-country="TW" tvg-url="" group-title="SPORT",  博斯魅力
+https://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
 
 #EXTINF:-1,group-title="SPORT",  Uk- Sky BT Sport 1 HD
 http://linux-app.tv:6204/95025267076109/65839594001441/33630
@@ -295,7 +297,8 @@ http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/tv5-monde-logo-300x300.jpg" group-title="MOVIES",  TV 5 MONDE ASIE
 http://210.210.155.35/qwr9ew/s/s24/02.m3u8
 
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://www.zhiboba.org/zbbimg/xingkongweishi.jpg" tvg-country="HK" tvg-url="" group-title="CHINA",  XING KONG
+rtmp://58.200.131.2:1935/livetv/startv
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-language="Chinese" tvg-logo="https://www.lyngsat.com/logo/tv/bb/beijing-tv-cn.png" group-title="CHINA",  BTV
 http://111.40.205.87/PLTV/88888888/224/3221225651/index.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-language="Chinese" tvg-logo="https://www.lyngsat.com/logo/tv/bb/beijing-tv-cn.png" group-title="CHINA",  BTV
@@ -2359,7 +2362,6 @@ http://117.148.187.37/PLTV/88888888/224/3221226461/index.m3u8
 #EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-language="Chinese" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jiajia-cartoon-cn.png" group-title="KIDS",  JIAJIA CARTOON 
 http://39.134.52.180/PLTV/88888888/224/3221225701/index.m3u8
 
-
 #EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-language="Chinese" tvg-logo="https://www.tvchinese.net/uploads/tv/jykt.jpg" group-title="KIDS",  ANIWORLD
 http://117.148.187.37/PLTV/88888888/224/3221226190/index.m3u8
 #EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-language="Chinese" tvg-logo="https://www.tvchinese.net/uploads/tv/jykt.jpg" group-title="KIDS",  ANIWORLD
@@ -2489,6 +2491,8 @@ http://210.210.155.35:80/dr9445/h/h144/index2.m3u8
 http://117.148.187.37/PLTV/88888888/224/3221226178/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="黑莓动画" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://www.nettv.live/uploads/19/1-191215202209426.jpg" group-title="NN",  BLACKBERRY DISCOVERY
 http://111.40.205.76/PLTV/88888888/224/3221225662/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/6uoNAAj.png" tvg-country="BR" tvg-url="" group-title="NN",  Discovery Kids
+https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverykids.smil/master.m3u8
 
 
 
