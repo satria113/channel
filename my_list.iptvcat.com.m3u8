@@ -1,0 +1,16 @@
+#EXTM3U
+#PLAYLIST:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="https://i.imgur.com/HqScjKW.jpg" group-title="Undefined",CCTV 3,CCTV-3高清
+http://183.207.249.14/PLTV/3/224/3221225588/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="https://i.imgur.com/BHUh7hq.jpg" group-title="Undefined",CCTV 1,CN | CCTV 1
+https://cctvakhwh5ca-cntv.akamaized.net/clive/cctv1_2/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AU;CN" tvg-logo="http://www.rtvchannel.com.au/wp-content/uploads/2017/04/xshow_08.png,Mic_.2KNN9OHw1p.png.pagespeed.ce.2KNN9OHw1p.png" group-title="Undefined",Australia Rainbow TV,澳大利亚天和电视台
+http://rtvcdn.com.au:8082/TV_GG.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c8/CCTV-14_Logo.png" group-title="Kids;Undefined",CCTV-14 少儿频道,CCTV中国中央电视台-14 少儿
+http://111.40.205.76/PLTV/88888888/224/3221225732/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="Undefined",CCTV-14少儿
+http://121.31.30.90:8085/ysten-business/live/cctv-14/yst.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="Undefined",CCTV-News
+http://121.31.30.90:8085/ysten-business/live/cctv-9/1.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CN" tvg-logo="https://i.imgur.com/tt45Gmm.jpg" group-title="Undefined",XMTV Star,厦门卫视XMTV Star
+http://cstvpull.live.wscdns.com/live/xiamen4.flv?checkedby:iptvcat.com
