@@ -59,6 +59,8 @@ http://203.153.218.28:9981/stream/channelid/861591723?ticket=F0599E847F90B5FE81A
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 #EXTINF:0 tvg-logo="https://cdn.cnn.com/cnn/.e1mo/img/4.0/logos/CNN_logo_400x400.png" group-title="NEWS",  CNN International
 http://203.153.218.28:9981/stream/channelid/1328589592?ticket=3F51EE4F59F75B214C132FBC6D457D6E252DB447&profile=pass
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/1c/Tvbsnews.png" tvg-country="TW" tvg-url="" group-title="NEWS",  TVBS新聞台
+http://60.199.188.65/HLS/WG_TVBS-N/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.bloomberg.com/graphics/assets/img/BB-Logo-2line.svg" group-title="NEWS",  BLOOMBERG ASIA
 http://45.126.83.51/uq2663/h/h03/index2.m3u8
 #EXTINF:-1 tvg-logo="https://www.bloomberg.com/graphics/assets/img/BB-Logo-2line.svg" group-title="NEWS",  BLOOMBERG ASIA
@@ -240,6 +242,8 @@ http://203.153.218.28:9981/stream/channelid/2038175895?ticket=0299B4C37DF5A2B463
 http://203.153.218.28:9981/stream/channelid/2038175895?ticket=464FCB103389A10044FB3B935A95CDF9A1D1B68F&profile=pass
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="MOVIES",  HBO Hits
 http://203.153.218.28:9981/stream/channelid/78064174?ticket=4490D953FCAC1483DE94BE2C4D1F241E5319BCD8&profile=pass
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-language="English" tvg-logo="https://i.ibb.co/Y84VwVC/hbo.png" tvg-country="TW" tvg-url="" group-title="MOVIES",  HBO ASIA
+http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
 #EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20180606/tap/kisspng-fox-broadcasting-company-television-show-streaming-tv-news-5b18109b57f2a2.4529019615283037713603.jpg" group-title="MOVIES",  FOX
 http://203.153.218.28:9981/stream/channelid/1910872088?ticket=1FE514A47371AF385F3866E79BE3A4D04BB182F4&profile=pass
 #EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20180606/tap/kisspng-fox-broadcasting-company-television-show-streaming-tv-news-5b18109b57f2a2.4529019615283037713603.jpg" group-title="MOVIES",  FOX
@@ -2443,6 +2447,8 @@ https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://tv.toggle.sg/blob/11491578/7f4aa2f2af43777e0880c10acdbbb836/header3-data.jpg" group-title="SG",OKTO on 5
 https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="CHANNEL[V]" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/1200px-Channel_V_Logo.svg.png" tvg-country="HK" tvg-url="" group-title="MUSIC",  CHANNEL [V]
+rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mcm-top-fr.png" tvg-country="FR" tvg-url="" group-title="MUSIC",  MCM TOP
 http://ott-cdn.ucom.am/s49/index.m3u8
 #EXTINF:0 group-title="MUSIC",  M2O TV
