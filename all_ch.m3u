@@ -51,12 +51,14 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 http://rr.dens.tv/h/h29/index2.m3u8
 #EXTINF:-1 tvg-id="Channel NewsAsia" tvg-name="Channel NewsAsia" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" group-title="NEWS",  CNA HD
 http://210.210.155.35/uq2663/h/h29/index.m3u8
-#EXTINF:-1 tvg-id="BBC World News UK" tvg-name="BBC World News UK" tvg-language="English" tvg-logo="https://ichef.bbci.co.uk/images/ic/480xn/p07kfh1t.jpg" group-title="NEWS",  BBC WORLD NEWS
-http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:0 tvg-logo="https://ichef.bbci.co.uk/images/ic/480xn/p07kfh1t.jpg" group-title="NEWS",  BBC WORLD NEWS
 http://203.153.218.28:9981/stream/channelid/861591723?ticket=F0599E847F90B5FE81ADFE5AD5296885A461DA19&profile=pass
-#EXTINF:-1  tvg-logo="https://en.wikipedia.org/wiki/Sky_News#/media/File:Sky-news-logo.png" group-title="NEWS",  SKY NEWS
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+#EXTINF:-1 tvg-id="BBC News UK" tvg-name="BBC News UK" tvg-language="English" tvg-logo="https://i.imgur.com/eNPIQ9f.png" tvg-country="UK" tvg-url="" group-title="NEWS",  BBC WORLD NEWS
+http://51.52.156.22:8888/http/004
+#EXTINF:-1 tvg-id="BBC World News UK" tvg-name="BBC World News UK" tvg-language="English" tvg-logo="https://ichef.bbci.co.uk/images/ic/480xn/p07kfh1t.jpg" group-title="NEWS",  BBC WORLD NEWS
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:-1 tvg-id="Sky News UK" tvg-name="Sky News UK" tvg-language="English" tvg-logo="https://i.imgur.com/WvNd8yg.png" tvg-country="UK" tvg-url="" group-title="NEWS",  SKY NEWS
+https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
 #EXTINF:0 tvg-logo="https://cdn.cnn.com/cnn/.e1mo/img/4.0/logos/CNN_logo_400x400.png" group-title="NEWS",  CNN International
 http://203.153.218.28:9981/stream/channelid/1328589592?ticket=3F51EE4F59F75B214C132FBC6D457D6E252DB447&profile=pass
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/1c/Tvbsnews.png" tvg-country="TW" tvg-url="" group-title="NEWS",  TVBS新聞台
@@ -298,6 +300,12 @@ http://203.153.218.28:9981/stream/channelid/882386103?ticket=DF543FFEC6C497F485D
 http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/573025578837671936/0SP5Blcm_400x400.jpeg" group-title="MOVIES",  KIX SD
 http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/02.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.nettv.live/uploads/19/1-191215202451457.jpg" tvg-country="CN" tvg-url="" group-title="MOVIES",  NewTV未来电视 动作电影
+http://111.40.205.76/PLTV/88888888/224/3221225661/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.nettv.live/uploads/19/1-191215202451457.jpg" tvg-country="CN" tvg-url="" group-title="MOVIES",  NewTV未来电视 动作电影
+http://121.31.30.90:8085/ysten-business/live/dongzuody/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="http://www.nettv.live/uploads/19/1-191215202451457.jpg" tvg-country="CN" tvg-url="" group-title="MOVIES",  NewTV未来电视 动作电影
+http://112.50.243.12/PLTV/88888888/224/3221225804/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/tv5-monde-logo-300x300.jpg" group-title="MOVIES",  TV 5 MONDE ASIE
 http://210.210.155.35/qwr9ew/s/s24/02.m3u8
 
