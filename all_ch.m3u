@@ -2525,19 +2525,4 @@ http://121.31.30.90:8085/ysten-business/live/cctv-9/1.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CN" tvg-logo="https://i.imgur.com/tt45Gmm.jpg" group-title="NN",XMTV Star,厦门卫视XMTV Star
 http://cstvpull.live.wscdns.com/live/xiamen4.flv?checkedby:iptvcat.com
 
-#EXTINF:0 tvg-country="CN" tvg-logo="https://i.imgur.com/tt45Gmm.jpg" group-title="NN",XMTV Star,  印尼-SCTV,
-http://lino.homeunix.com:6007/5acc94d30007a8ec30300f230fb64a66.ts
-#EXTINF:0 tvg-country="CN" tvg-logo="https://i.imgur.com/tt45Gmm.jpg" group-title="NN",印尼-NET HD,
-http://lino.homeunix.com:6007/5acc9512000da0b9303106c242912405.ts
-#EXTINF:0 tvg-country="CN" tvg-logo="https://i.imgur.com/tt45Gmm.jpg" group-title="NN",印尼-Trans 7,
-http://lino.homeunix.com:6007/5acc9558000b414c30321795267228b1.ts
-#EXTINF:0 tvg-country="CN" tvg-logo="https://i.imgur.com/tt45Gmm.jpg" group-title="NN",印尼-KOMPAS TV,
-http://lino.homeunix.com:6007/5acc958d0002efdd3032e47a4acc43f4.ts
-#EXTINF:0 tvg-country="CN" tvg-logo="https://i.imgur.com/tt45Gmm.jpg" group-title="NN",印尼-METRO TV,
-http://lino.homeunix.com:6007/5acc95b8000dd04c30338f41042f202d.ts
-#EXTINF:0 tvg-country="CN" tvg-logo="https://i.imgur.com/tt45Gmm.jpg" group-title="NN",MTV（亚洲）,
-http://lino.homeunix.com:6007/5acc9650000c1a613035e0847389748f.ts
-#EXTINF:0 tvg-country="CN" tvg-logo="https://i.imgur.com/tt45Gmm.jpg" group-title="NN",印尼-TV One,
-http://lino.homeunix.com:6007/5acc96ce000027353037c9a7231042fa.ts
-
 #EXTINF:0,[THE END]
