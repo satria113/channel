@@ -2532,4 +2532,43 @@ http://121.31.30.90:8085/ysten-business/live/cctv-9/1.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CN" tvg-logo="https://i.imgur.com/tt45Gmm.jpg" group-title="NN",XMTV Star,厦门卫视XMTV Star
 http://cstvpull.live.wscdns.com/live/xiamen4.flv?checkedby:iptvcat.com
 
+#EXTINF:tvg-logo=“https://www.seeklogo.net/wp-content/uploads/2015/11/axn-logo-vector-download.jpg“ group-title="NN",外AXN HD
+http://45.126.83.51/uq2663/h/h09/01.m3u8
+#EXTINF:tvg-logo=“https://pbs.twimg.com/profile_images/573025578837671936/0SP5Blcm_400x400.jpeg“ group-title="NN",外KIX HD
+http://45.126.83.51/uq2663/h/h07/01.m3u8
+#EXTINF:tvg-logo=““ group-title="NN",外KIX  HD
+http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8
+#EXTINF:tvg-logo=““ group-title="NN",外PRIVE HD
+http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
+#EXTINF:tvg-logo=““ group-title="NN",外FILX HD
+http://z5ams.akamaized.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:tvg-logo=““ group-title="NN",外RAI MOVIE
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+#EXTINF:tvg-logo=““ group-title="NN",外SONY CHANNEL HD
+http://45.126.83.51/uq2663/h/h06/01.m3u8
+#EXTINF:tvg-logo=““ group-title="NN",外Sony One HD
+http://45.126.83.51/uq2663/h/h13/01.m3u8
+#EXTINF:tvg-logo=““ group-title="NN",外PICTURES HD
+http://z5ams.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
+#EXTINF:tvg-logo=““ group-title="NN",外HBO
+http://161.0.157.38/PLTV/88888888/224/3221226127/index.m3u8
+#EXTINF:tvg-logo=““ group-title="NN",外HBO 2
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
+#EXTINF:tvg-logo=““ group-title="NN",外HBO 3
+http://87.246.0.155:5286/tv_HBO_3
+#EXTINF:tvg-logo=“http://cdn2.tstatic.net/makassar/foto/bank/images/thrill1_20160505_105220“ group-title="NN",外THRILL
+http://45.126.83.51/qwr9ew/s/s34/index2.m3u8
+#EXTINF:tvg-logo=“http://cdn2.tstatic.net/makassar/foto/bank/images/thrill1_20160505_105220“ group-title="NN",外THRILL
+http://210.210.155.35/session/c8a974dc-7e3d-11e8-bf09-b82a72d63267/qwr9ew/s/s34/01.m3u8
+#EXTINF:tvg-logo=““ group-title="NN",外CINEMAX
+http://87.246.0.155:5286/tv_Cinemax_2
+#EXTINF:tvg-logo=““ group-title="NN",外SONY MOVIE
+http://yipcontent-lh.akamaihd.net/i/sonymoviechannel_1@569927/index_1080_av-p.m3u8?sd=10&rebase=on
+#EXTINF:tvg-logo=““ group-title="NN",外FOX MOVIES PREMIUM*
+http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
+#EXTINF:tvg-logo=““ group-title="NN",外FOX MOVIES
+http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
+#EXTINF:tvg-logo=““ group-title="NN",外FOX MOVIES COMEDY
+http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
+
 #EXTINF:0,[THE END]
