@@ -2574,43 +2574,33 @@ http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
 
 #EXTINF:-1 tvg-logo="https://d1eet599aje0m8.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="NN", STYLE HD
 http://rr.dens.tv/h/h01/index2.m3u8
-
-#EXTINF:-1 tvg-logo="https://d1eet599aje0m8.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="NN", ANIPLUS
-http://rr.dens.tv/h/h14/index2.m3u8
-#EXTINF:-1 tvg-logo="https://d1eet599aje0m8.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="NN", ANIPLUS
-http://rr.dens.tv/h/h15/index2.m3u8
-#EXTINF:-1 tvg-logo="https://d1eet599aje0m8.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="NN", ANIPLUS
-http://rr.dens.tv/h/h16/index2.m3u8
-#EXTINF:-1 tvg-logo="https://d1eet599aje0m8.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="NN", ANIPLUS
-http://rr.dens.tv/h/h17/index2.m3u8
-#EXTINF:-1 tvg-logo="https://d1eet599aje0m8.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="NN", ANIPLUS
-http://rr.dens.tv/h/h18/index2.m3u8
-#EXTINF:-1 tvg-logo="https://d1eet599aje0m8.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="NN", ANIPLUS
-http://rr.dens.tv/h/h19/index2.m3u8
-#EXTINF:-1 tvg-logo="https://d1eet599aje0m8.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="NN", ANIPLUS
-http://rr.dens.tv/h/h20/index2.m3u8
-#EXTINF:-1 tvg-logo="https://d1eet599aje0m8.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="NN", ANIPLUS
-http://rr.dens.tv/h/h21/index2.m3u8
 #EXTINF:-1 tvg-logo="https://d1eet599aje0m8.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="NN", EGG
 http://rr.dens.tv/h/h22/index2.m3u8
-#EXTINF:-1 tvg-logo="https://d1eet599aje0m8.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="NN", NHK WORLD
-http://rr.dens.tv/h/h23/index2.m3u8
-#EXTINF:-1 tvg-logo="https://d1eet599aje0m8.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="NN", ANIPLUS
-http://rr.dens.tv/h/h24/index2.m3u8
-#EXTINF:-1 tvg-logo="https://d1eet599aje0m8.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="NN", ANIPLUS
-http://rr.dens.tv/h/h25/index2.m3u8
-#EXTINF:-1 tvg-logo="https://d1eet599aje0m8.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="NN", ANIPLUS
-http://rr.dens.tv/h/h26/index2.m3u8
-#EXTINF:-1 tvg-logo="https://d1eet599aje0m8.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="NN", ANIPLUS
-http://rr.dens.tv/h/h27/index2.m3u8
 #EXTINF:-1 tvg-logo="https://d1eet599aje0m8.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="NN", LIFE STYLE
 http://rr.dens.tv/h/h28/index2.m3u8
-#EXTINF:-1 tvg-logo="https://d1eet599aje0m8.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="NN", ANIPLUS
-http://rr.dens.tv/h/h29/index2.m3u8
+
 #EXTINF:-1 tvg-logo="https://d1eet599aje0m8.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="NN", ANIPLUS
 http://rr.dens.tv/h/h30/index2.m3u8
 #EXTINF:-1 tvg-logo="https://d1eet599aje0m8.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="NN", ANIPLUS
 http://rr.dens.tv/h/h31/index2.m3u8
+#EXTINF:-1 tvg-logo="https://d1eet599aje0m8.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="NN", ANIPLUS
+http://rr.dens.tv/h/h32/index2.m3u8
+#EXTINF:-1 tvg-logo="https://d1eet599aje0m8.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="NN", ANIPLUS
+http://rr.dens.tv/h/h33/index2.m3u8
+#EXTINF:-1 tvg-logo="https://d1eet599aje0m8.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="NN", ANIPLUS
+http://rr.dens.tv/h/h34/index2.m3u8
+#EXTINF:-1 tvg-logo="https://d1eet599aje0m8.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="NN", ANIPLUS
+http://rr.dens.tv/h/h35/index2.m3u8
+#EXTINF:-1 tvg-logo="https://d1eet599aje0m8.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="NN", ANIPLUS
+http://rr.dens.tv/h/h36/index2.m3u8
+#EXTINF:-1 tvg-logo="https://d1eet599aje0m8.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="NN", ANIPLUS
+http://rr.dens.tv/h/h37/index2.m3u8
+#EXTINF:-1 tvg-logo="https://d1eet599aje0m8.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="NN", ANIPLUS
+http://rr.dens.tv/h/h38/index2.m3u8
+#EXTINF:-1 tvg-logo="https://d1eet599aje0m8.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="NN", ANIPLUS
+http://rr.dens.tv/h/h39/index2.m3u8
+#EXTINF:-1 tvg-logo="https://d1eet599aje0m8.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="NN", ANIPLUS
+http://rr.dens.tv/h/h40/index2.m3u8
 
 
 
