@@ -2582,6 +2582,10 @@ http://rr.dens.tv/h/h28/index2.m3u8
 http://rr.dens.tv/h/h28/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1eet599aje0m8.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="NN",  METRO TV
 http://rr.dens.tv/h/h12/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1eet599aje0m8.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="NN",  TV ONE
+http://rr2.dens.tv/s/s105/index2.m3u8
+#EXTINF:-1 tvg-logo="https://d1eet599aje0m8.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="NN",  BERITA SATU
+http://rr.dens.tv/h/h41/index2.m3u8
 #EXTINF:-1 tvg-logo="https://d1eet599aje0m8.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="NN",  SCTV
 http://rr2.dens.tv/s/s03/index2.m3u8
 #EXTINF:-1 tvg-logo="https://d1eet599aje0m8.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="NN",  ANTV
@@ -2593,8 +2597,10 @@ http://rr2.dens.tv/s/s13/index2.m3u8
 #EXTINF:-1 tvg-logo="https://d1eet599aje0m8.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="NN",  INDOSIAR
 http://rr2.dens.tv/s/s04/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://d1eet599aje0m8.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="NN",  BERITA SATU
-http://rr.dens.tv/h/h41/index2.m3u8
+
+#EXTINF:-1 tvg-logo="https://d1eet599aje0m8.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="NN",  TVRI SPORT HD
+http://rr2.dens.tv/s/s107/index2.m3u8
+
 #EXTINF:-1 tvg-logo="https://d1eet599aje0m8.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="NN",  TV E
 http://rr.dens.tv/h/h42/index2.m3u8
 #EXTINF:-1 tvg-logo="https://d1eet599aje0m8.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="NN",  FIGHT
@@ -2668,6 +2674,26 @@ http://rr2.dens.tv/s/s107/index2.m3u8
 http://rr2.dens.tv/s/s108/index2.m3u8
 http://rr2.dens.tv/s/s109/index2.m3u8
 http://rr2.dens.tv/s/s110/index2.m3u8
+http://rr2.dens.tv/s/s111/index2.m3u8
+http://rr2.dens.tv/s/s112/index2.m3u8
+http://rr2.dens.tv/s/s113/index2.m3u8
+http://rr2.dens.tv/s/s114/index2.m3u8
+http://rr2.dens.tv/s/s115/index2.m3u8
+http://rr2.dens.tv/s/s116/index2.m3u8
+http://rr2.dens.tv/s/s117/index2.m3u8
+http://rr2.dens.tv/s/s118/index2.m3u8
+http://rr2.dens.tv/s/s119/index2.m3u8
+http://rr2.dens.tv/s/s120/index2.m3u8
+http://rr2.dens.tv/s/s121/index2.m3u8
+http://rr2.dens.tv/s/s122/index2.m3u8
+http://rr2.dens.tv/s/s123/index2.m3u8
+http://rr2.dens.tv/s/s124/index2.m3u8
+http://rr2.dens.tv/s/s125/index2.m3u8
+http://rr2.dens.tv/s/s126/index2.m3u8
+http://rr2.dens.tv/s/s127/index2.m3u8
+http://rr2.dens.tv/s/s128/index2.m3u8
+http://rr2.dens.tv/s/s129/index2.m3u8
+http://rr2.dens.tv/s/s130/index2.m3u8
 
 
 
