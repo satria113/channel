@@ -1,40 +1,61 @@
 #EXTM3U
 
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/MetroTV_2000.svg/1280px-MetroTV_2000.svg.png" group-title="LOCAL",  METRO TV HD
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/MetroTV_2000.svg/1280px-MetroTV_2000.svg.png" group-title="LOCAL",  METRO TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2076301259_b1492000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/MetroTV_2000.svg/1280px-MetroTV_2000.svg.png" group-title="LOCAL",  METRO TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w648106128_b1128000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/MetroTV_2000.svg/1280px-MetroTV_2000.svg.png" group-title="LOCAL",  METRO TV
+http://rr.dens.tv/h/h12/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.freeetv.com/images/02_logo/tv_one_indoniesia.jpg" group-title="LOCAL",  TV ONE
+http://rr2.dens.tv/s/s105/index2.m3u8
+#EXTINF:-1 tvg-logo="https://inilahonline.com/wp-content/uploads/2018/03/KOMPASTV.png" group-title="LOCAL",  KOMPAS TV
+http://rr2.dens.tv/s/s104/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.beritasatu.tv/wp-content/themes/beritasatu/images/beritasatu-news-ch.png" group-title="LOCAL",  BERITA SATU
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b846000.m3u8
 #EXTINF:-1 tvg-logo="http://www.beritasatu.tv/wp-content/themes/beritasatu/images/beritasatu-news-ch.png" group-title="LOCAL",  BERITA SATU
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.beritasatu.tv/wp-content/themes/beritasatu/images/beritasatu-news-ch.png" group-title="LOCAL",  BERITA SATU HD
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.beritasatu.tv/wp-content/themes/beritasatu/images/beritasatu-news-ch.png" group-title="LOCAL",  BERITA SATU
+http://rr.dens.tv/h/h41/index2.m3u8
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_cnnindonesia_big1.png?v=1.0.0.0" group-title="LOCAL",  CNN ID
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_cnnindonesia_big1.png?v=1.0.0.0" group-title="LOCAL",  CNN ID
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_cnnindonesia_big1.png?v=1.0.0.0" group-title="LOCAL",  CNN ID HD
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1705215623_b384000_sleng.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="LOCAL", CNBC INDONESIA HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="LOCAL",  CNBC INDONESIA HD
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_transtv_big1.png?v=1.0.0.0" group-title="LOCAL",  TRANS TV
 http://video.detik.com/transtv/smil:transtv.smil/chunklist_w1742067075_b384000_sleng.m3u8?regieaerlays
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_trans7_big1.png?v=1.0.0.0" group-title="LOCAL",  TRANS7
+http://rr2.dens.tv/s/s101/index.m3u8
+#EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_trans7_big1.png?v=1.0.0.0" group-title="LOCAL",  TRANS7
 http://video.detik.com/trans7/smil:trans7.smil/chunklist_w798109995_b384000_sleng.m3u8?regieaerlays
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/489px-Antv_logo_%282017%29.svg.png" group-title="LOCAL",  ANTV
-http://210.210.155.35/qwr9ew/s/s07/01.m3u8
-#EXTINF:-1,tvg-logo="http://images2.useetv.com/logo_tvone_big1.png?v=1.0.0.0" group-title="LOCAL", TVRI
+#EXTINF:-1,tvg-logo="http://images2.useetv.com/logo_tvone_big1.png?v=1.0.0.0" group-title="LOCAL",  TVRI
 http://210.210.155.35/qwr9ew/s/s11/01.m3u8
-#EXTINF:-1,tvg-logo="http://images2.useetv.com/logo_tvone_big1.png?v=1.0.0.0" group-title="LOCAL", TVRI Sports
+#EXTINF:-1,tvg-logo="http://images2.useetv.com/logo_tvone_big1.png?v=1.0.0.0" group-title="LOCAL",  TVRI SPORTS HD
 http://210.210.155.35/session/69e800f6-97c0-11e9-888f-b82a72d63267/qwr9ew/s/s107/index.m3u8
+#EXTINF:-1,tvg-logo="http://images2.useetv.com/logo_tvone_big1.png?v=1.0.0.0" group-title="LOCAL",  TVRI SPORTS HD
+http://rr2.dens.tv/s/s107/index2.m3u8
 #EXTINF:-1 tvg-logo="http://images2.useetv.com/logo_rtv_big1.png?v=1.0.0.0" group-title="LOCAL",  RAJAWALI TV HD
 http://210.210.155.35/session/08fb7806-059c-11e9-9d77-c81f66f89318/qwr9ew/s/s12/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/QdwWh5Lt/indosiar.png" group-title="LOCAL",  INDOSIAR 
 http://45.126.83.51/qwr9ew/s/s04/01.m3u8
-#EXTINF:-1  tvg-logo="http://wallperio.com/data/out/263/naruto-wallpaper-hd_610191579.jpg" group-title="LOCAL", NET TV SD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/QdwWh5Lt/indosiar.png" group-title="LOCAL",  INDOSIAR 
+http://rr2.dens.tv/s/s04/index.m3u8
+#EXTINF:-1 tvg-logo="https://warungvector1.blogspot.com/2018/03/logo-sctv-vector-cdr-png-hd.html" group-title="LOCAL",  SCTV
+http://rr2.dens.tv/s/s03/index2.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/489px-Antv_logo_%282017%29.svg.png" group-title="LOCAL",  ANTV
+http://210.210.155.35/qwr9ew/s/s07/01.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/489px-Antv_logo_%282017%29.svg.png" group-title="LOCAL",  ANTV
+http://rr2.dens.tv/s/s07/index2.m3u8
+#EXTINF:-1 tvg-logo="http://elshintatv.co.id/public/assets/312f2-logo-elshinta.png" group-title="LOCAL",  ELSHINTA TV
+http://rr2.dens.tv/s/s10/index2.m3u8
+#EXTINF:-1  tvg-logo="http://wallperio.com/data/out/263/naruto-wallpaper-hd_610191579.jpg" group-title="LOCAL",  NET TV SD
 http://210.210.155.35/qwr9ew/s/s08/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="http://www.daaitv.co.id/DAAI-WP/wp-content/uploads/2017/11/logo_no_text.gif" tvg-country="ID" tvg-url="" group-title="LOCAL",  DAAI TV
 http://210.210.155.35/qwr9ew/s/s13/index.m3u8
@@ -42,9 +63,13 @@ http://210.210.155.35/qwr9ew/s/s13/index.m3u8
 http://210.210.155.35/session/4ad0585c-b72501e8-b712-b82a72d63267/qwr9ew/s/s13/01.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/e3/DAAI_TV_Jakarta.png/320px-DAAI_TV_Jakarta.png" group-title="LOCAL",  DAAI TV
 http://edge.nim.mivo.tv/daaitv/daaitv2_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/e3/DAAI_TV_Jakarta.png/320px-DAAI_TV_Jakarta.png" group-title="LOCAL",  DAAI TV
+http://rr2.dens.tv/s/s13/index2.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/fhzxt.jpg" group-title="NEWS",  PHOENIX NEWS
+http://rr2.dens.tv/s/s21/index2.m3u8
 #EXTINF:-1 tvg-id="Channel NewsAsia" tvg-name="Channel NewsAsia" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" group-title="NEWS",  CNA HD
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" group-title="NEWS",  CNA
@@ -73,6 +98,7 @@ http://210.210.155.35/uq2663/h/h03/index.m3u8
 https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
 #EXTINF:0 tvg-logo="https://www.bloomberg.com/graphics/assets/img/BB-Logo-2line.svg" group-title="NEWS",  BLOOMBERG ASIA
 http://rr.dens.tv/h/h03/index2.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/1280px-NHK_World-Japan_TV.svg.png" group-title="NEWS",  NHK WORLD
 http://210.210.155.35/uq2663/h/h23/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/1280px-NHK_World-Japan_TV.svg.png" group-title="NEWS",  NHK WORLD
@@ -234,6 +260,9 @@ http://ytnmmd.mmdlive.lldns.net/ytnmmd/9484b70302db4786886ae40308bf45a1/playlist
 http://210.210.155.35/uq2663/h/h28/index1.m3u8
 
 
+
+
+
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="MOVIES",  HBO FAMILY
 http://203.153.218.28:9981/stream/channelid/1316004766?ticket=8603609D96360D7B639AB97584FF09E1086B3284&profile=pass
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="MOVIES",  HBO FAMILY
@@ -276,16 +305,26 @@ http://210.210.155.35/uq2663/h/h04/index2.m3u8
 http://rr.dens.tv/h/h04/index2.m3u8
 #EXTINF:-1 tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/11/CMW-gold-logo-for-website-loading.png" group-title="MOVIES",  CINEMA WORLD HD
 http://210.210.155.35/uq2663/h/h04/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.dens.tv/images/channel-logo/95.jpg" group-title="MOVIES",  MY CINEMA
+http://rr.dens.tv/h/h90/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.dens.tv/images/channel-logo/95.jpg" group-title="MOVIES",  MY CINEMA
+http://rr.dens.tv/h/h90/index2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1c/Sony_One.png/200px-Sony_One.png" group-title="MOVIES",  SONY ONE ID
 http://210.210.155.35/session/c30d8c14-f1bc-11e8-89c0-aa35b2893d02/uq2663/h/h143/01.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png" group-title="MOVIES",BLUE ANT EXTREME
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1c/Sony_One.png/200px-Sony_One.png" group-title="MOVIES",  SONY ONE ID
+http://rr.dens.tv/h/h143/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png" group-title="MOVIES",  BLUE ANT EXTREME
 http://45.126.83.51/dr9445/h/h15/01.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png" group-title="MOVIES",BLUE ANT EXTREME
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png" group-title="MOVIES",  BLUE ANT EXTREME
+http://rr1.dens.tv/h/h15/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png" group-title="MOVIES",  BLUE ANT EXTREME
 http://210.210.155.35/session/52acdc30-30c4-11e9-b47d-c81f66f89318/dr9445/h/h15/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://pbs.twimg.com/profile_images/947316656480518144/FEiA6XmM.jpg" group-title="MOVIES",  BLUE ANT ENTERTAINMENT
 http://210.210.155.35:80/session/676c25ba-724e-11e9-834b-8ac28bf32f5a/dr9445/h/h16/02.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://pbs.twimg.com/profile_images/947316656480518144/FEiA6XmM.jpg" group-title="MOVIES",  BLUE ANT ENTERTAINMENT
 http://210.210.155.35/session/2892c0cc-30c4-11e9-af8c-c81f66f89318/dr9445/h/h16/02.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://pbs.twimg.com/profile_images/947316656480518144/FEiA6XmM.jpg" group-title="MOVIES",  BLUE ANT ENTERTAINMENT
+http://rr1.dens.tv/h/h16/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/720_300.png" tvg-country="ID" tvg-url="" group-title="MOVIES",  HITS
 http://210.210.155.35/session/b664cd50-6b66-11e9-88bd-a3eeb50c438d/uq2663/h/h37/index2.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/Hits_TV_Asia_logo.jpg/200px-Hits_TV_Asia_logo.jpg" tvg-country="ID" tvg-url="" group-title="MOVIES",  HITS
@@ -366,6 +405,8 @@ http://ivi.bupt.edu.cn/hls/btv8.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://starsat.co.za/wp-content/uploads/2017/08/Dragon-TV.png" group-title="CHINA",  DRAGON TV
 http://210.210.155.35/qwr9ew/s/s29/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://starsat.co.za/wp-content/uploads/2017/08/Dragon-TV.png" group-title="CHINA",  DRAGON TV
+http://rr2.dens.tv/s/s29/index2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://starsat.co.za/wp-content/uploads/2017/08/Dragon-TV.png" group-title="CHINA",  DRAGON TV
 http://ivi.bupt.edu.cn/hls/dfhd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="http://logok.org/wp-content/uploads/2014/10/Hunan-TV-logo-880x645.png" group-title="CHINA",  湖南卫视高清
@@ -2354,6 +2395,8 @@ http://210.210.155.35/qwr9ew/s/s50/index2.m3u8
 #EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-language="Chinese" tvg-logo="https://www.lyngsat.com/logo/tv/tt/toonmax-tv-cn.png" group-title="KIDS",  TOON MAX
 http://210.210.155.35/qwr9ew/s/s50/index.m3u8
 #EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-language="Chinese" tvg-logo="https://www.lyngsat.com/logo/tv/tt/toonmax-tv-cn.png" group-title="KIDS",  TOON MAX
+http://rr2.dens.tv/s/s50/index2.m3u8
+#EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-language="Chinese" tvg-logo="https://www.lyngsat.com/logo/tv/tt/toonmax-tv-cn.png" group-title="KIDS",  TOON MAX
 http://111.40.205.76/PLTV/88888888/224/3221225657/index.m3u8
 
 #EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/ymkt.jpg" group-title="KIDS",  YOU MAN
@@ -2402,11 +2445,14 @@ http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/
 http://203.153.218.28:9981/stream/channelid/251475608?ticket=5B6244F9555D96BA8A9DF1BBBA2BA2F8BDB05A86&profile=pass
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/819H8JmzwgL._SX300_.jpg" group-title="KIDS",  XCORPS
 http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8
+#EXTINF:-1 tvg-logo="https://www.dens.tv/images/channel-logo/96.jpg" group-title="KIDS",  MY KIDZ
+http://rr.dens.tv/h/h98/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/79/37/9e/79379ebe8f8398aeb819899a1468ae81.png" group-title="KIDS",  DISNEY JUNIOR
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/79/37/9e/79379ebe8f8398aeb819899a1468ae81.png" group-title="KIDS",  DISNEY JUNIOR
 http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://www.infotelevisi.com/asset/images/tv/my-kids.jpg" group-title="KIDS",  MY KID
+http://rr2.dens.tv/s/s30/index2.m3u8
 
 #EXTINF:0 tvg-logo="https://i-h1.pinimg.com/564x/8e/56/cd/8e56cdba9e19abf173ff387ae15ecce0.jpg" group-title="SCIENCE",  HISTORY
 http://203.153.218.28:9981/stream/channelid/1868154562?ticket=21CAD98B63EE6B1D16AFD5B33F7C68F48FA445CD&profile=pass
@@ -2430,6 +2476,12 @@ http://203.153.218.28:9981/stream/channelid/1092664456?ticket=E20984982529618B73
 http://210.210.155.35/uq2663/h/h01/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/Logo_TV5Monde_Style_primary-styleblue.png" group-title="SCIENCE",  STYLE
 http://210.210.155.35/session/f44000e2-7ed4-11e8-8197-b82a72d63267/uq2663/h/h01/02.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/Logo_TV5Monde_Style_primary-styleblue.png" group-title="SCIENCE",  STYLE
+http://rr.dens.tv/h/h01/index2.m3u8
+#EXTINF:-1 tvg-logo="https://www.dens.tv/images/channel-logo/42.jpg" group-title="SCIENCE",  LIFE STYLE DENS
+http://rr.dens.tv/h/h28/index2.m3u8
+#EXTINF:-1 tvg-logo="https://www.dens.tv/images/channel-logo/42.jpg" group-title="SCIENCE",  LIFE STYLE DENS
+http://rr.dens.tv/h/h28/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="SCIENCE",  CGTN CN
 http://210.210.155.35/qwr9ew/s/s20/02.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="SCIENCE",  CGTN CN
@@ -2571,311 +2623,38 @@ http://streaming.i-sat.tv:8081/livestream/fox/playlist.m3u8
 #EXTINF:tvg-logo=““ group-title="NN",外FOX MOVIES COMEDY
 http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://d1eet599aje0m8.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="NN",  STYLE HD
-http://rr.dens.tv/h/h01/index2.m3u8
 #EXTINF:-1 tvg-logo="https://d1eet599aje0m8.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="NN",  EGG
 http://rr.dens.tv/h/h22/index2.m3u8
-#EXTINF:-1 tvg-logo="https://d1eet599aje0m8.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="NN",  LIFE STYLE
-http://rr.dens.tv/h/h28/index2.m3u8
-#EXTINF:-1 tvg-logo="https://d1eet599aje0m8.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="NN",  LIFE STYLE
-http://rr.dens.tv/h/h28/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1eet599aje0m8.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="NN",  METRO TV
-http://rr.dens.tv/h/h12/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1eet599aje0m8.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="NN",  TV ONE
-http://rr2.dens.tv/s/s105/index2.m3u8
-#EXTINF:-1 tvg-logo="https://d1eet599aje0m8.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="NN",  BERITA SATU
-http://rr.dens.tv/h/h41/index2.m3u8
-#EXTINF:-1 tvg-logo="https://d1eet599aje0m8.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="NN",  KOMPAS TV
-http://rr2.dens.tv/s/s104/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1eet599aje0m8.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="NN",  TRANS 7
-http://rr2.dens.tv/s/s101/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://d1eet599aje0m8.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="NN",  SCTV
-http://rr2.dens.tv/s/s03/index2.m3u8
-#EXTINF:-1 tvg-logo="https://d1eet599aje0m8.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="NN",  ANTV
-http://rr2.dens.tv/s/s07/index2.m3u8
-#EXTINF:-1 tvg-logo="https://d1eet599aje0m8.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="NN",  ELSHINTA TV
-http://rr2.dens.tv/s/s10/index2.m3u8
-#EXTINF:-1 tvg-logo="https://d1eet599aje0m8.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="NN",  DAAI TV
-http://rr2.dens.tv/s/s13/index2.m3u8
-#EXTINF:-1 tvg-logo="https://d1eet599aje0m8.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="NN",  INDOSIAR
-http://rr2.dens.tv/s/s04/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://d1eet599aje0m8.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="NN",  TVRI SPORT HD
-http://rr2.dens.tv/s/s107/index2.m3u8
-
 #EXTINF:-1 tvg-logo="https://d1eet599aje0m8.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="NN",  TV E
 http://rr.dens.tv/h/h42/index2.m3u8
 #EXTINF:-1 tvg-logo="https://d1eet599aje0m8.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="NN",  FIGHT
 http://rr.dens.tv/h/h05/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1eet599aje0m8.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="NN",  GEM
 http://rr.dens.tv/h/h19/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1eet599aje0m8.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="NN",  MY CINEMA
-http://rr.dens.tv/h/h90/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1eet599aje0m8.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="NN",  MY CINEMA
-http://rr.dens.tv/h/h90/index2.m3u8
-#EXTINF:-1 tvg-logo="https://d1eet599aje0m8.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="NN",  BLUE ANT EXTREME
-http://rr1.dens.tv/h/h15/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1eet599aje0m8.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="NN",  BLUE ANT ENTERTAINMENT
-http://rr1.dens.tv/h/h16/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://d1eet599aje0m8.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="NN",  ALJAZEERA SPORT
 http://rr2.dens.tv/s/s16/index2.m3u8
 #EXTINF:-1 tvg-logo="https://d1eet599aje0m8.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="NN",  CCTV 4
 http://rr2.dens.tv/s/s19/index2.m3u8
-#EXTINF:-1 tvg-logo="https://d1eet599aje0m8.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="NN",  PHONENIX 
-http://rr2.dens.tv/s/s21/index2.m3u8
+
 #EXTINF:-1 tvg-logo="https://d1eet599aje0m8.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="NN",  RT
 http://rr2.dens.tv/s/s23/index2.m3u8
 #EXTINF:-1 tvg-logo="https://d1eet599aje0m8.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="NN",  DW
 http://rr2.dens.tv/s/s26/index2.m3u8
-#EXTINF:-1 tvg-logo="https://d1eet599aje0m8.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="NN",  DRAGON TV
-http://rr2.dens.tv/s/s29/index2.m3u8
-#EXTINF:-1 tvg-logo="https://d1eet599aje0m8.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="NN",  MY KID
-http://rr2.dens.tv/s/s30/index2.m3u8
-#EXTINF:-1 tvg-logo="https://d1eet599aje0m8.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="NN",  THRILL
-http://rr2.dens.tv/s/s34/index2.m3u8
-#EXTINF:-1 tvg-logo="https://d1eet599aje0m8.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="NN",  TOON MAX
-http://rr2.dens.tv/s/s50/index2.m3u8
-#EXTINF:-1 tvg-logo="https://d1eet599aje0m8.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="NN",  MY KIDZ
-http://rr.dens.tv/h/h98/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://d1eet599aje0m8.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="NN",  TV5MONDE ASIE
 http://rr2.dens.tv/s/s24/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1eet599aje0m8.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="NN",  RTP
 http://rr2.dens.tv/s/s38/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1eet599aje0m8.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="NN",  ONE
-http://rr.dens.tv/h/h143/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://d1eet599aje0m8.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="NN",  UA
 http://rr.dens.tv/h/h101/index2.m3u8
 #EXTINF:-1 tvg-logo="https://d1eet599aje0m8.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="NN",  FREE MOVIE KOREA
 http://rr2.dens.tv/s/s42/index2.m3u8
 #EXTINF:-1 tvg-logo="https://d1eet599aje0m8.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="NN",  CELESTIAL MOVIES
 http://rr2.dens.tv/s/s33/index.m3u8
-
-http://rr.dens.tv/h/h0/index2.m3u8
-http://rr.dens.tv/h/h1/index2.m3u8
-http://rr.dens.tv/h/h2/index2.m3u8
-http://rr.dens.tv/h/h3/index2.m3u8
-http://rr.dens.tv/h/h4/index2.m3u8
-http://rr.dens.tv/h/h5/index2.m3u8
-http://rr.dens.tv/h/h6/index2.m3u8
-http://rr.dens.tv/h/h7/index2.m3u8
-http://rr.dens.tv/h/h8/index2.m3u8
-http://rr.dens.tv/h/h9/index2.m3u8
-http://rr.dens.tv/h/h01/index2.m3u8
-http://rr.dens.tv/h/h02/index2.m3u8
-http://rr.dens.tv/h/h03/index2.m3u8
-http://rr.dens.tv/h/h04/index2.m3u8
-http://rr.dens.tv/h/h05/index2.m3u8
-http://rr.dens.tv/h/h06/index2.m3u8
-http://rr.dens.tv/h/h07/index2.m3u8
-http://rr.dens.tv/h/h08/index2.m3u8
-http://rr.dens.tv/h/h09/index2.m3u8
-http://rr.dens.tv/h/h10/index2.m3u8
-http://rr.dens.tv/h/h11/index2.m3u8
-http://rr.dens.tv/h/h12/index2.m3u8
-http://rr.dens.tv/h/h13/index2.m3u8
-http://rr.dens.tv/h/h14/index2.m3u8
-http://rr.dens.tv/h/h15/index2.m3u8
-http://rr.dens.tv/h/h16/index2.m3u8
-http://rr.dens.tv/h/h17/index2.m3u8
-http://rr.dens.tv/h/h18/index2.m3u8
-http://rr.dens.tv/h/h19/index2.m3u8
-http://rr.dens.tv/h/h20/index2.m3u8
-http://rr.dens.tv/h/h21/index2.m3u8
-http://rr.dens.tv/h/h22/index2.m3u8
-http://rr.dens.tv/h/h23/index2.m3u8
-http://rr.dens.tv/h/h24/index2.m3u8
-http://rr.dens.tv/h/h25/index2.m3u8
-http://rr.dens.tv/h/h26/index2.m3u8
-http://rr.dens.tv/h/h27/index2.m3u8
-http://rr.dens.tv/h/h28/index2.m3u8
-http://rr.dens.tv/h/h29/index2.m3u8
-http://rr.dens.tv/h/h30/index2.m3u8
-http://rr.dens.tv/h/h31/index2.m3u8
-http://rr.dens.tv/h/h32/index2.m3u8
-http://rr.dens.tv/h/h33/index2.m3u8
-http://rr.dens.tv/h/h34/index2.m3u8
-http://rr.dens.tv/h/h35/index2.m3u8
-http://rr.dens.tv/h/h36/index2.m3u8
-http://rr.dens.tv/h/h37/index2.m3u8
-http://rr.dens.tv/h/h38/index2.m3u8
-http://rr.dens.tv/h/h39/index2.m3u8
-http://rr.dens.tv/h/h40/index2.m3u8
-http://rr.dens.tv/h/h41/index2.m3u8
-http://rr.dens.tv/h/h42/index2.m3u8
-http://rr.dens.tv/h/h43/index2.m3u8
-http://rr.dens.tv/h/h44/index2.m3u8
-http://rr.dens.tv/h/h45/index2.m3u8
-http://rr.dens.tv/h/h46/index2.m3u8
-http://rr.dens.tv/h/h47/index2.m3u8
-http://rr.dens.tv/h/h48/index2.m3u8
-http://rr.dens.tv/h/h49/index2.m3u8
-http://rr.dens.tv/h/h50/index2.m3u8
-http://rr.dens.tv/h/h51/index2.m3u8
-http://rr.dens.tv/h/h52/index2.m3u8
-http://rr.dens.tv/h/h53/index2.m3u8
-http://rr.dens.tv/h/h54/index2.m3u8
-http://rr.dens.tv/h/h55/index2.m3u8
-http://rr.dens.tv/h/h56/index2.m3u8
-http://rr.dens.tv/h/h57/index2.m3u8
-http://rr.dens.tv/h/h58/index2.m3u8
-http://rr.dens.tv/h/h59/index2.m3u8
-http://rr.dens.tv/h/h60/index2.m3u8
-http://rr.dens.tv/h/h61/index2.m3u8
-http://rr.dens.tv/h/h62/index2.m3u8
-http://rr.dens.tv/h/h63/index2.m3u8
-http://rr.dens.tv/h/h64/index2.m3u8
-http://rr.dens.tv/h/h65/index2.m3u8
-http://rr.dens.tv/h/h66/index2.m3u8
-http://rr.dens.tv/h/h67/index2.m3u8
-http://rr.dens.tv/h/h68/index2.m3u8
-http://rr.dens.tv/h/h69/index2.m3u8
-http://rr.dens.tv/h/h70/index2.m3u8
-http://rr.dens.tv/h/h71/index2.m3u8
-http://rr.dens.tv/h/h72/index2.m3u8
-http://rr.dens.tv/h/h73/index2.m3u8
-http://rr.dens.tv/h/h74/index2.m3u8
-http://rr.dens.tv/h/h75/index2.m3u8
-http://rr.dens.tv/h/h76/index2.m3u8
-http://rr.dens.tv/h/h77/index2.m3u8
-http://rr.dens.tv/h/h78/index2.m3u8
-http://rr.dens.tv/h/h79/index2.m3u8
-http://rr.dens.tv/h/h80/index2.m3u8
-http://rr.dens.tv/h/h81/index2.m3u8
-http://rr.dens.tv/h/h82/index2.m3u8
-http://rr.dens.tv/h/h83/index2.m3u8
-http://rr.dens.tv/h/h84/index2.m3u8
-http://rr.dens.tv/h/h85/index2.m3u8
-http://rr.dens.tv/h/h86/index2.m3u8
-http://rr.dens.tv/h/h87/index2.m3u8
-http://rr.dens.tv/h/h88/index2.m3u8
-http://rr.dens.tv/h/h89/index2.m3u8
-http://rr.dens.tv/h/h90/index2.m3u8
-http://rr.dens.tv/h/h91/index2.m3u8
-http://rr.dens.tv/h/h92/index2.m3u8
-http://rr.dens.tv/h/h93/index2.m3u8
-http://rr.dens.tv/h/h94/index2.m3u8
-http://rr.dens.tv/h/h95/index2.m3u8
-http://rr.dens.tv/h/h96/index2.m3u8
-http://rr.dens.tv/h/h97/index2.m3u8
-http://rr.dens.tv/h/h98/index2.m3u8
-http://rr.dens.tv/h/h99/index2.m3u8
-http://rr.dens.tv/h/h100/index2.m3u8
-http://rr.dens.tv/h/h101/index2.m3u8
-http://rr.dens.tv/h/h102/index2.m3u8
-http://rr.dens.tv/h/h103/index2.m3u8
-http://rr.dens.tv/h/h104/index2.m3u8
-http://rr.dens.tv/h/h105/index2.m3u8
-http://rr.dens.tv/h/h106/index2.m3u8
-http://rr.dens.tv/h/h107/index2.m3u8
-http://rr.dens.tv/h/h108/index2.m3u8
-http://rr.dens.tv/h/h109/index2.m3u8
-http://rr.dens.tv/h/h110/index2.m3u8
-http://rr.dens.tv/h/h111/index2.m3u8
-http://rr.dens.tv/h/h112/index2.m3u8
-http://rr.dens.tv/h/h113/index2.m3u8
-http://rr.dens.tv/h/h114/index2.m3u8
-http://rr.dens.tv/h/h115/index2.m3u8
-http://rr.dens.tv/h/h116/index2.m3u8
-http://rr.dens.tv/h/h117/index2.m3u8
-http://rr.dens.tv/h/h118/index2.m3u8
-http://rr.dens.tv/h/h119/index2.m3u8
-http://rr.dens.tv/h/h120/index2.m3u8
-http://rr.dens.tv/h/h121/index2.m3u8
-http://rr.dens.tv/h/h122/index2.m3u8
-http://rr.dens.tv/h/h123/index2.m3u8
-http://rr.dens.tv/h/h124/index2.m3u8
-http://rr.dens.tv/h/h125/index2.m3u8
-http://rr.dens.tv/h/h126/index2.m3u8
-http://rr.dens.tv/h/h127/index2.m3u8
-http://rr.dens.tv/h/h128/index2.m3u8
-http://rr.dens.tv/h/h129/index2.m3u8
-http://rr.dens.tv/h/h130/index2.m3u8
-http://rr.dens.tv/h/h131/index2.m3u8
-http://rr.dens.tv/h/h132/index2.m3u8
-http://rr.dens.tv/h/h133/index2.m3u8
-http://rr.dens.tv/h/h134/index2.m3u8
-http://rr.dens.tv/h/h135/index2.m3u8
-http://rr.dens.tv/h/h136/index2.m3u8
-http://rr.dens.tv/h/h137/index2.m3u8
-http://rr.dens.tv/h/h138/index2.m3u8
-http://rr.dens.tv/h/h139/index2.m3u8
-http://rr.dens.tv/h/h140/index2.m3u8
-http://rr.dens.tv/h/h141/index2.m3u8
-http://rr.dens.tv/h/h142/index2.m3u8
-http://rr.dens.tv/h/h143/index2.m3u8
-http://rr.dens.tv/h/h144/index2.m3u8
-http://rr.dens.tv/h/h145/index2.m3u8
-http://rr.dens.tv/h/h146/index2.m3u8
-http://rr.dens.tv/h/h147/index2.m3u8
-http://rr.dens.tv/h/h148/index2.m3u8
-http://rr.dens.tv/h/h149/index2.m3u8
-http://rr.dens.tv/h/h150/index2.m3u8
-http://rr.dens.tv/h/h151/index2.m3u8
-http://rr.dens.tv/h/h152/index2.m3u8
-http://rr.dens.tv/h/h153/index2.m3u8
-http://rr.dens.tv/h/h154/index2.m3u8
-http://rr.dens.tv/h/h155/index2.m3u8
-http://rr.dens.tv/h/h156/index2.m3u8
-http://rr.dens.tv/h/h157/index2.m3u8
-http://rr.dens.tv/h/h158/index2.m3u8
-http://rr.dens.tv/h/h159/index2.m3u8
-http://rr.dens.tv/h/h160/index2.m3u8
-http://rr.dens.tv/h/h161/index2.m3u8
-http://rr.dens.tv/h/h162/index2.m3u8
-http://rr.dens.tv/h/h163/index2.m3u8
-http://rr.dens.tv/h/h164/index2.m3u8
-http://rr.dens.tv/h/h165/index2.m3u8
-http://rr.dens.tv/h/h166/index2.m3u8
-http://rr.dens.tv/h/h167/index2.m3u8
-http://rr.dens.tv/h/h168/index2.m3u8
-http://rr.dens.tv/h/h169/index2.m3u8
-http://rr.dens.tv/h/h170/index2.m3u8
-http://rr.dens.tv/h/h171/index2.m3u8
-http://rr.dens.tv/h/h172/index2.m3u8
-http://rr.dens.tv/h/h173/index2.m3u8
-http://rr.dens.tv/h/h174/index2.m3u8
-http://rr.dens.tv/h/h175/index2.m3u8
-http://rr.dens.tv/h/h176/index2.m3u8
-http://rr.dens.tv/h/h177/index2.m3u8
-http://rr.dens.tv/h/h178/index2.m3u8
-http://rr.dens.tv/h/h179/index2.m3u8
-http://rr.dens.tv/h/h180/index2.m3u8
-http://rr.dens.tv/h/h181/index2.m3u8
-http://rr.dens.tv/h/h182/index2.m3u8
-http://rr.dens.tv/h/h183/index2.m3u8
-http://rr.dens.tv/h/h184/index2.m3u8
-http://rr.dens.tv/h/h185/index2.m3u8
-http://rr.dens.tv/h/h186/index2.m3u8
-http://rr.dens.tv/h/h187/index2.m3u8
-http://rr.dens.tv/h/h188/index2.m3u8
-http://rr.dens.tv/h/h189/index2.m3u8
-http://rr.dens.tv/h/h190/index2.m3u8
-http://rr.dens.tv/h/h191/index2.m3u8
-http://rr.dens.tv/h/h192/index2.m3u8
-http://rr.dens.tv/h/h193/index2.m3u8
-http://rr.dens.tv/h/h194/index2.m3u8
-http://rr.dens.tv/h/h195/index2.m3u8
-http://rr.dens.tv/h/h196/index2.m3u8
-http://rr.dens.tv/h/h197/index2.m3u8
-http://rr.dens.tv/h/h198/index2.m3u8
-http://rr.dens.tv/h/h199/index2.m3u8
-http://rr.dens.tv/h/h200/index2.m3u8
-http://rr.dens.tv/h/h201/index2.m3u8
-http://rr.dens.tv/h/h202/index2.m3u8
-http://rr.dens.tv/h/h203/index2.m3u8
-http://rr.dens.tv/h/h204/index2.m3u8
-http://rr.dens.tv/h/h205/index2.m3u8
-http://rr.dens.tv/h/h206/index2.m3u8
-http://rr.dens.tv/h/h207/index2.m3u8
-http://rr.dens.tv/h/h208/index2.m3u8
-http://rr.dens.tv/h/h209/index2.m3u8
-http://rr.dens.tv/h/h210/index2.m3u8
-
-
-
+#EXTINF:-1 tvg-logo="https://d1eet599aje0m8.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="NN",  THRILL
+http://rr2.dens.tv/s/s34/index2.m3u8
 
 
 
