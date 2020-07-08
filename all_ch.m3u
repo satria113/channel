@@ -2744,16 +2744,94 @@ http://45.126.83.51/qwr9ew/s/s69/01.m3u8
 http://45.126.83.51/qwr9ew/s/s70/01.m3u8
 
 
-http://iliketot.dyndns.TV/1c2276a2f1884b269ce281c3334e8f85.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni82LzIwMTggMjo1Nzo0OCBBTSZoYXNoX3ZhbHVlPVAwSk5CRlBPTGwvRXJDRFMrTFZBS0E9PSZ2YWxpZG1pbnV0ZXM9MSZpZD1zazJrNGJwfDkxMnx1cGxheXwxNTI4MjUzODY4fDIwMi4yOC40MS4xNDQ=
+#EXTINF:0 tvg-id="ext" group-title="LOCAL",[001] Usee Info
+rtp://@239.1.1.126:8730
+#EXTINF:0 tvg-id="ext" group-title="LOCAL",[002] Promo UseeTV
+rtp://@239.1.2.50:8274
+#EXTINF:0 tvg-id="ext" group-title="LOCAL",[003] Usee Prime
+rtp://@239.1.1.216:9270
+#EXTINF:0 tvg-id="ext" group-title="LOCAL",[004] USee Photo
+rtp://@239.1.1.251:9498
+#EXTINF:0 tvg-id="ext" group-title="LOCAL",[005] RCTI
+https://edge.okezone.com/live/rctioke.m3u8
+#EXTINF:0 tvg-id="ext" group-title="LOCAL",[006] TVRI
+rtp://@239.1.2.37:8196
+#EXTINF:0 tvg-id="ext" group-title="LOCAL",[007] Metro TV
+rtp://@239.1.2.19:8088
+#EXTINF:0 tvg-id="ext" group-title="LOCAL",[008] CNN Indonesia
+rtp://@239.1.1.241:9362
+#EXTINF:0 tvg-id="ext" group-title="LOCAL",[011] CNN Indonesia HD
+rtp://@239.1.1.180:9054
+#EXTINF:0 tvg-id="ext" group-title="LOCAL",[009] TV One
+rtp://@239.1.1.31:8160
+#EXTINF:0 tvg-id="ext" group-title="LOCAL",[010] Trans TV
+rtp://@239.1.1.27:8136
+#EXTINF:0 tvg-id="ext" group-title="LOCAL",[011] Trans TV HD
+rtp://@239.1.1.194:9138
+#EXTINF:0 tvg-id="ext" group-title="LOCAL",[011] Trans 7
+rtp://@239.1.1.29:8148
+#EXTINF:0 tvg-id="ext" group-title="LOCAL",[011] Trans 7 HD
+rtp://@239.1.1.222:9306
+#EXTINF:0 tvg-id="ext" group-title="LOCAL",[198] NET TV
+rtp://@239.1.1.119:8688
+#EXTINF:0 tvg-id="ext" group-title="LOCAL",[198] NET TV HD
+rtp://@239.1.1.158:8922
+#EXTINF:0 tvg-id="ext" group-title="LOCAL",[012] Lejel Live
+rtp://@239.1.2.3:7992
+#EXTINF:0 tvg-id="ext" group-title="LOCAL",[013] SCTV
+rtp://@239.1.1.21:8100
+#EXTINF:0 tvg-id="ext" group-title="LOCAL",[011] SCTV HD
+rtp://@239.1.2.58:8324
+#EXTINF:0 tvg-id="ext" group-title="LOCAL",[014] ANTV
+rtp://@239.1.1.15:8064
+#EXTINF:0 tvg-id="ext" group-title="LOCAL",[015] Indosiar
+rtp://@239.1.1.17:8076
+#EXTINF:0 tvg-id="ext" group-title="LOCAL",[042] INSERT
+rtp://@239.1.1.113:8652
+#EXTINF:0 tvg-id="ext" group-title="LOCAL",[016] Lejel Home
+rtp://@239.1.1.3:7992
+#EXTINF:0 tvg-id="ext" group-title="LOCAL",[017] Kompas TV
+rtp://@239.1.1.197:9156
+#EXTINF:0 tvg-id="ext" group-title="LOCAL",[018] Berita Satu
+rtp://@239.1.1.183:9072
+#EXTINF:0 tvg-id="ext" group-title="LOCAL",[196] Jak TV
+rtp://@239.1.1.107:8616
+#EXTINF:0 tvg-id="ext" group-title="LOCAL",[191] MNC SHOP
+rtp://@239.1.2.54:8298
+#EXTINF:0 tvg-id="ext" group-title="LOCAL",[192] RTV
+rtp://@239.1.1.69:8388
+#EXTINF:0 tvg-id="ext" group-title="LOCAL",[192] STARTUP CHANNEL
+rtp://@239.1.2.248:9398
+#EXTINF:0 tvg-id="ext" group-title="LOCAL",[019] DAAI TV
+rtp://@239.1.1.179:9048
+#EXTINF:0 tvg-id="ext" group-title="LOCAL",[020] Holla TV
+rtp://@239.1.2.250:9392
+#EXTINF:0 tvg-id="ext" group-title="LOCAL",[021] BALI TV
+rtp://@239.1.1.72:8406
+#EXTINF:0 tvg-id="ext" group-title="LOCAL",[022] JAWAPOST TV
+rtp://@239.1.1.6:8010
+#EXTINF:0 tvg-id="ext" group-title="NN",[023] ANTARA TV
+rtp://@239.1.1.128:9218
+#EXTINF:0 tvg-id="ext" group-title="NN",[024] IN TV
+rtp://@239.1.1.162:8946
+#EXTINF:0 tvg-id="ext" group-title="NN",[025] BANDUNG TV
+rtp://@239.1.1.17:9030
+#EXTINF:0 tvg-id="ext" group-title="NN",[026] TV Edukasi
+rtp://@239.1.1.89:8208
+#EXTINF:0 tvg-id="ext" group-title="NN",[027] Relangi TV
+rtp://@239.1.1.110:8634
+#EXTINF:0 tvg-id="ext" group-title="NN",[192] PRINET
+rtp://@239.1.2.74:8420
+rtp://@239.1.1.230:9356
+rtp://@239.1.1.169:8988
+rtp://@239.1.1.35:8184
+rtp://@239.1.1.207:9216
+rtp://@239.1.2.59:8328
+rtp://@239.1.2.61:8340
+rtp://@239.1.2.57:8316
+rtp://@239.1.1.229:9350
 
-http://iliketot.dyndns.TV/5028f7ff1d1b4d5f8189690233364737.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
-
-http://iliketot.dyndns.TV/63cbfb466fe644dda11a8e109611a5cd.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
-
-http://iliketot.dyndns.TV/65f7358b813048a0898f5677e1793cf9.m3u8
-
-http://iliketot.dyndns.TV/206105b34a1c44b886c6cd3c59105803.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMTggNDo0Mzo1OCBBTSZoYXNoX3ZhbHVlPW9oSGErRXNZcXAxSlhaRTJoSTdFWnc9PSZ2YWxpZG1pbnV0ZXM9MSZpZD1zbW9uZzExfDgwNXx1cGxheXwxNTMzNzg5ODM4fDE3MS41LjExMS4xMjg=
-
+rtp://@239.1.2.127:8736
 
 
 #EXTINF:0,[THE END]
