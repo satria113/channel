@@ -2662,18 +2662,26 @@ http://rr.dens.tv/h/h101/index2.m3u8
 #EXTINF:-1 tvg-logo="https://d1eet599aje0m8.cloudfront.net/wp-content/uploads/2016/11/logo.png" group-title="NN",  FREE MOVIE KOREA
 http://rr2.dens.tv/s/s42/index2.m3u8
 
+#EXTINF:-1  tvg-logo="http://www.dens.tv/images/channel-logo/102.jpg" group-title="NN",  SHOW BIZ
 http://210.210.155.35/x6bnqe/s/s35/index2.m3u8
+#EXTINF:-1  tvg-logo="http://www.dens.tv/images/channel-logo/1.jpg" group-title="NN",  LEARNING & KNOWLEDGE
 http://210.210.155.35/x6bnqe/s/s36/index2.m3u8
+#EXTINF:-1  tvg-logo="http://www.dens.tv/images/channel-logo/3.jpg" group-title="NN",  LIVE STREAMING 1
 http://210.210.155.35/x6bnqe/s/s37/index2.m3u8
+#EXTINF:-1  tvg-logo="https://api.aws.telearabia.taprod.otv-se.com/BE/babeleye/cirrus-mcnc/mcnc5/DubaiTV.png" group-title="NN",  DUBAI TV
 http://210.210.155.35/x6bnqe/s/s60/index2.m3u8
-http://210.210.155.35/x6bnqe/s/s61/index2.m3u8
-http://210.210.155.35/x6bnqe/s/s62/index2.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/512px-Rai_Italia_-_Logo_2017.svg.png" group-title="NN",  RAI ITALIA
 http://210.210.155.35/x6bnqe/s/s63/index2.m3u8
+#EXTINF:-1  tvg-logo="http://telenovelachannel.com/wp-content/uploads/2011/09/tnc-logo.png" group-title="NN",  TELE NOVELA
 http://210.210.155.35/x6bnqe/s/s70/index2.m3u8
+#EXTINF:-1  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cc/Sinema_Indonesia.png" group-title="NN",  SINEMA INDONESIA
 http://210.210.155.35/x6bnqe/s/s71/index2.m3u8
+#EXTINF:-1  tvg-logo="https://www.trtworld.com/images/logo.svg" group-title="NN",  TRT WORLD
 http://210.210.155.35/x6bnqe/s/s72/index2.m3u8
-http://210.210.155.35/x6bnqe/s/s80/index2.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b9/BaliTV_2014.png" group-title="NN",  BALI TV
 http://210.210.155.35/x6bnqe/s/s82/index2.m3u8
+
 http://210.210.155.35/x6bnqe/s/s90/index2.m3u8
 http://210.210.155.35/x6bnqe/s/s94/index2.m3u8
 http://210.210.155.35/uq2663/h/h45/index.m3u8
