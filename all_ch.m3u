@@ -139,6 +139,14 @@ https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/RRI_NET.png" group-title="NEWS",  RRI NET
 http://36.89.47.217:11935/rrinet/live/index.m3u8
 
+#EXTINF:0 type="stream" channelId="1328" group-title="SPORT" logo="http://img.hplus.com.vn/355x200/poster/2019/08/16/721988-FOXsport.png",  FOX SPORT
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="170" group-title="SPORT" logo="http://img.hplus.com.vn/355x200/poster/2019/08/16/622510-foxsport2.png",  FOX SPORT 2
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="180" group-title="SPORT" logo="http://img.hplus.com.vn/460x260/poster/2019/07/16/851322-foxsport_3.png",  FOX SPORT 3
+https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/2000px-Fox_Sports_1_logo.svg.png" tvg-name="FOX SPORT 1"  group-title="SPORT",  FOX SPORT 1
+http://45.58.62.92:8080
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://photo.sofun.tw/2013/11/STAR-SPORTS-LOGO.jpg" tvg-country="HK" tvg-url="" group-title="SPORT",  STAR SPORTS
@@ -153,8 +161,6 @@ http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/
 http://210.210.155.35/uq2663/h/h05/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/wB9CkPG.jpg" group-title="SPORT",  FIGHT SPORTS
 http://rr.dens.tv/h/h05/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/2000px-Fox_Sports_1_logo.svg.png" tvg-name="FOX SPORT 1"  group-title="SPORT",  FOX SPORT 1
-http://45.58.62.92:8080
 #EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b5/Real_Madrid_TV_HD.png/revision/latest/scale-to-width-down/200?cb=20170103061913", group-title="SPORT",  REAL MADRID TV
 https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8?sd=10&rebase=on
 #EXTINF:0 group-title="SPORT",  REDBULL TV
