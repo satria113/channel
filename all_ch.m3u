@@ -81,6 +81,8 @@ http://210.210.155.35/uq2663/h/h29/index.m3u8
 http://203.153.218.28:9981/stream/channelid/861591723?ticket=F0599E847F90B5FE81ADFE5AD5296885A461DA19&profile=pass
 #EXTINF:-1 tvg-id="BBC News UK" tvg-name="BBC News UK" tvg-language="English" tvg-logo="https://i.imgur.com/eNPIQ9f.png" tvg-country="UK" tvg-url="" group-title="NEWS",  BBC WORLD NEWS
 http://51.52.156.22:8888/http/004
+#EXTINF:0 tvg-logo="https://ichef.bbci.co.uk/images/ic/480xn/p07kfh1t.jpg" group-title="NEWS",  BBC WORLD NEWS
+https://livecdn.fptplay.net/qnetlive/bbcnew_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="BBC World News UK" tvg-name="BBC World News UK" tvg-language="English" tvg-logo="https://ichef.bbci.co.uk/images/ic/480xn/p07kfh1t.jpg" group-title="NEWS",  BBC WORLD NEWS
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1 tvg-id="Sky News UK" tvg-name="Sky News UK" tvg-language="English" tvg-logo="https://i.imgur.com/WvNd8yg.png" tvg-country="UK" tvg-url="" group-title="NEWS",  SKY NEWS
@@ -147,6 +149,8 @@ https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/SPS/SPE_425x243.png" tvg-name="FOX SPORT 1"  group-title="SPORT",  FOX SPORT 506 HD
 http://45.58.62.92:8080
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WWE_Logo.svg" group-title="SPORT",  WWE
+http://cdnak10.cast4u.info/channels/4/10804.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://photo.sofun.tw/2013/11/STAR-SPORTS-LOGO.jpg" tvg-country="HK" tvg-url="" group-title="SPORT",  STAR SPORTS
 rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/wB9CkPG.jpg" group-title="SPORT",  FIGHT SPORTS
@@ -171,6 +175,7 @@ http://cdn.mobibase.com/hls/733/258_5000k/playlist.m3u8
 http://ott-cdn.ucom.am/s81/03.m3u8
 #EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/6/6961.1508052177.png" group-title="SPORT", EGG NETWORK HD ID
 http://rr.dens.tv/h/h22/index.m3u8
+
 #EXTINF:-1 group-title="SPORT",  WWE HD
 http://live.iptv.wtf:80/live/Zn3UgNxZq77/6qYGad7c50/5538.m3u8
 #EXTINF:-1 group-title="SPORT",  WWE HD
@@ -296,8 +301,12 @@ http://203.153.218.28:9981/stream/channelid/1910872088?ticket=1FE514A47371AF385F
 http://203.153.218.28:9981/stream/channelid/1910872088?ticket=972D8B718BDDBE34140EA502554535B036289E24&profile=pass
 #EXTINF:-1 tvg-logo="https://seeklogo.net/wp-content/uploads/2017/06/fox-movies-logo.png" group-title="MOVIES",  FOX MOVIES
 http://203.153.218.28:9981/stream/channelid/756717990?ticket=D9CDD7DB18E80023C22954FE693F71DB745D5CE7&profile=pass
+#EXTINF:-1 tvg-logo="https://seeklogo.net/wp-content/uploads/2017/06/fox-movies-logo.png" group-title="MOVIES",  FOX MOVIES
+http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7ACFD3C14E761032035F66E&profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sMQ0yyZ.png" group-title="MOVIES",  FOX FAMILY MOVIES
 http://203.153.218.28:9981/stream/channelid/1949182550?ticket=39C98E4111054C7CF2A242280A406A438219FEA8&profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sMQ0yyZ.png" group-title="MOVIES",  FOX FAMILY MOVIES
+http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626AA28A8A68A1182729AC6EE&profile=pass
 #EXTINF:0 tvg-logo="https://www.pngkit.com/png/detail/107-1070585_fox-action-movies.png" group-title="MOVIES",  FOX ACTION MOVIES
 http://203.153.218.28:9981/stream/channelid/1744735983?ticket=07E4904EDFA549D56E57107CB6140923FE593775&profile=pass
 #EXTINF:-1 tvg-logo="http://singteltv.com.sg/_channels/pic_ch585.jpg" group-title="MOVIES",  CELESTIAL MOVIES
@@ -379,6 +388,9 @@ http://210.210.155.35/qwr9ew/s/s24/02.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://www.zhiboba.org/zbbimg/xingkongweishi.jpg" tvg-country="HK" tvg-url="" group-title="CHINA",  XING KONG
 rtmp://58.200.131.2:1935/livetv/startv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://www.zhiboba.org/zbbimg/xingkongweishi.jpg" tvg-country="HK" tvg-url="" group-title="CHINA",  XING KONG
+http://210.210.155.35/x6bnqe/s/s94/index2.m3u8
+
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-language="Chinese" tvg-logo="https://www.lyngsat.com/logo/tv/bb/beijing-tv-cn.png" group-title="CHINA",  BTV
 http://111.40.205.87/PLTV/88888888/224/3221225651/index.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-language="Chinese" tvg-logo="https://www.lyngsat.com/logo/tv/bb/beijing-tv-cn.png" group-title="CHINA",  BTV
@@ -2497,6 +2509,8 @@ http://203.153.218.28:9981/stream/channelid/681683355?ticket=B3C34399E8376048D34
 http://203.153.218.28:9981/stream/channelid/391618553?ticket=08323DCACE84958A87EA829F012E919CA861DF74&profile=pass
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="SCIENCE",  TLC HD
 https://itpolly.iptv.digijadoo.net/live/tlc_hd/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="SCIENCE",  TLC HD
+https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-logo="https://www.kindpng.com/picc/m/396-3964365_023-discovery-discovery-channel-logo-2019-hd-png.png" group-title="SCIENCE",  DISCOVERY
 http://203.153.218.28:9981/stream/channelid/1151931232?ticket=D05F5F5AB713CBADFBFABB642E4F37D5004BB751&profile=pass
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Discovery_Science_Canada_2011.PNG" group-title="SCIENCE",  DISCOVERY SCI
@@ -2537,7 +2551,6 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/chunklist_b2288000.m3u8
 
 
-
 #EXTINF:-1 tvg-id="Channel 5" tvg-name="Channel 5" tvg-language="English" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/64/20171222_084212.jpg" group-title="SG",Channel 5
 https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master.m3u8
 #EXTINF:-1 tvg-id="Channel 8" tvg-name="Channel 8" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://images.mypadtv.com/hd8.jpg" group-title="SG",Channel 8
@@ -2549,6 +2562,9 @@ https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://tv.toggle.sg/blob/11491578/7f4aa2f2af43777e0880c10acdbbb836/header3-data.jpg" group-title="SG",OKTO on 5
 https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master.m3u8
 
+
+#EXTINF:-1 tvg-id="" tvg-name="CHANNEL[V]" tvg-language="Chinese" tvg-logo="https://pbs.twimg.com/profile_images/488971054782492674/y9rghlFo.jpeg" tvg-country="HK" tvg-url="" group-title="MUSIC",  CHANNEL [V]
+https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CHANNEL[V]" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/1200px-Channel_V_Logo.svg.png" tvg-country="HK" tvg-url="" group-title="MUSIC",  CHANNEL [V]
 rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mcm-top-fr.png" tvg-country="FR" tvg-url="" group-title="MUSIC",  MCM TOP
@@ -2681,23 +2697,14 @@ http://210.210.155.35/x6bnqe/s/s72/index2.m3u8
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/b9/BaliTV_2014.png" group-title="NN",  BALI TV
 http://210.210.155.35/x6bnqe/s/s82/index2.m3u8
-
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/8e/JTV_%282012%29.svg" group-title="NN",  JAWA TIMUR TV
 http://210.210.155.35/x6bnqe/s/s90/index2.m3u8
-http://210.210.155.35/x6bnqe/s/s94/index2.m3u8
-http://210.210.155.35/uq2663/h/h45/index.m3u8
 
-http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7ACFD3C14E761032035F66E&profile=pass
-http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626AA28A8A68A1182729AC6EE&profile=pass
-
-http://cdnak10.cast4u.info/channels/4/10804.m3u8
-https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/ap_live.m3u8
-
-https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
-
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/BBC_Lifestyle2.svg" group-title="NN",  BBC LIFE STYLE
 https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
-https://livecdn.fptplay.net/qnetlive/bbcnew_2000.stream/chunklist.m3u8
-https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
 
+http://cdnak8.cast4u.info/channels/3/10803.m3u8
+https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/ap_live.m3u8
 http://163.172.85.133:8080/TenS/1/index.m3u8
 http://163.172.85.133:8080/TenS/3/index.m3u8
 http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
@@ -2706,12 +2713,6 @@ http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 http://trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/index_500_av-p.m3u8
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 
-rtmp://xiaoyu.speedws.com/sat/hk011
-http://rtmp://xiaoyu.speedws.com/sat/hk011
-http://rtmp://xiaoyu.speedws.com/sat/hk021
-rtmp://xiaoyu.speedws.com/sat/hk021
 
-http://ivi.bupt.edu.cn/hls/btv11hd.m3u8
-http://ivi.bupt.edu.cn/hls/btv2hd.m3u8
-https://cdn-laos.workpoint.news/sd-starchinesechannel_480/index.m3u8
+
 #EXTINF:0,[THE END]
