@@ -2698,11 +2698,12 @@ http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 http://trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/index_500_av-p.m3u8
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 
-Http://113.189.21.251:4022/rtp/232.84.2.132:9588
-http://113.189.21.251:4022/rtp/232.84.1.13:8052
+rtmp://xiaoyu.speedws.com/sat/hk011
+http://rtmp://xiaoyu.speedws.com/sat/hk011
+http://rtmp://xiaoyu.speedws.com/sat/hk021
+rtmp://xiaoyu.speedws.com/sat/hk021
 
-https://livecdn.fptplay.net/hda/vtv1hd_hls.smil/chunklist_b2500000.m3u8?token=eyJzZXJ2ZXJfdGltZSI6IDE1ODIzNDc5NjAsICJyZXNvdXJjZV9pZCI6ICJ2dHYxaGRfaGxzIiwgInBhcnRuZXJfaWQiOiAiNTcxM2JlOGMwN2U0MmVkNGI5MTYzODhlIiwgInRva2VuIjogImQxZjUwMGFhNTdjZTg5MDQ3MDExNjA3OWNkYWExNjhkIiwgInZhbGlkX21pbnV0ZXMiOiAxNTgyNDM0MzYwLCAicm1pcCI6ICIyNy43OS4yNTUuMTUzIn0=&user_id=96301827
-http://219.250.105.94:9981/stream/channelid/264602672
-http://219.250.105.94:9981/stream/channelid/584791421
-http://219.250.105.94:9981/stream/channelid/1843954399
+http://ivi.bupt.edu.cn/hls/btv11hd.m3u8
+http://ivi.bupt.edu.cn/hls/btv2hd.m3u8
+https://cdn-laos.workpoint.news/sd-starchinesechannel_480/index.m3u8
 #EXTINF:0,[THE END]
