@@ -71,6 +71,8 @@ http://rr2.dens.tv/s/s13/index2.m3u8
 http://210.210.155.35/x6bnqe/s/s80/index2.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/fhzxt.jpg" group-title="NEWS",  PHOENIX NEWS
 http://rr2.dens.tv/s/s21/index2.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/fhzxt.jpg" group-title="NEWS",  PHOENIX NEWS
+http://220.158.149.28:8180/live/TV00000000000000000066@HHZT
 #EXTINF:-1 tvg-id="Channel NewsAsia" tvg-name="Channel NewsAsia" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" group-title="NEWS",  CNA HD
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" group-title="NEWS",  CNA
@@ -257,6 +259,8 @@ http://210.210.155.35/uq2663/h/h04/index2.m3u8
 http://rr.dens.tv/h/h04/index2.m3u8
 #EXTINF:-1 tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/11/CMW-gold-logo-for-website-loading.png" group-title="MOVIES",  CINEMA WORLD HD
 http://210.210.155.35/uq2663/h/h04/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/fhzwt.jpg" group-title="MOVIES",  PHOENIX CHINESE
+http://220.158.149.28:8180/live/TV00000000000000000067@HHZT
 #EXTINF:-1 tvg-logo="https://www.dens.tv/images/channel-logo/95.jpg" group-title="MOVIES",  MY CINEMA
 http://rr.dens.tv/h/h90/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.dens.tv/images/channel-logo/95.jpg" group-title="MOVIES",  MY CINEMA
@@ -2487,6 +2491,8 @@ https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CHANNEL[V]" tvg-language="Chinese" tvg-logo="https://pbs.twimg.com/profile_images/488971054782492674/y9rghlFo.jpeg" tvg-country="HK" tvg-url="" group-title="MUSIC",  CHANNEL [V]
 https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CHANNEL[V]" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/1200px-Channel_V_Logo.svg.png" tvg-country="HK" tvg-url="" group-title="MUSIC",  CHANNEL [V]
+http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=v
+#EXTINF:-1 tvg-id="" tvg-name="CHANNEL[V]" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/1200px-Channel_V_Logo.svg.png" tvg-country="HK" tvg-url="" group-title="MUSIC",  CHANNEL [V]
 rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mcm-top-fr.png" tvg-country="FR" tvg-url="" group-title="MUSIC",  MCM TOP
 http://ott-cdn.ucom.am/s49/index.m3u8
@@ -2646,25 +2652,13 @@ http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
 https://dl.dropbox.com/s/wfh6jphfd9swryb/spanyol.m3u8?dl=0
 https://shuixian.nihaozuida.com/20200615/5744_ffc66078/1024k/hls/index.m3u8
-
-http://116.199.5.52:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=233&amp&FvSeid=1&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=.m3u8&Fsv_CMSID=&Fsv_otype=1
-http://116.199.5.52:8114/index.m3u8?FvSeid=1&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=79&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=.m3u8&Fsv_CMSID=&Fsv_otype=1
-http://117.169.120.160:8080/live/fhzixun/1.m3u8
-http://192.154.103.75:8080/ZZ_nanfangdianshitai/ZZ_nanfangdianshitai.m3u8
-http://220.158.149.28:8180/live/TV00000000000000000066@HHZT
-http://220.158.149.28:8180/live/TV00000000000000000067@HHZT
-http://bbdd.228888888.xyz:8081/hls/ch110.m3u8
-http://bbdd.228888888.xyz:8081/hls/ch111.m3u8
-http://bbdd.228888888.xyz:8081/hls/ch112.m3u8
-http://f6.apps8888.com:8080/live/441/b5d92c556e60a6fe666a7867fed250d2/index.m3u8
 http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=axn
 http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=gjdl
-http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=v
 http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=wsgjdy
 http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=wsty
 http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=wsty2
+
 http://live.centerch.com/fhzw.m3u8
-http://live.centerch.com/fhzx.m3u8
 http://tv.sason.xyz/proxy/fh.php?id=zw
 http://tv.sason.xyz/proxy/fh.php?id=zx
 http://vfile1.grtn.cn/2020/1591/5376/8760/159153768760.ssm/159153768760.m3u8
@@ -2672,5 +2666,30 @@ rtmp://58.200.131.2/livetv/fhzx
 rtmp://ivi.bupt.edu.cn/livetv/startv
 http://rtmp://58.200.131.2/livetv/fhzx
 http://rtmp://ivi.bupt.edu.cn/livetv/startv
+
+http://220.158.149.28:8180/live/TV00000000000000000060@HHZT
+http://220.158.149.28:8180/live/TV00000000000000000061@HHZT
+http://220.158.149.28:8180/live/TV00000000000000000062@HHZT
+http://220.158.149.28:8180/live/TV00000000000000000063@HHZT
+http://220.158.149.28:8180/live/TV00000000000000000064@HHZT
+http://220.158.149.28:8180/live/TV00000000000000000065@HHZT
+http://220.158.149.28:8180/live/TV00000000000000000066@HHZT
+http://220.158.149.28:8180/live/TV00000000000000000067@HHZT
+http://220.158.149.28:8180/live/TV00000000000000000068@HHZT
+http://220.158.149.28:8180/live/TV00000000000000000069@HHZT
+http://220.158.149.28:8180/live/TV00000000000000000070@HHZT
+http://220.158.149.28:8180/live/TV00000000000000000071@HHZT
+http://220.158.149.28:8180/live/TV00000000000000000072@HHZT
+http://220.158.149.28:8180/live/TV00000000000000000073@HHZT
+http://220.158.149.28:8180/live/TV00000000000000000074@HHZT
+http://220.158.149.28:8180/live/TV00000000000000000075@HHZT
+http://220.158.149.28:8180/live/TV00000000000000000076@HHZT
+http://220.158.149.28:8180/live/TV00000000000000000077@HHZT
+http://220.158.149.28:8180/live/TV00000000000000000078@HHZT
+http://220.158.149.28:8180/live/TV00000000000000000079@HHZT
+http://220.158.149.28:8180/live/TV00000000000000000080@HHZT
+http://220.158.149.28:8180/live/TV00000000000000000081@HHZT
+http://220.158.149.28:8180/live/TV00000000000000000082@HHZT
+http://220.158.149.28:8180/live/TV00000000000000000083@HHZT
 
 #EXTINF:0,[THE END]
