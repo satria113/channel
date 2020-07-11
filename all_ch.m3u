@@ -2712,19 +2712,43 @@ http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 http://trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/index_500_av-p.m3u8
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 http://203.153.218.28:9981/stream/channelid/255605374?ticket=8419D5E6A24EE915F246B23011407540BE9B0E50&profile=pass
-
-http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
-http://203.153.218.28:9981/stream/channelid/1316004766?ticket=6A230BCD275160BC241A718EFB00115CB1F94794&profile=pass
-http://203.153.218.28:9981/stream/channelid/1316004766?ticket=8603609D96360D7B639AB97584FF09E1086B3284&profile=pass
-http://203.153.218.28:9981/stream/channelid/1316004766?ticket=8603609D96360D7B639AB97584FF09E1086B3284&profile=pass
-http://203.153.218.28:9981/stream/channelid/251475608?ticket=3CBFB27E68B1DFEAB62E7781784EE2C7BFA92754&profile=pass
-http://203.153.218.28:9981/stream/channelid/31701170?ticket=2E48030DF49735395AFB9F80DD6626207B1579D5&profile=pass
-http://203.153.218.28:9981/stream/channelid/648970596?ticket=0DB19E0638CE26116D1EAB88EABDF8BB02DA784A&profile=pass
 http://51.52.156.22:8888/http/003
-http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
-https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
-https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
 
+
+http://103.47.132.164/PLTV/88888888/224/3221226011/02.m3u8
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+http://185.176.117.242/live/eds/Disney_Channel/HLS_encr/Disney_Channel-video=600000.m3u8
+http://203.153.218.28:9981/stream/channelid/648970596
+http://210.210.155.35/dr9445/h/h144/index2.m3u8
+http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
+http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/20191122T014035-01-33286702.ts
+http://213.174.8.7:11111/index.m3u8
+http://213.174.8.7:9100/index.m3u8
+http://213.252.252.17/live/eds/Nicktoons/HLS_encr/Nicktoons-avc1_600000=8-begin=1560995118400000-dur=100000000-seq=15609952.ts
+http://35.232.124.137:8888/tvnow/http://sv7.dailymotion.com.1cdn.host/live/ctnw/chunks.m3u8
+http://45.126.83.51/session/ed35b066-8776-11e9-8be0-b73f998c1fa0/x6bnqe/s/s113/index.m3u8
+http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8
+http://88.216.48.14:80/boomerang/live.m3u8
+http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
+http://livecdnh1.tvanywhere.ae:80/hls/baby/index.m3u8
+http://livecdnh3.tvanywhere.ae/hls/duck/06.m3u8
+http://livecdnh3.tvanywhere.ae/hls/duck/06.m3u8
+http://rr1.dens.tv/h/h02/index.m3u8
+http://unirtmp.tulix.tv:1935/sat7kids/sat7kids1/playlist.m3u8
+https://anevia115.mncnow.id:443/live/eds/KidsChannel/sa_hls/KidsChannel-avc1_1000000=9-mp4a_98800_eng=5.m3u8
+https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
+https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_hls/DisneyChannel-avc1_2499968=7-mp4a_98800_ind=9.m3u8
+https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_hls/Nickelodeon-avc1_1000000=8-mp4a_98800_eng=4.m3u8
+https://liveanevia.mncnow.id/live/eds/NickJr/sa_hls/NickJr-avc1_1000000=8-mp4a_98800_eng=4.m3u8
+https://vod.rctiplus.id/vod/169322/1/3/854/834/video/ts/segment0.ts
+
+
+
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist.m3u8
+http://213.174.8.7:9100/index.m3u8
+https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_hls/DisneyChannel-avc1_2499968=7-mp4a_98800_ind=9.m3u8
 
 
 
