@@ -2765,4 +2765,16 @@ http://220.158.149.28:8180/live/TV00000000000000000167@HHZT
 http://220.158.149.28:8180/live/TV00000000000000000168@HHZT
 http://220.158.149.28:8180/live/TV00000000000000000169@HHZT
 http://220.158.149.28:8180/live/TV00000000000000000170@HHZT
+
+
+
+http://220.74.98.223:9981/stream/channelid/22
+http://220.74.98.223:9981/stream/channelid/34
+http://220.74.98.223:9981/stream/channelid/53
+http://220.74.98.223:9981/stream/channelid/93
+http://220.85.148.178:9981/stream/channelid/1
+http://220.85.148.178:9981/stream/channelid/100
+http://220.85.148.178:9981/stream/channelid/101
+http://220.85.148.178:9981/stream/channelid/102
+
 #EXTINF:0,[THE END]
