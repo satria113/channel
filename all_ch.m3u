@@ -2718,23 +2718,31 @@ http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 
 
 
-http://203.153.218.28:9981/stream/channelid/1910872088
-http://203.153.218.28:9981/stream/channelid/1949182550
-http://203.153.218.28:9981/stream/channelid/1949182550?
 http://203.153.218.28:9981/stream/channelid/1910872088?ticket=9527FC229C33A71FBAF7DEF7D4ADD74FA1D1F1D5&profile=pass
 http://203.153.218.28:9981/stream/channelid/1949182550?ticket=C4FE458C6B9C4686BA0966E59174C0D6805DBB39&profile=pass
 http://203.153.218.28:9981/stream/channelid/2038175895?ticket=6BFD6BDBFA641B9E326D9F96C522A9CA148626C6&profile=pass
 http://203.153.218.28:9981/stream/channelid/756717990?ticket=397900FDAB149520DA6CD0E3E8F82F901132A27B&profile=pass
 http://210.210.155.35:80/session/04357d66-73b6-11e9-a26c-8746b55a6579/uq2663/h/h04/01.m3u8
 
+https://acv.asianetmobiletvplus.com/channels/cinematv_ptiwautekttzxckrgphaarueatccfiaz/playlist.m3u8
+http://178.163.1.48:4022/udp/234.0.0.224:2000
+http://188.35.9.26:14050/udp/238.0.14.3:69000
+http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
+http://61.58.60.230:9319/live/244.m3u8
+http://91.223.105.236:8081/hlsx/472/472.m3u8?id=1188&p=87e0c783e9b31451
+http://91.223.105.236:8081/hlsx/473/473.m3u8?id=1188&p=12326fa256d9bf86
+http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
+http://live.planeta-online.tv:1935/public/channel_5/playlist.m3u8
+http://livecdnh3.tvanywhere.ae/hls/zeeaflam/01.m3u8
+http://sc.id-tv.kz/RenTV_36_37.m3u8
+http://sochinskayatrk.ru/hdtv/hls/strc_hd/playlist.m3u8
+http://tv545.com/stream/PzDAvbQ/channel/967.m3u8
+http://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8
+https://distro.akamaized.net/indexfd_1280x720.m3u8
+https://strm.yandex.ru/kal/kinoclassic/kinoclassic0.m3u8
 
 
-http://210.210.155.35/qwr9ew/s/s33/01.m3u8
-http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/index1.m3u8
-http://livecdnh2.tvanywhere.ae/hls/cbc_drama/04.m3u8
-http://livecdnh3.tvanywhere.ae/hls/b4uplus/04.m3u8
-http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
-http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
+
 
 
 #EXTINF:0,[THE END]
