@@ -2424,6 +2424,8 @@ http://203.153.218.28:9981/stream/channelid/1868154562?ticket=21CAD98B63EE6B1D16
 http://203.153.218.28:9981/stream/channelid/1114683377?ticket=39736C153BA658BB8604E39D479282644E09703E&profile=pass
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="SCIENCE",  NAT GEO
 http://203.153.218.28:9981/stream/channelid/681683355?ticket=B3C34399E8376048D3433529578519E51673EA32&profile=pass
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="SCIENCE",  NAT GEO
+http://104.250.154.42:8080/ZZ_hbo/ZZ_hbo.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/TLC-Logo_2016.png" group-title="SCIENCE",  TLC
 http://203.153.218.28:9981/stream/channelid/391618553?ticket=08323DCACE84958A87EA829F012E919CA861DF74&profile=pass
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="SCIENCE",  TLC HD
@@ -2643,30 +2645,32 @@ hhttp://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
 https://dl.dropbox.com/s/wfh6jphfd9swryb/spanyol.m3u8?dl=0
-
-http://bbdd.228888888.xyz:8081/hls/ch310.m3u8
-http://bbdd.228888888.xyz:8081/hls/ch311.m3u8
-http://bbdd.228888888.xyz:8081/hls/ch312.m3u8
-http://bbdd.228888888.xyz:8081/hls/ch313.m3u8
-rtmp://xiaoyu.speedws.com/sat/tv731
-rtmp://xiaoyu.speedws.com/sat/tv741
-http://111.13.111.192/211.75.9.37:20000/20001
-http://111.13.111.192/211.75.9.37:20030/20037
-http://220.158.149.28:8180/live/TV00000000000000000166@HHZT
-https://livecdn.fptplay.net/qnetlive/warnertv_hls.smil/chunklist_b2500000.m3u8
-https://tv4.chang55.com:446/live2/tv4ch95.stream/chunks.m3u8
-http://185.93.2.35:12012/live/359111068247FFA1/MSdNvjRLro767t_p65rdcnI4-y2Cthpn1M5pEu1pJ5lbTHbp_NSsbesMwGJmmPcN/35A99883E6FC4D2F/767116.ts
-http://153.99.180.70:5021/live/181/playlist.m3u8
-http://153.99.180.70:5021/live/238/playlist.m3u8
-http://153.99.180.70:5021/live/261/playlist.m3u8
-http://153.99.180.70:5021/live/436/playlist.m3u8
-http://220.158.149.28:8180/live/TV00000000000000000080@HHZT
-http://220.158.149.28:8180/live/TV00000000000000000081@HHZT
-http://220.158.149.28:8180/live/TV00000000000000000166@HHZT
-http://104.250.154.42:8080/ZZ_hbo/ZZ_hbo.m3u8
 https://shuixian.nihaozuida.com/20200615/5744_ffc66078/1024k/hls/index.m3u8
-http://bbdd.228888888.xyz:8081/hls/ch307.m3u8
 
-
+http://116.199.5.52:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=233&amp&FvSeid=1&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=.m3u8&Fsv_CMSID=&Fsv_otype=1
+http://116.199.5.52:8114/index.m3u8?FvSeid=1&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=79&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=.m3u8&Fsv_CMSID=&Fsv_otype=1
+http://117.169.120.160:8080/live/fhzixun/1.m3u8
+http://192.154.103.75:8080/ZZ_nanfangdianshitai/ZZ_nanfangdianshitai.m3u8
+http://220.158.149.28:8180/live/TV00000000000000000066@HHZT
+http://220.158.149.28:8180/live/TV00000000000000000067@HHZT
+http://bbdd.228888888.xyz:8081/hls/ch110.m3u8
+http://bbdd.228888888.xyz:8081/hls/ch111.m3u8
+http://bbdd.228888888.xyz:8081/hls/ch112.m3u8
+http://f6.apps8888.com:8080/live/441/b5d92c556e60a6fe666a7867fed250d2/index.m3u8
+http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=axn
+http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=gjdl
+http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=v
+http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=wsgjdy
+http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=wsty
+http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=wsty2
+http://live.centerch.com/fhzw.m3u8
+http://live.centerch.com/fhzx.m3u8
+http://tv.sason.xyz/proxy/fh.php?id=zw
+http://tv.sason.xyz/proxy/fh.php?id=zx
+http://vfile1.grtn.cn/2020/1591/5376/8760/159153768760.ssm/159153768760.m3u8
+rtmp://58.200.131.2/livetv/fhzx
+rtmp://ivi.bupt.edu.cn/livetv/startv
+http://rtmp://58.200.131.2/livetv/fhzx
+http://rtmp://ivi.bupt.edu.cn/livetv/startv
 
 #EXTINF:0,[THE END]
