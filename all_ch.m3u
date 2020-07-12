@@ -67,8 +67,7 @@ http://edge.nim.mivo.tv/daaitv/daaitv2_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/e3/DAAI_TV_Jakarta.png/320px-DAAI_TV_Jakarta.png" group-title="LOCAL",  DAAI TV
 http://rr2.dens.tv/s/s13/index2.m3u8
 
-#EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/fhxgt.jpg" group-title="NEWS",  PHOENIX HONGKONG
-http://220.158.149.28:8180/live/TV00000000000000000068@HHZT
+
 
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/fhzxt.jpg" group-title="NEWS",  PHOENIX HD
 http://220.158.149.28:8180/live/TV00000000000000000066@HHZT
@@ -313,7 +312,9 @@ http://112.50.243.12/PLTV/88888888/224/3221225804/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/tv5-monde-logo-300x300.jpg" group-title="MOVIES",  TV 5 MONDE ASIE
 http://210.210.155.35/qwr9ew/s/s24/02.m3u8
 
-EXTINF:-1 tvg-logo="http://www.dianshiba.cc/images/dianshi/chc.jpg" group-title="CHINA",  PHOENIX
+EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/fhxgt.jpg" group-title="CHINA",  PHOENIX HONGKONG
+http://220.158.149.28:8180/live/TV00000000000000000068@HHZT
+EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/fhzwt.jpg" group-title="CHINA",  PHOENIX CHINESE
 http://210.210.155.35/x6bnqe/s/s80/index2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://www.zhiboba.org/zbbimg/xingkongweishi.jpg" tvg-country="HK" tvg-url="" group-title="CHINA",  XING KONG
 rtmp://58.200.131.2:1935/livetv/startv
