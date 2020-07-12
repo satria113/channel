@@ -2790,6 +2790,48 @@ http://219.153.252.50/PLTV/88888888/224/3221225645/chunklist.m3u8
 
 http://39.135.32.24:6610/000000001000/5000000004000006211/index.m3u8?channel-id=bestzb&Contentid=5000000004000006211&livemode=1&stbId=00000250001B50800001B401420BC069
 
+rtmp://61.43.246.223/rtplive/cctv_913.stream
+rtmp://61.43.246.225/rtplive/cctv_11.stream
+rtmp://61.43.246.225/rtplive/cctv_12.stream
+rtmp://61.43.246.225/rtplive/cctv_13.stream
+rtmp://61.43.246.225/rtplive/cctv_15.stream
+rtmp://61.43.246.225/rtplive/cctv_16.stream
+rtmp://61.43.246.225/rtplive/cctv_17.stream
+rtmp://61.43.246.225/rtplive/cctv_18.stream
+rtmp://61.43.246.225/rtplive/cctv_19.stream
+rtmp://61.43.246.225/rtplive/cctv_23.stream
+rtmp://61.43.246.225/rtplive/cctv_24.stream
+rtmp://61.43.246.225/rtplive/cctv_25.stream
+rtmp://61.43.246.225/rtplive/cctv_26.stream
+rtmp://61.43.246.225/rtplive/cctv_40.stream
+rtmp://61.43.246.225/rtplive/cctv_47.stream
+rtmp://61.43.246.225/rtplive/cctv_48.stream
+rtmp://61.43.246.225/rtplive/cctv_49.stream
+rtmp://61.43.246.225/rtplive/cctv_53.stream
+rtmp://61.43.246.225/rtplive/cctv_62.stream
+rtmp://61.43.246.225/rtplive/cctv_64.stream
+rtmp://61.43.246.225/rtplive/cctv_65.stream
+rtmp://61.43.246.225/rtplive/cctv_66.stream
+rtmp://61.43.246.225/rtplive/cctv_79.stream
+rtmp://61.43.246.225/rtplive/cctv_88.stream
+rtmp://61.43.246.225/rtplive/cctv_89.stream
+rtmp://61.43.246.225/rtplive/cctv_90.stream
+rtmp://61.43.246.225/rtplive/cctv_91.stream
+rtmp://61.43.246.225/rtplive/cctv_92.stream
+rtmp://61.43.246.225/rtplive/cctv_93.stream
+rtmp://61.43.246.225/rtplive/cctv_94.stream
+rtmp://61.43.246.226/rtplive/cctv_105.stream
+rtmp://61.43.246.226/rtplive/cctv_135.stream
+rtmp://61.43.246.226/rtplive/cctv_140.stream
+rtmp://61.43.246.226/rtplive/cctv_208.stream
+rtmp://61.43.246.227/rtplive/cctv_290.stream
+rtmp://61.43.246.227/rtplive/cctv_306.stream
+rtmp://61.43.246.227/rtplive/cctv_309.stream
+rtmp://61.43.246.227/rtplive/cctv_622.stream
+rtmp://61.43.246.227/rtplive/cctv_628.stream
+rtmp://61.43.246.227/rtplive/cctv_630.stream
+rtmp://61.43.246.227/rtplive/cctv_631.stream
+rtmp://61.43.246.227/rtplive/cctv_724.stream
 
 
 
