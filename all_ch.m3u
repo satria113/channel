@@ -81,6 +81,8 @@ http://rr.dens.tv/h/h29/index2.m3u8
 http://210.210.155.35/uq2663/h/h29/index.m3u8
 #EXTINF:0 tvg-logo="https://ichef.bbci.co.uk/images/ic/480xn/p07kfh1t.jpg" group-title="NEWS",  BBC WORLD NEWS
 http://203.153.218.28:9981/stream/channelid/861591723?ticket=F0599E847F90B5FE81ADFE5AD5296885A461DA19&profile=pass
+#EXTINF:0 tvg-logo="https://ichef.bbci.co.uk/images/ic/480xn/p07kfh1t.jpg" group-title="NEWS",  BBC WORLD NEWS
+http://220.158.149.28:8180/live/TV00000000000000000112@HHZT
 #EXTINF:-1 tvg-id="BBC News UK" tvg-name="BBC News UK" tvg-language="English" tvg-logo="https://i.imgur.com/eNPIQ9f.png" tvg-country="UK" tvg-url="" group-title="NEWS",  BBC WORLD NEWS
 http://51.52.156.22:8888/http/004
 #EXTINF:0 tvg-logo="https://ichef.bbci.co.uk/images/ic/480xn/p07kfh1t.jpg" group-title="NEWS",  BBC WORLD NEWS
@@ -122,8 +124,12 @@ http://45.126.83.51/qwr9ew/s/s15/index2.m3u8
 http://210.210.155.35/qwr9ew/s/s15/02.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="NEWS",  FRANCE24
 http://rr2.dens.tv/s/s22/index2.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="NEWS", FRANCE24
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="NEWS",  FRANCE24
+http://220.158.149.28:8180/live/TV00000000000000000031@HHZT
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="NEWS",  FRANCE24
 http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="NEWS",  FRANCE24
+http://220.158.149.28:8180/live/TV00000000000000000032@HHZT
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/RTP.svg/512px-RTP.svg.png" group-title="NEWS",  RTP
 http://210.210.155.35/qwr9ew/s/s38/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/RTP.svg/512px-RTP.svg.png" group-title="NEWS",  RTP
@@ -132,6 +138,8 @@ http://rr2.dens.tv/s/s38/index.m3u8
 http://210.210.155.35/qwr9ew/s/s23/02.m3u8
 #EXTINF:-1  tvg-logo="https://www.rt.com/static/img/logo112x112.png" group-title="NEWS",  RT
 http://rr2.dens.tv/s/s23/index2.m3u8
+#EXTINF:-1  tvg-logo="https://www.rt.com/static/img/logo112x112.png" group-title="NEWS",  RT
+http://220.158.149.28:8180/live/TV00000000000000000061@HHZT
 #EXTINF:-1  tvg-logo="https://www.rt.com/static/img/logo112x112.png" group-title="NEWS",  RT
 http://rt-usa.secure.footprint.net:80/1105.m3u8?streamType=live
 #EXTINF:-1  tvg-logo="https://www.rt.com/static/img/logo112x112.png" group-title="NEWS",  RT
@@ -201,6 +209,8 @@ http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/hasbahca.m3u8
 http://ytnmmd.mmdlive.lldns.net/ytnmmd/9484b70302db4786886ae40308bf45a1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KOREA",  LIFE STYLE
 http://210.210.155.35/uq2663/h/h28/index1.m3u8
+#EXTINF:-1 tvg-logo="http://s.mobiletv.com.kh//img.live_tv/0/0/0/208.jpg?time=0" group-title="KOREA",  CTV 8 KAMBOJA
+http://220.158.149.28:8180/live/TV00000000000000000037@HHZT
 
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="MOVIES",  HBO FAMILY
@@ -319,6 +329,15 @@ rtmp://58.200.131.2:1935/livetv/startv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://www.zhiboba.org/zbbimg/xingkongweishi.jpg" tvg-country="HK" tvg-url="" group-title="CHINA",  XING KONG
 http://210.210.155.35/x6bnqe/s/s94/index2.m3u8
 
+#EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/zhejiangtv.jpg" group-title="CHINA",  ZHEJIANG TV
+http://220.158.149.28:8180/live/TV00000000000000000045@HHZT
+#EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/zhejiangtv.jpg" group-title="CHINA",  ZHEJIANG TV
+http://220.158.149.28:8180/live/TV00000000000000000056@HHZT
+#EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/zhejiangtv.jpg" group-title="CHINA",  ZHEJIANG TV
+http://220.158.149.28:8180/live/TV00000000000000000057@HHZT
+#EXTINF:-1  tvg-logo="http://s.mobiletv.com.kh//img.live_tv/0/0/0/238.jpg?time=0" group-title="CHINA",  BTV TV
+http://220.158.149.28:8180/live/TV00000000000000000058@HHZT
+
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-language="Chinese" tvg-logo="https://www.lyngsat.com/logo/tv/bb/beijing-tv-cn.png" group-title="CHINA",  BTV
 http://111.40.205.87/PLTV/88888888/224/3221225651/index.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-language="Chinese" tvg-logo="https://www.lyngsat.com/logo/tv/bb/beijing-tv-cn.png" group-title="CHINA",  BTV
@@ -378,9 +397,12 @@ http://210.210.155.35/qwr9ew/s/s29/index.m3u8
 http://rr2.dens.tv/s/s29/index2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://starsat.co.za/wp-content/uploads/2017/08/Dragon-TV.png" group-title="CHINA",  DRAGON TV
 http://ivi.bupt.edu.cn/hls/dfhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="http://logok.org/wp-content/uploads/2014/10/Hunan-TV-logo-880x645.png" group-title="CHINA",  湖南卫视高清
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://www.tvchinese.net/uploads/tv/hunantv.jpg" group-title="CHINA",  HUNAN TV
+http://220.158.149.28:8180/live/TV00000000000000000019@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://www.tvchinese.net/uploads/tv/hunantv.jpg" group-title="CHINA",  HUNAN TV
 http://183.207.248.71/cntv/live1/hunanstv/HD-2500k-1080P-hunanstv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="http://logok.org/wp-content/uploads/2014/10/Hunan-TV-logo-880x645.png" group-title="CHINA",  湖南卫视高清
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://www.tvchinese.net/uploads/tv/hunantv.jpg" group-title="CHINA",  HUNAN TV
 http://ivi.bupt.edu.cn/hls/hunanhd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/jiangsu_tv.png" group-title="CHINA",  JIANGSU TV
 http://ivi.bupt.edu.cn/hls/jshd.m3u8
@@ -2403,6 +2425,8 @@ http://rr2.dens.tv/s/s50/index2.m3u8
 http://111.40.205.76/PLTV/88888888/224/3221225657/index.m3u8
 
 #EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/ymkt.jpg" group-title="KIDS",  YOU MAN
+http://220.158.149.28:8180/live/TV00000000000000000025@HHZT
+#EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/ymkt.jpg" group-title="KIDS",  YOU MAN
 http://111.40.205.76/PLTV/88888888/224/3221225656/index.m3u8
 #EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/ymkt.jpg" group-title="KIDS",  YOU MAN
 http://117.148.187.37/PLTV/88888888/224/3221226172/index.m3u8
@@ -2427,6 +2451,9 @@ http://117.148.187.37/PLTV/88888888/224/3221226461/index.m3u8
 #EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-language="Chinese" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jiajia-cartoon-cn.png" group-title="KIDS",  JIAJIA CARTOON 
 http://39.134.52.180/PLTV/88888888/224/3221225701/index.m3u8
 
+
+#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-language="Chinese" tvg-logo="https://www.tvchinese.net/uploads/tv/jykt.jpg" group-title="KIDS",  ANIWORLD
+http://220.158.149.28:8180/live/TV00000000000000000020@HHZT
 #EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-language="Chinese" tvg-logo="https://www.tvchinese.net/uploads/tv/jykt.jpg" group-title="KIDS",  ANIWORLD
 http://117.148.187.37/PLTV/88888888/224/3221226190/index.m3u8
 #EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-language="Chinese" tvg-logo="https://www.tvchinese.net/uploads/tv/jykt.jpg" group-title="KIDS",  ANIWORLD
@@ -2700,36 +2727,23 @@ rtmp://ivi.bupt.edu.cn/livetv/startv
 
 
 
-http://220.158.149.28:8180/live/TV00000000000000000019@HHZT
-http://220.158.149.28:8180/live/TV00000000000000000020@HHZT
+
 http://220.158.149.28:8180/live/TV00000000000000000021@HHZT
 http://220.158.149.28:8180/live/TV00000000000000000024@HHZT
-http://220.158.149.28:8180/live/TV00000000000000000025@HHZT
 http://220.158.149.28:8180/live/TV00000000000000000027@HHZT
 http://220.158.149.28:8180/live/TV00000000000000000029@HHZT
 http://220.158.149.28:8180/live/TV00000000000000000030@HHZT
-http://220.158.149.28:8180/live/TV00000000000000000031@HHZT
-http://220.158.149.28:8180/live/TV00000000000000000032@HHZT
 http://220.158.149.28:8180/live/TV00000000000000000034@HHZT
-http://220.158.149.28:8180/live/TV00000000000000000037@HHZT
 http://220.158.149.28:8180/live/TV00000000000000000038@HHZT
-http://220.158.149.28:8180/live/TV00000000000000000045@HHZT
 http://220.158.149.28:8180/live/TV00000000000000000046@HHZT
 http://220.158.149.28:8180/live/TV00000000000000000048@HHZT
 http://220.158.149.28:8180/live/TV00000000000000000051@HHZT
 http://220.158.149.28:8180/live/TV00000000000000000052@HHZT
 http://220.158.149.28:8180/live/TV00000000000000000053@HHZT
 http://220.158.149.28:8180/live/TV00000000000000000054@HHZT
-http://220.158.149.28:8180/live/TV00000000000000000056@HHZT
-http://220.158.149.28:8180/live/TV00000000000000000057@HHZT
 http://220.158.149.28:8180/live/TV00000000000000000058@HHZT
-
-http://220.158.149.28:8180/live/TV00000000000000000061@HHZT
 http://220.158.149.28:8180/live/TV00000000000000000062@HHZT
-http://220.158.149.28:8180/live/TV00000000000000000066@HHZT
-
 http://220.158.149.28:8180/live/TV00000000000000000072@HHZT
-http://220.158.149.28:8180/live/TV00000000000000000073@HHZT
 http://220.158.149.28:8180/live/TV00000000000000000074@HHZT
 http://220.158.149.28:8180/live/TV00000000000000000075@HHZT
 http://220.158.149.28:8180/live/TV00000000000000000077@HHZT
@@ -2738,33 +2752,14 @@ http://220.158.149.28:8180/live/TV00000000000000000079@HHZT
 http://220.158.149.28:8180/live/TV00000000000000000080@HHZT
 http://220.158.149.28:8180/live/TV00000000000000000081@HHZT
 http://220.158.149.28:8180/live/TV00000000000000000083@HHZT
-http://220.158.149.28:8180/live/TV00000000000000000084@HHZT
-http://220.158.149.28:8180/live/TV00000000000000000089@HHZT
-http://220.158.149.28:8180/live/TV00000000000000000090@HHZT
-http://220.158.149.28:8180/live/TV00000000000000000091@HHZT
-
-http://220.158.149.28:8180/live/TV00000000000000000092@HHZT
 
 
 
-http://220.158.149.28:8180/live/TV00000000000000000104@HHZT
 
-http://220.158.149.28:8180/live/TV00000000000000000106@HHZT
-http://220.158.149.28:8180/live/TV00000000000000000111@HHZT
-http://220.158.149.28:8180/live/TV00000000000000000112@HHZT
+
 http://220.158.149.28:8180/live/TV00000000000000000119@HHZT
-http://220.158.149.28:8180/live/TV00000000000000000120@HHZT
-http://220.158.149.28:8180/live/TV00000000000000000121@HHZT
 http://220.158.149.28:8180/live/TV00000000000000000122@HHZT
-http://220.158.149.28:8180/live/TV00000000000000000123@HHZT
-http://220.158.149.28:8180/live/TV00000000000000000124@HHZT
-http://220.158.149.28:8180/live/TV00000000000000000161@HHZT
-http://220.158.149.28:8180/live/TV00000000000000000162@HHZT
 http://220.158.149.28:8180/live/TV00000000000000000166@HHZT
-http://220.158.149.28:8180/live/TV00000000000000000167@HHZT
-http://220.158.149.28:8180/live/TV00000000000000000168@HHZT
-http://220.158.149.28:8180/live/TV00000000000000000169@HHZT
-http://220.158.149.28:8180/live/TV00000000000000000170@HHZT
 
 
 
@@ -2793,22 +2788,7 @@ http://219.153.252.50/PLTV/88888888/224/3221225633/chunklist.m3u8
 http://219.153.252.50/PLTV/88888888/224/3221225642/chunklist.m3u8
 http://219.153.252.50/PLTV/88888888/224/3221225645/chunklist.m3u8
 
-http://39.135.253.153/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221225970/3.m3u8
-http://39.135.253.153/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221225970/3.m3u8
-http://39.135.253.153/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226135/1.m3u8
-http://39.135.253.153/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226136/1.m3u8
-http://39.135.253.153/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226137/1.m3u8
-http://39.135.253.153/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226141/1.m3u8
-http://39.135.253.153/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226183/1.m3u8
 http://39.135.32.24:6610/000000001000/5000000004000006211/index.m3u8?channel-id=bestzb&Contentid=5000000004000006211&livemode=1&stbId=00000250001B50800001B401420BC069
-http://39.135.34.132:8080/000000001000/1000000001000000831/1.m3u8?channel-id=ystenlive
-http://39.135.34.132:8080/000000001000/1000000001000000831/1.m3u8?channel-id=ystenlive
-http://39.135.34.132:8080/000000001000/1000000001000001640/1.m3u8?channel-id=ystenlive
-http://39.135.34.132:8080/000000001000/1000000001000003736/1.m3u8?channel-id=ystenlive
-http://39.135.34.132:8080/000000001000/1000000001000003736/1.m3u8?channel-id=ystenlive
-http://39.135.34.132:8080/000000001000/1000000001000004684/1.m3u8?channel-id=ystenlive
-http://39.135.34.132:8080/000000001000/1000000001000004684/1.m3u8?channel-id=ystenlive
-http://39.135.34.132:8080/000000001000/1000000001000004794/1.m3u8?channel-id=ystenlive
 
 
 
