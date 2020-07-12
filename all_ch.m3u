@@ -2790,61 +2790,11 @@ http://219.153.252.50/PLTV/88888888/224/3221225645/chunklist.m3u8
 
 http://39.135.32.24:6610/000000001000/5000000004000006211/index.m3u8?channel-id=bestzb&Contentid=5000000004000006211&livemode=1&stbId=00000250001B50800001B401420BC069
 
-rtmp://61.43.246.223/rtplive/cctv_913.stream
-rtmp://61.43.246.225/rtplive/cctv_11.stream
-rtmp://61.43.246.225/rtplive/cctv_12.stream
-rtmp://61.43.246.225/rtplive/cctv_13.stream
-rtmp://61.43.246.225/rtplive/cctv_15.stream
-rtmp://61.43.246.225/rtplive/cctv_16.stream
-rtmp://61.43.246.225/rtplive/cctv_17.stream
-rtmp://61.43.246.225/rtplive/cctv_18.stream
-rtmp://61.43.246.225/rtplive/cctv_19.stream
-rtmp://61.43.246.225/rtplive/cctv_23.stream
-rtmp://61.43.246.225/rtplive/cctv_24.stream
-rtmp://61.43.246.225/rtplive/cctv_25.stream
-rtmp://61.43.246.225/rtplive/cctv_26.stream
-rtmp://61.43.246.225/rtplive/cctv_40.stream
-rtmp://61.43.246.225/rtplive/cctv_47.stream
-rtmp://61.43.246.225/rtplive/cctv_48.stream
-rtmp://61.43.246.225/rtplive/cctv_49.stream
-rtmp://61.43.246.225/rtplive/cctv_53.stream
-rtmp://61.43.246.225/rtplive/cctv_62.stream
-rtmp://61.43.246.225/rtplive/cctv_64.stream
-rtmp://61.43.246.225/rtplive/cctv_65.stream
-rtmp://61.43.246.225/rtplive/cctv_66.stream
-rtmp://61.43.246.225/rtplive/cctv_79.stream
-rtmp://61.43.246.225/rtplive/cctv_88.stream
-rtmp://61.43.246.225/rtplive/cctv_89.stream
-rtmp://61.43.246.225/rtplive/cctv_90.stream
-rtmp://61.43.246.225/rtplive/cctv_91.stream
-rtmp://61.43.246.225/rtplive/cctv_92.stream
-rtmp://61.43.246.225/rtplive/cctv_93.stream
-rtmp://61.43.246.225/rtplive/cctv_94.stream
-rtmp://61.43.246.226/rtplive/cctv_105.stream
-rtmp://61.43.246.226/rtplive/cctv_135.stream
-rtmp://61.43.246.226/rtplive/cctv_140.stream
-rtmp://61.43.246.226/rtplive/cctv_208.stream
-rtmp://61.43.246.227/rtplive/cctv_290.stream
-rtmp://61.43.246.227/rtplive/cctv_306.stream
-rtmp://61.43.246.227/rtplive/cctv_309.stream
-rtmp://61.43.246.227/rtplive/cctv_622.stream
-rtmp://61.43.246.227/rtplive/cctv_628.stream
-rtmp://61.43.246.227/rtplive/cctv_630.stream
-rtmp://61.43.246.227/rtplive/cctv_631.stream
-rtmp://61.43.246.227/rtplive/cctv_724.stream
-
-https://stmw.rthk.hk/vod/_definst_/tv/2017/smil:ARTSCT2017M02500018/chunklist_w1435594854_b2000000.m3u8
-https://stmw.rthk.hk/vod/_definst_/tv/2017/smil:ARTSCT2017M02500022/chunklist_w1438839000_b2000000.m3u8
-https://stmw.rthk.hk/vod/_definst_/tv/2017/smil:ARTSCT2017M02500023/chunklist_w1808248360_b2000000.m3u8
-https://stmw.rthk.hk/vod/_definst_/tv/2017/smil:ARTSCT2017M02500024/chunklist_w1350978952_b2000000.m3u8
-https://stmw.rthk.hk/vod/_definst_/tv/2018/smil:ARTSCT2018M03100013/chunklist_w1228040362_b2000000.m3u8
 
 
-https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_hls/tvNMovies-avc1_2499968=10-mp4a_66000_eng=2.m3u8
-https://liveanevia.mncnow.id/live/eds/tvN/sa_hls/tvN-avc1_2499968=7-mp4a_98800_eng=5.m3u8
-https://vcdnjt.useetv.com/joss/15/tvn/chunklist_w869027199_b1344100_sleng.m3u8?enc=Qn8ONlvpONj0FqGe0wtKpA&exp=1584798633
-https://vcdnjt.useetv.com/joss/15/tvnmovies/chunklist_w692462726_b1344100_sleng.m3u8?enc=ioEHJcDiQxGmX4rZRyy2QQ&exp=1584798661
-
+https://livecdn.fptplay.net/hda/btv1_2000.stream/chunklist.m3u8?token=eyJzZXJ2ZXJfdGltZSI6IDE1ODUxOTIzODEsICJyZXNvdXJjZV9pZCI6ICJidHYxXzIwMDAiLCAicGFydG5lcl9pZCI6ICI1NzEzYmU4YzA3ZTQyZWQ0YjkxNjM4OGUiLCAidG9rZW4iOiAiZDIzOTE4Njk0MjExZjZjZDE3NjlkOTJlYWMyMzAzNGQiLCAidmFsaWRfbWludXRlcyI6IDE1ODUyNzg3ODEsICJybWlwIjogIjI3Ljc5LjE5NC41NyJ9
+https://livecdn.fptplay.net/hda/btv2_2000.stream/chunklist.m3u8?token=eyJzZXJ2ZXJfdGltZSI6IDE1ODUzNTk3MDcsICJyZXNvdXJjZV9pZCI6ICJidHYyXzIwMDAiLCAicGFydG5lcl9pZCI6ICI1NzEzYmU4YzA3ZTQyZWQ0YjkxNjM4OGUiLCAidG9rZW4iOiAiNmU4Yzc3NDgyZGFmMzE3ZjBhOTExNGIzNGM2YmRkZGEiLCAidmFsaWRfbWludXRlcyI6IDE1ODU0NDYxMDcsICJybWlwIjogIjEwMC43NS4xMi4xNDQifQ==
+https://livecdn.fptplay.net/hda/btv4hd_2000.stream/chunklist.m3u8?token=eyJzZXJ2ZXJfdGltZSI6IDE1ODUxOTMwNjQsICJyZXNvdXJjZV9pZCI6ICJidHY0aGRfMjAwMCIsICJwYXJ0bmVyX2lkIjogIjU3MTNiZThjMDdlNDJlZDRiOTE2Mzg4ZSIsICJ0b2tlbiI6ICJjMmUyZTIxNGQ0MjAzNTBkMmI5YmYyNjlkODJiMWEwOSIsICJ2YWxpZF9taW51dGVzIjogMTU4NTI3OTQ2NCwgInJtaXAiOiAiMjcuNzkuMTk0LjU3In0=
 
 
 #EXTINF:0,[THE END]
