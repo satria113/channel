@@ -2950,32 +2950,16 @@ http://95.170.215.120:80/hls/m3u8/Sky-Sport-Pre-L.m3u8
 
 
 https://stitcher.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=3fab7580-8b86-11e8-a44b-996a399dacd8&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
-http://linux-app.tv:6204/60400655844704/32991126026152/28294
-http://linux-app.tv:6204/60400655844704/32991126026152/33270
-http://linux-app.tv:6204/60400655844704/32991126026152/33350
-http://linux-app.tv:6204/60400655844704/32991126026152/33351
-http://linux-app.tv:6204/60400655844704/32991126026152/33352
-http://linux-app.tv:6204/60400655844704/32991126026152/33353
-http://linux-app.tv:6204/60400655844704/32991126026152/33600
-http://linux-app.tv:6204/60400655844704/32991126026152/33688
-http://linux-app.tv:6204/60400655844704/32991126026152/33689
-http://linux-app.tv:6204/60400655844704/32991126026152/33690
-http://linux-app.tv:6204/60400655844704/32991126026152/33692
-http://linux-app.tv:6204/60400655844704/32991126026152/33693
-http://linux-app.tv:6204/60400655844704/32991126026152/33694
-http://linux-app.tv:6204/60400655844704/32991126026152/33695
-http://linux-app.tv:6204/60400655844704/32991126026152/33696
-http://linux-app.tv:6204/60400655844704/32991126026152/33697
-http://linux-app.tv:6204/60400655844704/32991126026152/33698
-http://linux-app.tv:6204/60400655844704/32991126026152/33699
-http://linux-app.tv:6204/60400655844704/32991126026152/33700
-http://linux-app.tv:6204/60400655844704/32991126026152/33701
-http://linux-app.tv:6204/60400655844704/32991126026152/33702
-http://linux-app.tv:6204/60400655844704/32991126026152/33703
-http://linux-app.tv:6204/60400655844704/32991126026152/33704
-http://linux-app.tv:6204/60400655844704/32991126026152/33705
-http://linux-app.tv:6204/60400655844704/32991126026152/36360
 
+
+https://cdn-laos.workpoint.news/sd-skynetsports1_480/index.m3u8
+https://cdn-laos.workpoint.news/sd-skynetsports2_480/index.m3u8
+https://cdn-laos.workpoint.news/sd-skynetsports3_480/index.m3u8
+https://cdn-laos.workpoint.news/sd-skynetsports4_480/index.m3u8
+https://cdn-laos.workpoint.news/sd-skynetsports5_480/index.m3u8
+https://cdn-laos.workpoint.news/sd-skynetsports6_480/index.m3u8
+https://cdn-laos.workpoint.news/sd-skynetsportshd_720/index.m3u8
+https://cdn-laos.workpoint.news/sd-skynetsportsplus_480/index.m3u8
 
 
 #EXTINF:0,[THE END]
