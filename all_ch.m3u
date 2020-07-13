@@ -2947,10 +2947,10 @@ http://101.71.255.229:6610/zjhs/2/10129/index.m3u8?virtualDomain=zjhs.live_hls.z
 http://101.71.255.229:6610/zjhs/2/10130/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 
 http://95.170.215.120:80/hls/m3u8/Sky-Sport-Pre-L.m3u8
-http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/153.m3u8
+
 
 https://stitcher.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=3fab7580-8b86-11e8-a44b-996a399dacd8&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+http://183.251.61.207/PLTV/88888888/224/3221225922/index.m3u8
 
 
 #EXTINF:0,[THE END]
