@@ -2952,10 +2952,16 @@ http://95.170.215.120:80/hls/m3u8/Sky-Sport-Pre-L.m3u8
 https://stitcher.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=3fab7580-8b86-11e8-a44b-996a399dacd8&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 
 
-http://113.22.131.193:4022/udp/225.1.1.125:30120
-http://113.22.131.193:4022/udp/225.1.1.128:30120
-http://113.22.131.193:4022/udp/225.1.1.131:30120
-http://113.22.131.193:4022/udp/225.1.1.139:30120
+https://cdn-laos.workpoint.news/epl-bein1_720/index.m3u8
+https://cdn-laos.workpoint.news/epl-bein2_720/index.m3u8
+https://cdn-laos.workpoint.news/epl-x1_720/index.m3u8
+https://cdn-laos.workpoint.news/epl-x2_720/index.m3u8
+https://cdn-laos.workpoint.news/epl-x3_720/index.m3u8
+https://cdn-laos.workpoint.news/epl-x4_720/index.m3u8
+https://cdn-laos.workpoint.news/epl-x5_720/index.m3u8
+https://cdn-laos.workpoint.news/hd-amarin_720/index.m3u8
+https://cdn-laos.workpoint.news/hd-asian_720/index.m3u8
+https://cdn-laos.workpoint.news/hd-axn_720/index.m3u8
 
 
 #EXTINF:0,[THE END]
