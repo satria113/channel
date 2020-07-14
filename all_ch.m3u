@@ -986,15 +986,19 @@ https://epgstatic.sky.com/epgdata/1.0/paimage/66/0/lisa/3.1.1/linear/prog/3bd97c
 http://104.250.154.42:8080/ZZ_hbo/ZZ_hbo.m3u8 
 http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 
-https://tv4.chang55.com:446/live2/tv4ch37.stream/chunks.m3u8
-https://tv4.chang55.com:446/live2/tv4ch41.stream/playlist.m3u8
-https://tv4.chang55.com:446/live2/tv4ch42.stream/chunks.m3u8
-https://tv4.chang55.com:446/live2/tv4ch42.stream/chunks.m3u8
-https://tv4.chang55.com:446/live2/tv4ch43.stream/chunks.m3u8
-https://tv4.chang55.com:446/live2/tv4ch46.stream/chunks.m3u8
-https://tv4.chang55.com:446/live2/tv4ch47.stream/chunks.m3u8
-https://tv4.chang55.com:446/live2/tv4ch50.stream/playlist.m3u8
-https://tv4.chang55.com:446/live2/tv4ch79.stream/playlist.m3u8
-https://tv4.chang55.com:446/live2/tv4ch81.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2018/11/skynetsporthd.jpg" group-title="SPORT",  SKYNET SPORT HD
+https://tv4.chang55.com:446/live2/tv4ch01.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.skynetdth.com/facebook/snchannels/channel_logo/Sport1.png" group-title="SPORT",  SKYNET SPORT-1
+https://tv4.chang55.com:446/live2/tv4ch02.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.skynetdth.com/facebook/snchannels/channel_logo/Sport2.png" group-title="SPORT",  SKYNET SPORT-2
+https://tv4.chang55.com:446/live2/tv4ch03.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2018/11/skynetsport3.jpg" group-title="SPORT",  SKYNET SPORT-3
+https://tv4.chang55.com:446/live2/tv4ch04.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2018/11/skynetsport4.jpg" group-title="SPORT",  SKYNET SPORT-4
+https://tv4.chang55.com:446/live2/tv4ch05.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2018/11/skynetsport5.jpg" group-title="SPORT",  SKYNET SPORT-5
+https://tv4.chang55.com:446/live2/tv4ch06.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2018/11/skynetsport6.jpg" group-title="SPORT",  SKYNET SPORT-6
+https://tv4.chang55.com:446/live2/tv4ch07.stream/chunks.m3u8
 
 #EXTINF:0,[THE END]
