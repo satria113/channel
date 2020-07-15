@@ -159,8 +159,32 @@ https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/SPS/SPE_425x243.png" tvg-name="FOX SPORT 1"  group-title="SPORT",  FOX SPORT 506 HD
 http://45.58.62.92:8080
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WWE_Logo.svg" group-title="SPORT",  WWE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="SPORT",  BEIN SPORT-1	
+https://tv4.chang55.com:446/live2/tv4ch36.stream/chunks.m3u8	
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="SPORT",  BEIN SPORT-2	
+https://tv4.chang55.com:446/live2/tv4ch73.stream/chunks.m3u8	
+#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/06/Eurosport_logo_blue_background.png" group-title="SPORT",  EURO SPORT	
+https://tv4.chang55.com:446/live2/tv4ch45.stream/chunks.m3u8	
+#EXTINF:-1 tvg-logo="https://images-platform.99static.com/VPnimt3Z2e9wM8IgU8a2lbkDoMM=/500x500/top/smart/99designs-contests-attachments/8/8473/attachment_8473873" group-title="SPORT",  ROH WRESTLING	
+https://tv4.chang55.com:446/live2/tv4ch96.stream/chunks.m3u8
+#EXTINF:-1 logo="https://cdn.bleacherreport.net/images/team_logos/328x328/wwe.png" group-title="SPORT",  WWE
 http://cdnak10.cast4u.info/channels/4/10804.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/GINX_Esports_TV_Logo.png" group-title="SPORT",  GINX ESPORT TV	
+https://tv4.chang55.com:446/live2/tv4ch89.stream/chunks.m3u8	
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2018/11/skynetsporthd.jpg" group-title="SPORT",  SKYNET SPORT HD	
+https://tv4.chang55.com:446/live2/tv4ch01.stream/chunks.m3u8	
+#EXTINF:-1 tvg-logo="https://www.skynetdth.com/facebook/snchannels/channel_logo/Sport1.png" group-title="SPORT",  SKYNET SPORT-1	
+https://tv4.chang55.com:446/live2/tv4ch02.stream/chunks.m3u8	
+#EXTINF:-1 tvg-logo="https://www.skynetdth.com/facebook/snchannels/channel_logo/Sport2.png" group-title="SPORT",  SKYNET SPORT-2	
+https://tv4.chang55.com:446/live2/tv4ch03.stream/chunks.m3u8	
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2018/11/skynetsport3.jpg" group-title="SPORT",  SKYNET SPORT-3	
+https://tv4.chang55.com:446/live2/tv4ch04.stream/chunks.m3u8	
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2018/11/skynetsport4.jpg" group-title="SPORT",  SKYNET SPORT-4	
+https://tv4.chang55.com:446/live2/tv4ch05.stream/chunks.m3u8	
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2018/11/skynetsport5.jpg" group-title="SPORT",  SKYNET SPORT-5	
+https://tv4.chang55.com:446/live2/tv4ch06.stream/chunks.m3u8	
+#EXTINF:-1 tvg-logo="https://www.we-play.tv/wp-content/uploads/2018/11/skynetsport6.jpg" group-title="SPORT",  SKYNET SPORT-6	
+https://tv4.chang55.com:446/live2/tv4ch07.stream/chunks.m3u8	
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://photo.sofun.tw/2013/11/STAR-SPORTS-LOGO.jpg" tvg-country="HK" tvg-url="" group-title="SPORT",  STAR SPORTS
 rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/wB9CkPG.jpg" group-title="SPORT",  FIGHT SPORTS
@@ -173,18 +197,8 @@ http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/
 http://210.210.155.35/uq2663/h/h05/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/wB9CkPG.jpg" group-title="SPORT",  FIGHT SPORTS
 http://rr.dens.tv/h/h05/index.m3u8
-#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b5/Real_Madrid_TV_HD.png/revision/latest/scale-to-width-down/200?cb=20170103061913", group-title="SPORT",  REAL MADRID TV
-https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8?sd=10&rebase=on
-#EXTINF:0 group-title="SPORT",  REDBULL TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 tvg-logo="https://www.sportsmax.tv/images/SportsMax_Flat_Colour.png" group-title="SPORT",  SPORTSMAX SD
-http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
 #EXTINF:-1 tvg-logo="https://superyacht.tv/bundles/app/img/logo_vertical.png" group-title="SPORT",  SUPERYATCH TV
 http://cdn.mobibase.com/hls/733/258_5000k/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img.rasset.ie/00025bb4-800.jpg" group-title="SPORT",  SENTATA SPORT
-http://ott-cdn.ucom.am/s81/03.m3u8
-#EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/6/6961.1508052177.png" group-title="SPORT", EGG NETWORK HD ID
-http://rr.dens.tv/h/h22/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://pic.pimg.tw/sportcast/d28525d04fd7be954e32f9f0b344ee93_n.png" tvg-country="TW" tvg-url="" group-title="SPORT",  博斯魅力
 https://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
 
@@ -1058,6 +1072,8 @@ https://tv4.chang55.com:446/live2/tv4ch43.stream/chunks.m3u8
 https://tv4.chang55.com:446/live2/tv4ch44.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/8c23b890-f972-11e9-9d60-a7e46cdf4330_320.png" group-title="SPORT",  EURO SPORT
 https://tv4.chang55.com:446/live2/tv4ch45.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/8c23b890-f972-11e9-9d60-a7e46cdf4330_320.png" group-title="SPORT",  EURO SPORT
+https://tv4.chang55.com:446/live2/tv4ch80.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/8c23b890-f972-11e9-9d60-a7e46cdf4330_320.png" group-title="SPORT",  SKYNET SPORT+
 https://tv4.chang55.com:446/live2/tv4ch46.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/8c23b890-f972-11e9-9d60-a7e46cdf4330_320.png" group-title="SPORT",  HBO RED
@@ -1079,8 +1095,7 @@ https://tv4.chang55.com:446/live2/tv4ch77.stream/chunks.m3u8
 https://tv4.chang55.com:446/live2/tv4ch78.stream/chunks.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/8c23b890-f972-11e9-9d60-a7e46cdf4330_320.png" group-title="SPORT",  EURO SPORT
-https://tv4.chang55.com:446/live2/tv4ch80.stream/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/8c23b890-f972-11e9-9d60-a7e46cdf4330_320.png" group-title="SPORT",  THRILL
 https://tv4.chang55.com:446/live2/tv4ch87.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/8c23b890-f972-11e9-9d60-a7e46cdf4330_320.png" group-title="SPORT",  WB
@@ -1143,6 +1158,6 @@ https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_7
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/8c23b890-f972-11e9-9d60-a7e46cdf4330_320.png" group-title="SPORT",  FOX BUSINESS
 http://foxnewsuni-f.akamaihd.net/i/FNCGOPREV_40220@40220/master.m3u8
-
+https://vignette.wikia.nocookie.net/logopedia/images/7/70/REDBYHBO.png/revision/latest/scale-to-width-down/250?cb=20160516085732
 https://crownmediaingesttest.akamaized.net/hls/live/567739/cm/master.m3u8?hdnts=exp=3085179895~acl=/*~hmac=0eb6c6e77a672ed1f4816b69d2c74a057302f23f7b74ec74070b94f6919cb935
 #EXTINF:0,[THE END]
