@@ -150,6 +150,8 @@ http://rr2.dens.tv/s/s26/index2.m3u8
 https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/48/RRI_NET.png" group-title="NEWS",  RRI NET
 http://36.89.47.217:11935/rrinet/live/index.m3u8
+#EXTINF:-1  tvg-logo="https://seeklogo.net/wp-content/uploads/2016/07/Reuters-logo-preview-400x400.png" group-title="NEWS",  REUTERS
+http://220.158.149.28:8180/live/TV00000000000000000034@HHZT
 
 #EXTINF:0 type="stream" channelId="1328" group-title="SPORT" logo="http://img.hplus.com.vn/355x200/poster/2019/08/16/721988-FOXsport.png",  FOX SPORT
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
@@ -358,9 +360,11 @@ http://101.71.255.229:6610/zjhs/2/10001/index.m3u8?virtualDomain=zjhs.live_hls.z
 http://101.71.255.229:6610/zjhs/2/10002/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/anhuitv.jpg" group-title="CHINA",  ANHUI TV
 http://101.71.255.229:6610/zjhs/2/10003/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/beijingtv.jpg" group-title="CHINA",  BEIJING TV
+#EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/beijingtv.jpg" group-title="CHINA",  BTV
+http://220.158.149.28:8180/live/TV00000000000000000058@HHZT
+#EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/beijingtv.jpg" group-title="CHINA",  BTV
 http://101.71.255.229:6610/zjhs/2/10004/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/beijingtv.jpg" group-title="CHINA",  BEIJING TV
+#EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/beijingtv.jpg" group-title="CHINA",  BTV
 http://101.71.255.229:6610/zjhs/2/10005/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/bingtuantv.jpg" group-title="CHINA",  BINGTUAN TV
 http://101.71.255.229:6610/zjhs/2/10006/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
@@ -377,6 +381,8 @@ http://101.71.255.229:6610/zjhs/2/10012/index.m3u8?virtualDomain=zjhs.live_hls.z
 #EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/guangdongtv.jpg" group-title="CHINA",  GUANG DONG TV
 http://101.71.255.229:6610/zjhs/2/10013/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/guangxitv.jpg" group-title="CHINA",  GUANGXI TV
+http://220.158.149.28:8180/live/TV00000000000000000021@HHZT
+#EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/guangxitv.jpg" group-title="CHINA",  GUANGXI TV
 http://101.71.255.229:6610/zjhs/2/10014/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/fujiantv.jpg" group-title="CHINA",  ?
 http://101.71.255.229:6610/zjhs/2/10015/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
@@ -387,10 +393,13 @@ http://101.71.255.229:6610/zjhs/2/10017/index.m3u8?virtualDomain=zjhs.live_hls.z
 #EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/henantv.jpg" group-title="CHINA",  HENAN TV
 http://101.71.255.229:6610/zjhs/2/10018/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/heilongjiangtv.jpg" group-title="CHINA",  HEILONG JIANG TV
+http://220.158.149.28:8180/live/TV00000000000000000046@HHZT
+#EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/heilongjiangtv.jpg" group-title="CHINA",  HEILONG JIANG TV
 http://101.71.255.229:6610/zjhs/2/10019/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/heilongjiangtv.jpg" group-title="CHINA",  HEILONG JIANG TV
 http://101.71.255.229:6610/zjhs/2/10020/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-
+#EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/hubeitv.jpg" group-title="CHINA",  HUBEI TV
+http://220.158.149.28:8180/live/TV00000000000000000027@HHZT
 #EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/hubeitv.jpg" group-title="CHINA",  HUBEI TV
 http://101.71.255.229:6610/zjhs/2/10021/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/hubeitv.jpg" group-title="CHINA",  HUBEI TV
@@ -404,6 +413,8 @@ http://101.71.255.229:6610/zjhs/2/10025/index.m3u8?virtualDomain=zjhs.live_hls.z
 #EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/guangdongtv.jpg" group-title="CHINA",  GUANG DONG TV
 http://101.71.255.229:6610/zjhs/2/10026/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/jiangsutv.jpg" group-title="CHINA",  JIANGSU TV
+http://220.158.149.28:8180/live/TV00000000000000000024@HHZT
+#EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/jiangsutv.jpg" group-title="CHINA",  JIANGSU TV
 http://101.71.255.229:6610/zjhs/2/10027/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/jiangsutv.jpg" group-title="CHINA",  JIANGSU TV
 http://101.71.255.229:6610/zjhs/2/10028/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
@@ -412,18 +423,11 @@ http://101.71.255.229:6610/zjhs/2/10029/index.m3u8?virtualDomain=zjhs.live_hls.z
 #EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/jykt.jpg" group-title="CHINA",  ANIWORLD TV
 http://101.71.255.229:6610/zjhs/2/10030/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 
-#EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/guangxitv.jpg" group-title="CHINA",  GUANGXI TV
-http://220.158.149.28:8180/live/TV00000000000000000021@HHZT
-#EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/jiangsutv.jpg" group-title="CHINA",  JIANGSU TV
-http://220.158.149.28:8180/live/TV00000000000000000024@HHZT
-#EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/hubeitv.jpg" group-title="CHINA",  HUBEI TV
-http://220.158.149.28:8180/live/TV00000000000000000027@HHZT
+
 #EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/mstv.jpg" group-title="CHINA",  MS TV
 http://220.158.149.28:8180/live/TV00000000000000000029@HHZT
 #EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/mastv.jpg" group-title="CHINA",  MAS TV
 http://220.158.149.28:8180/live/TV00000000000000000030@HHZT
-#EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/heilongjiangtv.jpg" group-title="CHINA",  HEILONG JIANG TV
-http://220.158.149.28:8180/live/TV00000000000000000046@HHZT
 #EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/shanxitv.jpg" group-title="CHINA",  SHANXI TV
 http://220.158.149.28:8180/live/TV00000000000000000048@HHZT
 #EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/sxtvs.jpg" group-title="CHINA",  SHANNXI TV
@@ -432,8 +436,6 @@ http://220.158.149.28:8180/live/TV00000000000000000051@HHZT
 http://220.158.149.28:8180/live/TV00000000000000000052@HHZT
 #EXTINF:-1  tvg-logo="http://www.celltel.co.nz/img/channels/chinese/gansu-tv.png" group-title="CHINA",  GANSU TV
 http://220.158.149.28:8180/live/TV00000000000000000054@HHZT
-#EXTINF:-1  tvg-logo="https://i1.wp.com/cdramabase.com/wp-content/uploads/2018/09/BTV.png?w=820&ssl=1" group-title="CHINA",  BTV DRAMA
-http://220.158.149.28:8180/live/TV00000000000000000058@HHZT
 #EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/suntv.jpg" group-title="CHINA",  SUN TV-HONGKONG
 http://220.158.149.28:8180/live/TV00000000000000000062@HHZT
 #EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/weilaitiyu.jpg" group-title="CHINA",  VIDEOLAND SPORTS-TAIWAN
@@ -441,8 +443,6 @@ http://220.158.149.28:8180/live/TV00000000000000000078@HHZT
 #EXTINF:-1  tvg-logo="https://www.nicepng.com/png/full/218-2180863_tvbs-logo-42-tvbs-asia.png" group-title="CHINA",  TVBS-TAIWAN
 http://220.158.149.28:8180/live/TV00000000000000000079@HHZT
 
-#EXTINF:-1  tvg-logo="https://seeklogo.net/wp-content/uploads/2016/07/Reuters-logo-preview-400x400.png" group-title="CHINA",  REUTERS - NASA
-http://220.158.149.28:8180/live/TV00000000000000000034@HHZT
 
 
 #EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-language="Chinese" tvg-logo="https://www.lyngsat.com/logo/tv/tt/toonmax-tv-cn.png" group-title="KIDS",  TOON MAX
