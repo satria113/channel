@@ -285,8 +285,6 @@ http://210.210.155.35/uq2663/h/h04/index2.m3u8
 http://rr.dens.tv/h/h04/index2.m3u8
 #EXTINF:-1 tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/11/CMW-gold-logo-for-website-loading.png" group-title="MOVIES",  CINEMA WORLD HD
 http://210.210.155.35/uq2663/h/h04/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/fhzwt.jpg" group-title="MOVIES",  PHOENIX CHINESE
-http://220.158.149.28:8180/live/TV00000000000000000067@HHZT
 #EXTINF:-1 tvg-logo="https://www.dens.tv/images/channel-logo/95.jpg" group-title="MOVIES",  MY CINEMA
 http://rr.dens.tv/h/h90/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.dens.tv/images/channel-logo/95.jpg" group-title="MOVIES",  MY CINEMA
