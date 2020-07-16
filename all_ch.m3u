@@ -373,7 +373,9 @@ http://101.71.255.229:6610/zjhs/2/10008/index.m3u8?virtualDomain=zjhs.live_hls.z
 http://101.71.255.229:6610/zjhs/2/10009/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/fujiantv.jpg" group-title="CHINA",  FUJIAN TV
 http://101.71.255.229:6610/zjhs/2/10010/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/fujiantv.jpg" group-title="CHINA",  ?
+#EXTINF:-1  tvg-logo="http://www.celltel.co.nz/img/channels/chinese/gansu-tv.png" group-title="CHINA",  GANSU TV
+http://220.158.149.28:8180/live/TV00000000000000000054@HHZT
+#EXTINF:-1  tvg-logo="http://www.celltel.co.nz/img/channels/chinese/gansu-tv.png" group-title="CHINA",  GANSU TV
 http://101.71.255.229:6610/zjhs/2/10011/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/guangdongtv.jpg" group-title="CHINA",  GUANG DONG TV
 http://101.71.255.229:6610/zjhs/2/10012/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
@@ -383,7 +385,7 @@ http://101.71.255.229:6610/zjhs/2/10013/index.m3u8?virtualDomain=zjhs.live_hls.z
 http://220.158.149.28:8180/live/TV00000000000000000021@HHZT
 #EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/guangxitv.jpg" group-title="CHINA",  GUANGXI TV
 http://101.71.255.229:6610/zjhs/2/10014/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/fujiantv.jpg" group-title="CHINA",  ?
+#EXTINF:-1  tvg-logo="http://www.celltel.co.nz/img/channels/chinese/guizhou-tv.png" group-title="CHINA",  GUIZHOU TV
 http://101.71.255.229:6610/zjhs/2/10015/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 
 
@@ -432,8 +434,7 @@ http://220.158.149.28:8180/live/TV00000000000000000048@HHZT
 http://220.158.149.28:8180/live/TV00000000000000000051@HHZT
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/cc/chongqing-tv-cn.png" group-title="CHINA",  CHONGQING TV
 http://220.158.149.28:8180/live/TV00000000000000000052@HHZT
-#EXTINF:-1  tvg-logo="http://www.celltel.co.nz/img/channels/chinese/gansu-tv.png" group-title="CHINA",  GANSU TV
-http://220.158.149.28:8180/live/TV00000000000000000054@HHZT
+
 #EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/suntv.jpg" group-title="CHINA",  SUN TV-HONGKONG
 http://220.158.149.28:8180/live/TV00000000000000000062@HHZT
 #EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/weilaitiyu.jpg" group-title="CHINA",  VIDEOLAND SPORTS-TAIWAN
