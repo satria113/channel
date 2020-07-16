@@ -412,6 +412,38 @@ http://101.71.255.229:6610/zjhs/2/10029/index.m3u8?virtualDomain=zjhs.live_hls.z
 #EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/jykt.jpg" group-title="CHINA",  ANIWORLD TV
 http://101.71.255.229:6610/zjhs/2/10030/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 
+#EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/guangxitv.jpg" group-title="CHINA",  GUANGXI TV
+http://220.158.149.28:8180/live/TV00000000000000000021@HHZT
+#EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/jiangsutv.jpg" group-title="CHINA",  JIANGSU TV
+http://220.158.149.28:8180/live/TV00000000000000000024@HHZT
+#EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/hubeitv.jpg" group-title="CHINA",  HUBEI TV
+http://220.158.149.28:8180/live/TV00000000000000000027@HHZT
+#EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/mstv.jpg" group-title="CHINA",  MS TV
+http://220.158.149.28:8180/live/TV00000000000000000029@HHZT
+#EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/mastv.jpg" group-title="CHINA",  MAS TV
+http://220.158.149.28:8180/live/TV00000000000000000030@HHZT
+#EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/heilongjiangtv.jpg" group-title="CHINA",  HEILONG JIANG TV
+http://220.158.149.28:8180/live/TV00000000000000000046@HHZT
+#EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/shanxitv.jpg" group-title="CHINA",  SHANXI TV
+http://220.158.149.28:8180/live/TV00000000000000000048@HHZT
+#EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/sxtvs.jpg" group-title="CHINA",  SHANNXI TV
+http://220.158.149.28:8180/live/TV00000000000000000051@HHZT
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/cc/chongqing-tv-cn.png" group-title="CHINA",  CHONGQING TV
+http://220.158.149.28:8180/live/TV00000000000000000052@HHZT
+#EXTINF:-1  tvg-logo="http://www.celltel.co.nz/img/channels/chinese/gansu-tv.png" group-title="CHINA",  GANSU TV
+http://220.158.149.28:8180/live/TV00000000000000000054@HHZT
+#EXTINF:-1  tvg-logo="https://i1.wp.com/cdramabase.com/wp-content/uploads/2018/09/BTV.png?w=820&ssl=1" group-title="CHINA",  BTV DRAMA
+http://220.158.149.28:8180/live/TV00000000000000000058@HHZT
+#EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/suntv.jpg" group-title="CHINA",  SUN TV-HONGKONG
+http://220.158.149.28:8180/live/TV00000000000000000062@HHZT
+#EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/weilaitiyu.jpg" group-title="CHINA",  VIDEOLAND SPORTS-TAIWAN
+http://220.158.149.28:8180/live/TV00000000000000000078@HHZT
+#EXTINF:-1  tvg-logo="https://www.nicepng.com/png/full/218-2180863_tvbs-logo-42-tvbs-asia.png" group-title="CHINA",  TVBS-TAIWAN
+http://220.158.149.28:8180/live/TV00000000000000000079@HHZT
+
+#EXTINF:-1  tvg-logo="https://seeklogo.net/wp-content/uploads/2016/07/Reuters-logo-preview-400x400.png" group-title="CHINA",  REUTERS - NASA
+http://220.158.149.28:8180/live/TV00000000000000000034@HHZT
+
 
 #EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-language="Chinese" tvg-logo="https://www.lyngsat.com/logo/tv/tt/toonmax-tv-cn.png" group-title="KIDS",  TOON MAX
 http://210.210.155.35/qwr9ew/s/s50/index2.m3u8
@@ -726,38 +758,17 @@ rtmp://ivi.bupt.edu.cn/livetv/startv
 
 
 
-http://220.158.149.28:8180/live/TV00000000000000000021@HHZT
-http://220.158.149.28:8180/live/TV00000000000000000024@HHZT
-http://220.158.149.28:8180/live/TV00000000000000000027@HHZT
-http://220.158.149.28:8180/live/TV00000000000000000029@HHZT
-http://220.158.149.28:8180/live/TV00000000000000000030@HHZT
-http://220.158.149.28:8180/live/TV00000000000000000034@HHZT
-http://220.158.149.28:8180/live/TV00000000000000000038@HHZT
-http://220.158.149.28:8180/live/TV00000000000000000046@HHZT
-http://220.158.149.28:8180/live/TV00000000000000000048@HHZT
-http://220.158.149.28:8180/live/TV00000000000000000051@HHZT
-http://220.158.149.28:8180/live/TV00000000000000000052@HHZT
+
 http://220.158.149.28:8180/live/TV00000000000000000053@HHZT
-http://220.158.149.28:8180/live/TV00000000000000000054@HHZT
-http://220.158.149.28:8180/live/TV00000000000000000058@HHZT
-http://220.158.149.28:8180/live/TV00000000000000000062@HHZT
 http://220.158.149.28:8180/live/TV00000000000000000072@HHZT
 http://220.158.149.28:8180/live/TV00000000000000000074@HHZT
 http://220.158.149.28:8180/live/TV00000000000000000075@HHZT
 http://220.158.149.28:8180/live/TV00000000000000000077@HHZT
-http://220.158.149.28:8180/live/TV00000000000000000078@HHZT
-http://220.158.149.28:8180/live/TV00000000000000000079@HHZT
 http://220.158.149.28:8180/live/TV00000000000000000080@HHZT
 http://220.158.149.28:8180/live/TV00000000000000000081@HHZT
 http://220.158.149.28:8180/live/TV00000000000000000083@HHZT
-
-
-
-
-
 http://220.158.149.28:8180/live/TV00000000000000000119@HHZT
 http://220.158.149.28:8180/live/TV00000000000000000122@HHZT
-http://220.158.149.28:8180/live/TV00000000000000000166@HHZT
 
 
 
@@ -813,186 +824,7 @@ http://202.107.188.139:5002/utv6_hdcq.m3u8?token=n7iwgnnfulf
 http://202.107.188.149:5002/utv1_hdcq.m3u8?token=qfvuk93170d
 http://202.107.188.149:5002/utv2_hdcq.m3u8?token=f6sto7a0xuf
 
-http://101.71.255.229:6610/zjhs/2/10001/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10002/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10003/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10004/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10005/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10006/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10007/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10008/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10009/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10010/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10011/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10012/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10013/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10014/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10015/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10016/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10017/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10018/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10019/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10020/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10021/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10022/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10023/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10024/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10025/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10026/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10027/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10028/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10029/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10030/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10031/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10032/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10033/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10034/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10035/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10036/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10037/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10038/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10039/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10040/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10041/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10042/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10043/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10044/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10045/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10046/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10047/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10048/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10049/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10050/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10051/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10052/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10053/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10054/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10055/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10056/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10057/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10058/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10059/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10060/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10061/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10062/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10063/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10064/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10065/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10066/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10067/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10068/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10069/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10070/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10071/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10072/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10073/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10074/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10075/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10076/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10077/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10078/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10079/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10080/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10081/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10082/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10083/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10084/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10085/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10086/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10087/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10088/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10089/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10090/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10091/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10092/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10093/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10094/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10095/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10096/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10097/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10098/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10099/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10100/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10101/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10102/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10103/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10104/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10105/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10106/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10107/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10108/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10109/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10110/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10111/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10112/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10113/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10114/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10115/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10116/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10117/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10118/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10119/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10120/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10121/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10122/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10123/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10124/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10125/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10126/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10127/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10128/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10129/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10130/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10131/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10132/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10133/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10134/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10135/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10136/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10137/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10138/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10139/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10140/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10141/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10142/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10143/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10144/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10145/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10146/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10147/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10148/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10149/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10150/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10151/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10152/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10153/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10154/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10155/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10156/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10157/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10158/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10159/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10160/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10161/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10162/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10163/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10164/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10165/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10166/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10167/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10168/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10169/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10170/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10171/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10172/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10173/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10174/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10175/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10176/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10177/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10178/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10179/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-http://101.71.255.229:6610/zjhs/2/10180/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+
 
 http://95.170.215.120:80/hls/m3u8/Sky-Sport-Pre-L.m3u8
 https://stitcher.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=3fab7580-8b86-11e8-a44b-996a399dacd8&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
