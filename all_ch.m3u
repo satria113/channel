@@ -335,6 +335,75 @@ http://112.50.243.12/PLTV/88888888/224/3221225804/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/tv5-monde-logo-300x300.jpg" group-title="MOVIES",  TV 5 MONDE ASIE
 http://210.210.155.35/qwr9ew/s/s24/02.m3u8
 
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://i.imgur.com/BHUh7hq.jpg" group-title="CHINA",  CCTV 1
+http://220.158.149.28:8180/live/TV00000000000000000101@HHZT
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://i.imgur.com/BHUh7hq.jpg" group-title="CHINA",  CCTV 1
+http://220.158.149.28:8180/live/TV00000000000000000071@HHZT
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://i.imgur.com/Rb0mjkC.jpg" group-title="CHINA",  CCTV 2
+http://220.158.149.28:8180/live/TV00000000000000000007@HHZT
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://i.imgur.com/HqScjKW.jpg" group-title="CHINA",  CCTV 3
+http://220.158.149.28:8180/live/TV00000000000000000102@HHZT
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://i.imgur.com/l8PQ7fy.jpg" group-title="CHINA",  CCTV 4
+http://220.158.149.28:8180/live/TV00000000000000000015@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/l8PQ7fy.jpg" group-title="CHINA",  CCTV 4 EUROPE
+https://cctvcnch5ca.v.wscdns.com/live/cctveurope_2/index.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cctv-5-cn.png" group-title="CHINA",  CCTV5
+http://111.40.205.107/PLTV/88888888/224/3221225711/index.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cctv-5-cn.png" group-title="CHINA",  CCTV5
+http://117.148.187.37/PLTV/88888888/224/3221226400/index.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cctv-5-cn.png" group-title="CHINA",  CCTV5
+http://39.135.32.24:6610/000000001000/1000000001000004794/index.m3u8?i
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cctv-5-plus-cn.png" group-title="CHINA",  CCTV5+ HD
+http://111.40.205.87/PLTV/88888888/224/3221225689/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cctv-5-plus-cn.png" group-title="CHINA",  CCTV5+ HD
+http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cctv-5-plus-cn.png" group-title="CHINA",  CCTV5+ HD
+http://183.207.248.71/cntv/live1/hdcctv05plus/hdcctv05plus
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cctv-6-cn.png" group-title="CHINA",  CCTV 6 HD
+http://220.158.149.28:8180/live/TV00000000000000000105@HHZT
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://p2.img.cctvpic.com/uploadimg/2019/07/30/1564461292719129.png" group-title="CHINA",  CCTV 7
+http://112.50.243.8/PLTV/88888888/224/3221225805/1.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://p2.img.cctvpic.com/uploadimg/2019/07/30/1564461292719129.png" group-title="CHINA",  CCTV 7
+http://117.148.187.37/PLTV/88888888/224/3221226122/index.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://p2.img.cctvpic.com/uploadimg/2019/07/30/1564461292719129.png" group-title="CHINA",  CCTV 7
+http://117.148.187.37/PLTV/88888888/224/3221226470/index.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://p2.img.cctvpic.com/uploadimg/2019/07/30/1564461292719129.png" group-title="CHINA",  CCTV 7
+http://117.169.120.140:8080/live/cctv-7/.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://p2.img.cctvpic.com/uploadimg/2019/07/30/1564461292719129.png" group-title="CHINA",  CCTV 7
+http://121.31.30.90:8085/ysten-business/live/cctv-7/1.m3u8
+#EXTINF:-1 tvg-logo="http://p2.img.cctvpic.com/uploadimg/2019/07/30/1564461292719129.png" group-title="CHINA",  CCTV 7
+http://ivi.bupt.edu.cn/hls/cctv7.m3u8
+#EXTINF:-1 tvg-logo="http://p2.img.cctvpic.com/uploadimg/2019/07/30/1564461292719129.png" group-title="CHINA",  CCTV 7
+http://183.207.248.71/cntv/live1/7/cctv-7
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://i.imgur.com/OkLtNrC.jpg" group-title="CHINA",  CCTV 8 HD
+http://220.158.149.28:8180/live/TV00000000000000000103@HHZT
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv9.jpg" group-title="CHINA",  CCTV 9
+http://111.40.205.76/PLTV/88888888/224/3221225734/index.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv9.jpg" group-title="CHINA",  CCTV 9
+http://111.40.205.87/PLTV/88888888/224/3221225734/index.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv9.jpg" group-title="CHINA",  CCTV 9
+http://112.50.243.8/PLTV/88888888/224/3221225820/1.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv9.jpg" group-title="CHINA",  CCTV 9
+http://117.148.187.37/PLTV/88888888/224/3221226156/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv9.jpg" group-title="CHINA",  CCTV 9
+http://ivi.bupt.edu.cn/hls/cctv9.m3u8
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://i.imgur.com/PzNBEcb.jpg" group-title="CHINA",  CCTV 10
+http://220.158.149.28:8180/live/TV00000000000000000009@HHZT
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv11.jpg" group-title="CHINA",  CCTV 11
+http://220.158.149.28:8180/live/TV00000000000000000010@HHZT
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://i.imgur.com/WSRY5Fu.jpg" group-title="CHINA",  CCTV 12
+http://220.158.149.28:8180/live/TV00000000000000000011@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv13.jpg" group-title="CHINA",  CCTV 13
+http://220.158.149.28:8180/live/TV00000000000000000014@HHZT
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://i.imgur.com/USiqg8c.jpg" group-title="CHINA",  CCTV 14
+http://220.158.149.28:8180/live/TV00000000000000000013@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv15.jpg" group-title="CHINA",  CCTV 15
+http://220.158.149.28:8180/live/TV00000000000000000012@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv17.jpg" group-title="CHINA",  CCTV 17
+http://220.158.149.28:8180/live/TV00000000000000000008@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/dvjH5RE.png" group-title="CHINA",  CETV 1 
+http://220.158.149.28:8180/live/TV00000000000000000026@HHZT
+
 EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/fhxgt.jpg" group-title="CHINA",  PHOENIX HONGKONG
 http://220.158.149.28:8180/live/TV00000000000000000068@HHZT
 EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/fhzwt.jpg" group-title="CHINA",  PHOENIX CHINESE
@@ -441,6 +510,7 @@ http://220.158.149.28:8180/live/TV00000000000000000062@HHZT
 http://220.158.149.28:8180/live/TV00000000000000000078@HHZT
 #EXTINF:-1  tvg-logo="https://www.nicepng.com/png/full/218-2180863_tvbs-logo-42-tvbs-asia.png" group-title="CHINA",  TVBS-TAIWAN
 http://220.158.149.28:8180/live/TV00000000000000000079@HHZT
+
 
 
 
