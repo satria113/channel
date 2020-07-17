@@ -428,7 +428,10 @@ http://101.71.255.229:6610/zjhs/2/10048/index.m3u8?virtualDomain=zjhs.live_hls.z
 #EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/zhejiangtv.jpg" group-title="CHINA",  ZHEJIANG TV
 http://220.158.149.28:8180/live/TV00000000000000000045@HHZT
 #EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/zhejiangtv.jpg" group-title="CHINA",  ZHEJIANG TV
+http://101.71.255.229:6610/zjhs/2/10059/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1  tvg-logo="https://ohudong.cztv.com/1/logos/2017/04/12/afd8213d3b193a725ef355b9eb9aaa8c.png" group-title="CHINA",  ZHEJIANG OVERSEAS TV
 http://101.71.255.229:6610/zjhs/2/10033/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+
 #EXTINF:-1  tvg-logo="http://www.celltel.co.nz/img/channels/chinese/sichuan-tv.png" group-title="CHINA",  SICHUAN TV
 http://220.158.149.28:8180/live/TV00000000000000000056@HHZT
 #EXTINF:-1  tvg-logo="http://www.celltel.co.nz/img/channels/chinese/sichuan-tv.png" group-title="CHINA",  SICHUAN TV
@@ -506,6 +509,8 @@ http://101.71.255.229:6610/zjhs/2/10014/index.m3u8?virtualDomain=zjhs.live_hls.z
 http://101.71.255.229:6610/zjhs/2/10015/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/yunnantv.jpg" group-title="CHINA",  YUNNAN TV
 http://220.158.149.28:8180/live/TV00000000000000000023@HHZT
+#EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/yunnantv.jpg" group-title="CHINA",  YUNNAN TV
+http://101.71.255.229:6610/zjhs/2/10054/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/shandongtv.jpg" group-title="CHINA",  SHANDONG TV
 http://220.158.149.28:8180/live/TV00000000000000000047@HHZT
 #EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/shandongtv.jpg" group-title="CHINA",  SHANDONG TV
@@ -581,6 +586,8 @@ http://101.71.255.229:6610/zjhs/2/10037/index.m3u8?virtualDomain=zjhs.live_hls.z
 
 #EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/hainantv.jpg" group-title="CHINA",  ?
 http://101.71.255.229:6610/zjhs/2/10043/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/hainantv.jpg" group-title="CHINA",  ?
+http://101.71.255.229:6610/zjhs/2/10052/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 
 
 
@@ -600,9 +607,13 @@ http://210.210.155.35/qwr9ew/s/s50/index.m3u8
 http://rr2.dens.tv/s/s50/index2.m3u8
 #EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-language="Chinese" tvg-logo="https://www.lyngsat.com/logo/tv/tt/toonmax-tv-cn.png" group-title="KIDS",  TOON MAX
 http://111.40.205.76/PLTV/88888888/224/3221225657/index.m3u8
+#EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-language="Chinese" tvg-logo="https://www.lyngsat.com/logo/tv/tt/toonmax-tv-cn.png" group-title="KIDS",  TOON MAX
+http://101.71.255.229:6610/zjhs/2/10051/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/ymkt.jpg" group-title="KIDS",  YOU MAN
 http://220.158.149.28:8180/live/TV00000000000000000025@HHZT
+#EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/ymkt.jpg" group-title="KIDS",  YOU MAN
+http://101.71.255.229:6610/zjhs/2/10053/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/ymkt.jpg" group-title="KIDS",  YOU MAN
 http://111.40.205.76/PLTV/88888888/224/3221225656/index.m3u8
 #EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/ymkt.jpg" group-title="KIDS",  YOU MAN
