@@ -407,20 +407,28 @@ http://220.158.149.28:8180/live/TV00000000000000000008@HHZT
 http://220.158.149.28:8180/live/TV00000000000000000026@HHZT
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.tvchinese.net/uploads/tv/qinghaitv.jpg" group-title="CHINA",  QINGHAI TV
 http://220.158.149.28:8180/live/TV00000000000000000005@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.tvchinese.net/uploads/tv/qinghaitv.jpg" group-title="CHINA",  QINGHAI TV
+http://101.71.255.229:6610/zjhs/2/10038/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.tvchinese.net/uploads/tv/neimenggutv.jpg" group-title="CHINA",  NEIMENGGU TV
 http://220.158.149.28:8180/live/TV00000000000000000006@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.tvchinese.net/uploads/tv/neimenggutv.jpg" group-title="CHINA",  NEIMENGGU TV
+http://101.71.255.229:6610/zjhs/2/10035/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.parsatv.com/index_files/channels/cgtndoc.png" group-title="CHINA",  CGTN DOCUMENTARY
 http://220.158.149.28:8180/live/TV00000000000000000018@HHZT
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.tvchinese.net/uploads/tv/ningxiatv.jpg" group-title="CHINA",  NINGXIA TV
 http://220.158.149.28:8180/live/TV00000000000000000050@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.tvchinese.net/uploads/tv/ningxiatv.jpg" group-title="CHINA",  NINGXIA TV
+http://101.71.255.229:6610/zjhs/2/10036/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.tvchinese.net/uploads/tv/tianjintv.jpg" group-title="CHINA",  TIANJIN TV
 http://220.158.149.28:8180/live/TV00000000000000000059@HHZT
 #EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/zhejiangtv.jpg" group-title="CHINA",  ZHEJIANG TV
 http://220.158.149.28:8180/live/TV00000000000000000045@HHZT
 #EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/zhejiangtv.jpg" group-title="CHINA",  ZHEJIANG TV
+http://101.71.255.229:6610/zjhs/2/10033/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1  tvg-logo="http://www.celltel.co.nz/img/channels/chinese/sichuan-tv.png" group-title="CHINA",  SICHUAN TV
 http://220.158.149.28:8180/live/TV00000000000000000056@HHZT
-#EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/zhejiangtv.jpg" group-title="CHINA",  ZHEJIANG TV
-http://220.158.149.28:8180/live/TV00000000000000000057@HHZT
+
+
 #EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/mstv.jpg" group-title="CHINA",  MS TV
 http://220.158.149.28:8180/live/TV00000000000000000029@HHZT
 #EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/mastv.jpg" group-title="CHINA",  MAS TV
@@ -452,7 +460,8 @@ rtmp://58.200.131.2:1935/livetv/startv
 
 
 
-
+#EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/anhuitv.jpg" group-title="CHINA",  ANHUI TV
+http://220.158.149.28:8180/live/TV00000000000000000057@HHZT
 #EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/anhuitv.jpg" group-title="CHINA",  ANHUI TV
 http://101.71.255.229:6610/zjhs/2/10002/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/anhuitv.jpg" group-title="CHINA",  ANHUI TV
@@ -489,6 +498,10 @@ http://101.71.255.229:6610/zjhs/2/10015/index.m3u8?virtualDomain=zjhs.live_hls.z
 http://220.158.149.28:8180/live/TV00000000000000000023@HHZT
 #EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/shandongtv.jpg" group-title="CHINA",  SHANDONG TV
 http://220.158.149.28:8180/live/TV00000000000000000047@HHZT
+#EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/shandongtv.jpg" group-title="CHINA",  SHANDONG TV
+http://101.71.255.229:6610/zjhs/2/10039/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/shandongtv.jpg" group-title="CHINA",  SHANDONG TV
+http://101.71.255.229:6610/zjhs/2/10040/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/hebeitv.jpg" group-title="CHINA",  HEBEI TV
 http://220.158.149.28:8180/live/TV00000000000000000060@HHZT
 #EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/hebeitv.jpg" group-title="CHINA",  HEBEI TV
@@ -531,6 +544,25 @@ http://101.71.255.229:6610/zjhs/2/10028/index.m3u8?virtualDomain=zjhs.live_hls.z
 http://220.158.149.28:8180/live/TV00000000000000000055@HHZT
 #EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/jiangxitv.jpg" group-title="CHINA",  JIANGXI TV
 http://101.71.255.229:6610/zjhs/2/10029/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+
+#EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/kaku.jpg" group-title="CHINA",  BTV KAKU
+http://101.71.255.229:6610/zjhs/2/10031/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/liaoningtv.jpg" group-title="CHINA",  LIAONING TV
+http://101.71.255.229:6610/zjhs/2/10032/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+
+#EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/hainantv.jpg" group-title="CHINA",  HAINAN TV
+http://101.71.255.229:6610/zjhs/2/10034/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+
+
+
+
+#EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/hainantv.jpg" group-title="CHINA",  ?
+http://101.71.255.229:6610/zjhs/2/10037/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+
+
+
+
+
 
 
 
@@ -578,7 +610,7 @@ http://39.134.52.180/PLTV/88888888/224/3221225701/index.m3u8
 
 #EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-language="Chinese" tvg-logo="https://www.tvchinese.net/uploads/tv/jykt.jpg" group-title="KIDS",  ANIWORLD
 http://220.158.149.28:8180/live/TV00000000000000000020@HHZT
-#EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/jykt.jpg" group-title="CHINA",  ANIWORLD
+#EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/jykt.jpg" group-title="KIDS",  ANIWORLD
 http://101.71.255.229:6610/zjhs/2/10030/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-language="Chinese" tvg-logo="https://www.tvchinese.net/uploads/tv/jykt.jpg" group-title="KIDS",  ANIWORLD
 http://117.148.187.37/PLTV/88888888/224/3221226190/index.m3u8
