@@ -467,6 +467,8 @@ http://220.158.149.28:8180/live/TV00000000000000000008@HHZT
 http://220.158.149.28:8180/live/TV00000000000000000026@HHZT
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.tvchinese.net/uploads/tv/cetv1.jpg" group-title="CHINA",  CETV 1 
 http://101.71.255.229:6610/zjhs/2/10060/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.tvchinese.net/uploads/tv/cetv4.jpg" group-title="CHINA",  CETV 4
+http://101.71.255.229:6610/zjhs/2/10124/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.tvchinese.net/uploads/tv/qinghaitv.jpg" group-title="CHINA",  QINGHAI TV
 http://220.158.149.28:8180/live/TV00000000000000000005@HHZT
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.tvchinese.net/uploads/tv/qinghaitv.jpg" group-title="CHINA",  QINGHAI TV
@@ -685,7 +687,30 @@ http://101.71.255.229:6610/zjhs/2/10108/index.m3u8?virtualDomain=zjhs.live_hls.z
 http://101.71.255.229:6610/zjhs/2/10109/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/hainantv.jpg" group-title="CHINA",  I HOT?
 http://101.71.255.229:6610/zjhs/2/10110/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-
+#EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/hainantv.jpg" group-title="CHINA",  I HOT?
+http://101.71.255.229:6610/zjhs/2/10111/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/hainantv.jpg" group-title="CHINA",  I HOT?
+http://101.71.255.229:6610/zjhs/2/10112/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/hainantv.jpg" group-title="CHINA",  I HOT?
+http://101.71.255.229:6610/zjhs/2/10113/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/hainantv.jpg" group-title="CHINA",  I HOT?
+http://101.71.255.229:6610/zjhs/2/10114/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/hainantv.jpg" group-title="CHINA",  I HOT?
+http://101.71.255.229:6610/zjhs/2/10115/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/hainantv.jpg" group-title="CHINA",  I HOT?
+http://101.71.255.229:6610/zjhs/2/10116/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/hainantv.jpg" group-title="CHINA",  I HOT?
+http://101.71.255.229:6610/zjhs/2/10117/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/hainantv.jpg" group-title="CHINA",  I HOT?
+http://101.71.255.229:6610/zjhs/2/10118/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/hainantv.jpg" group-title="CHINA",  I HOT?
+http://101.71.255.229:6610/zjhs/2/10119/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/hainantv.jpg" group-title="CHINA",  I HOT?
+http://101.71.255.229:6610/zjhs/2/10120/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/hainantv.jpg" group-title="CHINA",  I HOT?
+http://101.71.255.229:6610/zjhs/2/10121/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/hainantv.jpg" group-title="CHINA",  I HOT?
+https://bit.ly/site-mrcrackpro-blogspot-com 
 
 
 
