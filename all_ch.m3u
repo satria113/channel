@@ -421,12 +421,18 @@ http://220.158.149.28:8180/live/TV00000000000000000050@HHZT
 http://101.71.255.229:6610/zjhs/2/10036/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.tvchinese.net/uploads/tv/tianjintv.jpg" group-title="CHINA",  TIANJIN TV
 http://220.158.149.28:8180/live/TV00000000000000000059@HHZT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.tvchinese.net/uploads/tv/tianjintv.jpg" group-title="CHINA",  TIANJIN TV
+http://101.71.255.229:6610/zjhs/2/10047/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.tvchinese.net/uploads/tv/tianjintv.jpg" group-title="CHINA",  TIANJIN TV
+http://101.71.255.229:6610/zjhs/2/10048/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/zhejiangtv.jpg" group-title="CHINA",  ZHEJIANG TV
 http://220.158.149.28:8180/live/TV00000000000000000045@HHZT
 #EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/zhejiangtv.jpg" group-title="CHINA",  ZHEJIANG TV
 http://101.71.255.229:6610/zjhs/2/10033/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1  tvg-logo="http://www.celltel.co.nz/img/channels/chinese/sichuan-tv.png" group-title="CHINA",  SICHUAN TV
 http://220.158.149.28:8180/live/TV00000000000000000056@HHZT
+#EXTINF:-1  tvg-logo="http://www.celltel.co.nz/img/channels/chinese/sichuan-tv.png" group-title="CHINA",  SICHUAN TV
+http://101.71.255.229:6610/zjhs/2/10046/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 
 
 #EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/mstv.jpg" group-title="CHINA",  MS TV
@@ -435,8 +441,12 @@ http://220.158.149.28:8180/live/TV00000000000000000029@HHZT
 http://220.158.149.28:8180/live/TV00000000000000000030@HHZT
 #EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/shanxitv.jpg" group-title="CHINA",  SHANXI TV
 http://220.158.149.28:8180/live/TV00000000000000000048@HHZT
+#EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/shanxitv.jpg" group-title="CHINA",  SHANXI TV
+http://101.71.255.229:6610/zjhs/2/10041/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/sxtvs.jpg" group-title="CHINA",  SHANNXI TV
 http://220.158.149.28:8180/live/TV00000000000000000051@HHZT
+#EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/sxtvs.jpg" group-title="CHINA",  SHANNXI TV
+http://101.71.255.229:6610/zjhs/2/10042/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/cc/chongqing-tv-cn.png" group-title="CHINA",  CHONGQING TV
 http://220.158.149.28:8180/live/TV00000000000000000052@HHZT
 
@@ -552,6 +562,16 @@ http://101.71.255.229:6610/zjhs/2/10032/index.m3u8?virtualDomain=zjhs.live_hls.z
 
 #EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/hainantv.jpg" group-title="CHINA",  HAINAN TV
 http://101.71.255.229:6610/zjhs/2/10034/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/shenzhentv.jpg" group-title="CHINA",  SHENZHEN TV
+http://101.71.255.229:6610/zjhs/2/10044/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/shenzhentv.jpg" group-title="CHINA",  SHENZHEN TV
+http://101.71.255.229:6610/zjhs/2/10045/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/xizangtv.jpg" group-title="CHINA",  XIZANG TV
+http://101.71.255.229:6610/zjhs/2/10049/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/xinjiangtv.jpg" group-title="CHINA",  XINJIANG TV
+http://101.71.255.229:6610/zjhs/2/10050/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+
+
 
 
 
@@ -559,7 +579,8 @@ http://101.71.255.229:6610/zjhs/2/10034/index.m3u8?virtualDomain=zjhs.live_hls.z
 #EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/hainantv.jpg" group-title="CHINA",  ?
 http://101.71.255.229:6610/zjhs/2/10037/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 
-
+#EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/hainantv.jpg" group-title="CHINA",  ?
+http://101.71.255.229:6610/zjhs/2/10043/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 
 
 
