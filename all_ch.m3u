@@ -205,6 +205,7 @@ https://cdn-mxs-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-854
 #EXTINF:0 tvg-logo="https://res-mola01.koicdn.com/image/03fca7cb-5767-4a0c-b830-0e9b6fad7402/image.png" group-title="SPORT",  MOLA SPORT
 https://cdn-mxs-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/06.m3u8?app_type=web&amp;userid=b3f7mpxpok&amp;tkn=L790YNLO7302A63GUC4WDP6F7XLHSY0Z&amp;chname=Mola_Sports_Free_Trial-
 
+https://cdn-laos.workpoint.news/uk-skysports-mix_480/index.m3u8 
 https://cdn-laos.workpoint.news/hd-cinemax_720/index.m3u8
 https://cdn-laos.workpoint.news/hd-food_720/index.m3u8
 https://cdn-laos.workpoint.news/hd-foxcrimeeng_720/index.m3u8
@@ -236,6 +237,7 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8?
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
+
 
 
 #EXTINF:0, group-title="KOREA",  K Plus
