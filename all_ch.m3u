@@ -206,7 +206,6 @@ https://cdn-mxs-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-854
 https://cdn-mxs-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/06.m3u8?app_type=web&amp;userid=b3f7mpxpok&amp;tkn=L790YNLO7302A63GUC4WDP6F7XLHSY0Z&amp;chname=Mola_Sports_Free_Trial-
 
 https://cdn-laos.workpoint.news/hd-cinemax_720/index.m3u8
-https://cdn-laos.workpoint.news/hd-comedycentral_720/index.m3u8
 https://cdn-laos.workpoint.news/hd-food_720/index.m3u8
 https://cdn-laos.workpoint.news/hd-foxcrimeeng_720/index.m3u8
 https://cdn-laos.workpoint.news/hd-foxlife_720/index.m3u8
@@ -215,20 +214,28 @@ https://cdn-laos.workpoint.news/hd-foxsports1_720/index.m3u8
 https://cdn-laos.workpoint.news/hd-fx_720/index.m3u8
 https://cdn-laos.workpoint.news/hd-gmmone_720/index.m3u8
 https://cdn-laos.workpoint.news/hd-golf_720/index.m3u8
-https://cdn-laos.workpoint.news/hd-hboeng_720/index.m3u8
 https://cdn-laos.workpoint.news/hd-history_720/index.m3u8
 https://cdn-laos.workpoint.news/hd-history2_720/index.m3u8
 https://cdn-laos.workpoint.news/hd-kbsworld_720/index.m3u8
-https://cdn-laos.workpoint.news/hd-mcot_720/index.m3u8
-https://cdn-laos.workpoint.news/hd-mono_480/index.m3u8
-https://cdn-laos.workpoint.news/hd-mtvlive_720/index.m3u8
 https://cdn-laos.workpoint.news/hd-natgeo_720/index.m3u8
 https://cdn-laos.workpoint.news/hd-natgeopeople_720/index.m3u8
 https://cdn-laos.workpoint.news/hd-natgeowild_720/index.m3u8
 https://cdn-laos.workpoint.news/hd-nba_720/index.m3u8
 https://cdn-laos.workpoint.news/hd-nfl_720/index.m3u8
-https://cdn-laos.workpoint.news/hd-pptv_720/index.m3u8
 https://cdn-laos.workpoint.news/hd-tennis_720/index.m3u8
+
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CANTHO-SD-ABR/HTV-ABR/CANTHO-SD-720p/playlist.m3u8
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD-720p/playlist.m3u8
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DANANG1-SD-ABR/HTV-ABR/DANANG1-SD-720p/playlist.m3u8
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DAVINCY-HD-1080p/playlist.m3u8
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DONGNAI1-SD-ABR/HTV-ABR/DONGNAI1-SD-720p/playlist.m3u8
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DONGTHAP-SD-ABR/HTV-ABR/DONGTHAP-SD-720p/playlist.m3u8
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FBNC-HD-1080p/playlist.m3u8
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8?
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
 
 
 #EXTINF:0, group-title="KOREA",  K Plus
@@ -832,6 +839,8 @@ https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
 http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=v
 #EXTINF:-1 tvg-id="" tvg-name="CHANNEL[V]" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/1200px-Channel_V_Logo.svg.png" tvg-country="HK" tvg-url="" group-title="MUSIC",  CHANNEL [V]
 rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
+#EXTINF:-1 tvg-id="" tvg-name=" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MTV_Live_HD_2017_logo.svg/1200px-MTV_Live_HD_2017_logo.svg.png" tvg-country="HK" tvg-url="" group-title="MUSIC",  CHANNEL [V]
+https://cdn-laos.workpoint.news/hd-mtvlive_720/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mcm-top-fr.png" tvg-country="FR" tvg-url="" group-title="MUSIC",  MCM TOP
 http://ott-cdn.ucom.am/s49/index.m3u8
 #EXTINF:0 group-title="MUSIC",  M2O TV
