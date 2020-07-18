@@ -158,6 +158,13 @@ http://220.158.149.28:8180/live/TV00000000000000000034@HHZT
 #EXTINF:0 type="stream" channelId="529" group-title="NEWS" logo="https://cdn.tvpassport.com/image/station/240x135/arirang.png",  ARIRANG
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="SPORT",  BEIN SPORT-1
+https://tv4.chang55.com:446/live2/tv4ch36.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="SPORT",  BEIN SPORT-2
+https://tv4.chang55.com:446/live2/tv4ch73.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/06/Eurosport_logo_blue_background.png" group-title="SPORT",  EURO SPORT
+https://tv4.chang55.com:446/live2/tv4ch45.stream/chunks.m3u8
+
 #EXTINF:0 type="stream" channelId="1328" group-title="SPORT" logo="http://img.hplus.com.vn/355x200/poster/2019/08/16/721988-FOXsport.png",  FOX SPORT
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="170" group-title="SPORT" logo="http://img.hplus.com.vn/355x200/poster/2019/08/16/622510-foxsport2.png",  FOX SPORT 2
