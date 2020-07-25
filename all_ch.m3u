@@ -74,7 +74,10 @@ http://220.158.149.28:8180/live/TV00000000000000000066@HHZT
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/fhzxt.jpg" group-title="NEWS",  PHOENIX HD
 http://rr2.dens.tv/s/s21/index2.m3u8
 #EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/cgtnnews.jpg" group-title="NEWS",  CGTN
+http://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/cgtnnews.jpg" group-title="NEWS",  CGTN
 http://101.71.255.229:6610/zjhs/2/10001/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+
 #EXTINF:-1 tvg-id="Channel NewsAsia" tvg-name="Channel NewsAsia" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" group-title="NEWS",  CNA HD
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" group-title="NEWS",  CNA
@@ -502,8 +505,6 @@ http://220.158.149.28:8180/live/TV00000000000000000012@HHZT
 http://101.71.255.229:6610/zjhs/2/10088/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv17.jpg" group-title="CHINA",  CCTV 17
 http://220.158.149.28:8180/live/TV00000000000000000008@HHZT
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.parsatv.com/index_files/channels/cgtndoc.png" group-title="CHINA",  CGTN DOCUMENTARY
-http://220.158.149.28:8180/live/TV00000000000000000018@HHZT
 
 
 EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/fhxgt.jpg" group-title="CHINA",  PHOENIX HONGKONG
@@ -746,25 +747,12 @@ http://210.210.155.35/qwr9ew/s/s50/index2.m3u8
 http://210.210.155.35/qwr9ew/s/s50/index.m3u8
 #EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-language="Chinese" tvg-logo="https://www.lyngsat.com/logo/tv/tt/toonmax-tv-cn.png" group-title="KIDS",  TOON MAX
 http://rr2.dens.tv/s/s50/index2.m3u8
-#EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-language="Chinese" tvg-logo="https://www.lyngsat.com/logo/tv/tt/toonmax-tv-cn.png" group-title="KIDS",  TOON MAX
-http://111.40.205.76/PLTV/88888888/224/3221225657/index.m3u8
-#EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-language="Chinese" tvg-logo="https://www.lyngsat.com/logo/tv/tt/toonmax-tv-cn.png" group-title="KIDS",  TOON MAX
-http://101.71.255.229:6610/zjhs/2/10051/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/ymkt.jpg" group-title="KIDS",  YOU MAN
 http://220.158.149.28:8180/live/TV00000000000000000025@HHZT
 #EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/ymkt.jpg" group-title="KIDS",  YOU MAN
 http://101.71.255.229:6610/zjhs/2/10053/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/ymkt.jpg" group-title="KIDS",  YOU MAN
-http://111.40.205.76/PLTV/88888888/224/3221225656/index.m3u8
-#EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/ymkt.jpg" group-title="KIDS",  YOU MAN
-http://117.148.187.37/PLTV/88888888/224/3221226172/index.m3u8
-#EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/ymkt.jpg" group-title="KIDS",  YOU MAN
-http://121.31.30.90:8085/ysten-business/live/youmankaton/1.m3u8
-#EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/ymkt.jpg" group-title="KIDS",  YOU MAN
-http://121.31.30.90:8085/ysten-business/live/youmankaton/yst.m3u8
-#EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-language="Chinese" tvg-logo="http://www.tvyan.com/uploads/dianshi/ymkt.jpg" group-title="KIDS",  YOU MAN
-http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/youmankaton/1.m3u8
+
 
 #EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/kaku.jpg" group-title="KIDS",  BTV KAKU
 http://101.71.255.229:6610/zjhs/2/10031/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
@@ -788,16 +776,6 @@ http://220.158.149.28:8180/live/TV00000000000000000020@HHZT
 #EXTINF:-1  tvg-logo="https://www.tvchinese.net/uploads/tv/jykt.jpg" group-title="KIDS",  ANIWORLD
 http://101.71.255.229:6610/zjhs/2/10030/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-language="Chinese" tvg-logo="https://www.tvchinese.net/uploads/tv/jykt.jpg" group-title="KIDS",  ANIWORLD
-http://117.148.187.37/PLTV/88888888/224/3221226190/index.m3u8
-#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-language="Chinese" tvg-logo="https://www.tvchinese.net/uploads/tv/jykt.jpg" group-title="KIDS",  ANIWORLD
-http://121.31.30.90:8085/ysten-business/live/jinyingkaton/1.m3u8
-#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-language="Chinese" tvg-logo="https://www.tvchinese.net/uploads/tv/jykt.jpg" group-title="KIDS",  ANIWORLD
-http://121.31.30.90:8085/ysten-business/live/jinyingkaton/yst.m3u8
-#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-language="Chinese" tvg-logo="https://www.tvchinese.net/uploads/tv/jykt.jpg" group-title="KIDS",  ANIWORLD
-http://223.82.250.72/live/jinyingkaton/1.m3u8
-#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-language="Chinese" tvg-logo="https://www.tvchinese.net/uploads/tv/jykt.jpg" group-title="KIDS",  ANIWORLD
-http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
-#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-language="Chinese" tvg-logo="https://www.tvchinese.net/uploads/tv/jykt.jpg" group-title="KIDS",  ANIWORLD
 http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/jinyingkaton/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://www.animax-asia.com/sites/animax-asia.com/files/ct_custom_page_f_primary_image/animax-logo.jpg" tvg-country="ID" tvg-url="" group-title="KIDS",  ANIMAX
 http://210.210.155.35/dr9445/h/h144/02.m3u8
@@ -820,7 +798,7 @@ http://rr2.dens.tv/s/s30/index2.m3u8
 
 #EXTINF:0 tvg-logo="https://i-h1.pinimg.com/564x/8e/56/cd/8e56cdba9e19abf173ff387ae15ecce0.jpg" group-title="SCIENCE",  HISTORY
 http://203.153.218.28:9981/stream/channelid/1868154562?ticket=21CAD98B63EE6B1D16AFD5B33F7C68F48FA445CD&profile=pass
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/NatGeo_People_logo.png" group-title="SCIENCE",  NAT GEO People
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/NatGeo_People_logo.png" group-title="SCIENCE",  NAT GEO PEOPLE
 http://203.153.218.28:9981/stream/channelid/1114683377?ticket=39736C153BA658BB8604E39D479282644E09703E&profile=pass
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="SCIENCE",  NAT GEO
 http://220.158.149.28:8180/live/TV00000000000000000115@HHZT
@@ -852,14 +830,14 @@ http://rr.dens.tv/h/h01/index2.m3u8
 http://rr.dens.tv/h/h28/index2.m3u8
 #EXTINF:-1 tvg-logo="https://www.dens.tv/images/channel-logo/42.jpg" group-title="SCIENCE",  LIFE STYLE DENS
 http://rr.dens.tv/h/h28/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="SCIENCE",  CGTN CN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="SCIENCE",  CGTN DOCUMENTARY
+http://220.158.149.28:8180/live/TV00000000000000000018@HHZT
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="SCIENCE",  CGTN DOCUMENTARY
 http://210.210.155.35/qwr9ew/s/s20/02.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="SCIENCE",  CGTN CN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="SCIENCE",  CGTN DOCUMENTARY
 http://210.210.155.35/session/ffc58ebe-0755-11e9-9443-c81f66f89318/qwr9ew/s/s20/02.m3u8
-#EXTINF:-1 group-title="SCIENCE",  CGTN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/CGTN_Documentary_logo.png" group-title="SCIENCE",  CGTN DOCUMENTARY
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
-#EXTINF:-1 group-title="SCIENCE",  CGTN
-http://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:0 group-title="SCIENCE",  FASHION TV MIDNITE
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SCIENCE",  FASHION
@@ -919,10 +897,6 @@ http://stitcher.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472000114/master.m3u8
 #EXTINF:-1 group-title="NN",  PLUTO
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png" group-title="NN",  CINEMAX
 http://203.153.218.28:9981/stream/channelid/255605374?ticket=434549F6D027878D70C7F1F479D0C3495B16099D&profile=pass
-#EXTINF:-1 group-title="NN", YOU MAN
-http://39.134.65.74:80/wh7f454c46tw2588997493_937400034/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8?icpid=88888888&RTS=1583531261&from=1&hms_devid=127
-#EXTINF:-1 group-title="NN", YOU MAN
-http://39.134.65.74:80/wh7f454c46tw2588997493_937400034/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://www.nettv.live/uploads/18/1-1P426223225b6.jpg" group-title="NN",  NewTV未来电视 精品记录
 http://111.40.205.76/PLTV/88888888/224/3221225672/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://www.nettv.live/uploads/18/1-1P426223225b6.jpg" group-title="NN",  NewTV未来电视 精品记录
@@ -947,23 +921,13 @@ http://111.40.205.76/PLTV/88888888/224/3221225662/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/6uoNAAj.png" tvg-country="BR" tvg-url="" group-title="NN",  Discovery Kids
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverykids.smil/master.m3u8
 
-#EXTINF:0 tvg-country="CN" tvg-logo="https://i.imgur.com/HqScjKW.jpg" group-title="NN",CCTV 3,CCTV-3高清
-http://183.207.249.14/PLTV/3/224/3221225588/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CN" tvg-logo="https://i.imgur.com/BHUh7hq.jpg" group-title="NN",CCTV 1,CN | CCTV 1
-https://cctvakhwh5ca-cntv.akamaized.net/clive/cctv1_2/index.m3u8?checkedby:iptvcat.com
+
 #EXTINF:0 tvg-country="AU;CN" tvg-logo="http://www.rtvchannel.com.au/wp-content/uploads/2017/04/xshow_08.png,Mic_.2KNN9OHw1p.png.pagespeed.ce.2KNN9OHw1p.png" group-title="NN",Australia Rainbow TV,澳大利亚天和电视台
 http://rtvcdn.com.au:8082/TV_GG.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CN" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c8/CCTV-14_Logo.png" group-title="NN",CCTV-14 少儿频道,CCTV中国中央电视台-14 少儿
-http://111.40.205.76/PLTV/88888888/224/3221225732/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="NN",CCTV-14少儿
-http://121.31.30.90:8085/ysten-business/live/cctv-14/yst.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="NN",CCTV-News
-http://121.31.30.90:8085/ysten-business/live/cctv-9/1.m3u8?checkedby:iptvcat.com
+
+
 #EXTINF:0 tvg-country="CN" tvg-logo="https://i.imgur.com/tt45Gmm.jpg" group-title="NN",XMTV Star,厦门卫视XMTV Star
 http://cstvpull.live.wscdns.com/live/xiamen4.flv?checkedby:iptvcat.com
-
-#EXTINF:tvg-logo=“https://www.seeklogo.net/wp-content/uploads/2015/11/axn-logo-vector-download.jpg“ group-title="NN",外AXN HD
-http://45.126.83.51/uq2663/h/h09/01.m3u8
 
 #EXTINF:tvg-logo=““ group-title="NN",外PRIVE HD
 http://z5ams.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
